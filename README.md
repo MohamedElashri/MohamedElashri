@@ -25,9 +25,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElashri)](https://github.com/MohamedElashri)
 
-<a href="https://github.com/MohamedElashri">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElashri&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/MohamedElashri">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElashri&repo=convoychat" />
-</a>
