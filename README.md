@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 	<a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
 
+![Mohamed Elashri's github stats](https://github-readme-stats.vercel.app/api?username=MohamedElashri&show_icons=true&hide_border=true)
+
