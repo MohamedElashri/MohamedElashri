@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelashri&show_icons=true&theme=merko)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelashri&layout=compact&theme=merko)]
 
 <p align="center">
 	<a href="https://github.com/MohamedElashri"><img src="https://img.shields.io/github/followers/MohamedElashri.svg?label=GitHub&style=social" alt="GitHub"></a>
