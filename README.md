@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MohamedElashri/MohamedElashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I’m a particle physics graduate student at university of cinccinati, I'm doing research with 
 
