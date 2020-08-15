@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 	<a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
 
-![Mohamed Elashri's github stats](https://github-readme-stats.vercel.app/api?username=MohamedElashri&show_icons=true&hide_border=true)
+<a href="https://github.com/MohamedElashri/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
+
 
