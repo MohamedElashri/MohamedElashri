@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p float="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelashri&layout=compact&hide=html" alt="mohamedelashri"  />
-  <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  <img align="right" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png">
 </p>
 
 
