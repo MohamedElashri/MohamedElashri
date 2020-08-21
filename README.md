@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and selfhosted solutions**
-- 📫 How to reach me: **elashrmr@mail.uc.edu** or Twitter **[@MIBElashri]** 
+- 📫 How to reach me: **elashrmr@mail.uc.edu** or Twitter **@MIBElashri** 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like reading and I'm currently building reading 100 book per year on average!
 
