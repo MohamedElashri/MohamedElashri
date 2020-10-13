@@ -4,7 +4,6 @@
 
 I’m a particle physics graduate student at university of cinccinati, I'm doing resarch as part of NOvA experiment at Fermilab
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Monopole search at [NOvA](https://novaexperiment.fnal.gov/)
 - 🌱 I’m currently learning **Machine learning** 
