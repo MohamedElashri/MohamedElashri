@@ -4,6 +4,14 @@
 
 I’m a particle physics graduate student at university of cinccinati, I'm doing resarch as part of NOvA experiment at Fermilab
 
+<p align="center">
+  <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
+  <a href="https://twitter.com/MIBElashri"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
+  <a href="https://www.linkedin.com/in/mohamedelashri1/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
+  <a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+</p>
+
+
 
 - 🔭 I’m currently working on Monopole search at [NOvA](https://novaexperiment.fnal.gov/)
 - 🌱 I’m currently learning **Machine learning** 
