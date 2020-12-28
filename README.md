@@ -13,7 +13,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 
 
-- 🔭 I’m currently working on Magnetic monopole search at [NOvA](https://novaexperiment.fnal.gov/)
+- 🔭 I’m currently working on Magnetic Monopole search at [NOvA](https://novaexperiment.fnal.gov/)
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and selfhosted solutions**
