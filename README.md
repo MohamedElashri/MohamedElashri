@@ -10,8 +10,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
   <a href="https://www.linkedin.com/in/mohamedelashri1/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="melashri" data-color="#FF5F5F" data-emoji="" data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
+  <a href="https://www.buymeacoffee.com/melashri" target="_blank" rel="noreferrer nofollow">	
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >	
+    </a>	
 
 
 
