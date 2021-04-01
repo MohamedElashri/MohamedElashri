@@ -22,7 +22,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 - 💬 Ask me about **Particle Physics, Machine learning and self-hosting**
 - 📫 How to reach me: **elashrmr@mail.uc.edu** or Twitter **@MIBElashri** 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I like reading and I'm currently  reading 100 book per year on average!
+- ⚡ Fun fact: I like reading and I'm currently  reading 50 books per year on average!
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" />  
