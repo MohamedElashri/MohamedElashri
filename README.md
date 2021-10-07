@@ -10,9 +10,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
   <a href="https://www.linkedin.com/in/mohamedelashri1/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
-  <a href="https://www.buymeacoffee.com/melashri" target="_blank" rel="noreferrer nofollow">	
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >	
-    </a>	
 
 
 
