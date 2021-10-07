@@ -24,6 +24,8 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like reading and I'm currently  reading 50 books per year on average!
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+	
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" />  
