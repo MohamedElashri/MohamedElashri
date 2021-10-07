@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 7 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
-2. 🎉 Merged PR [#14](https://github.com/MohamedElashri/snibox-1/pull/14) in [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
-3. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-4. 🎉 Merged PR [#232](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/232) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
+1. 💪 Opened PR [#70](https://github.com/haxzie/snipp.in/pull/70) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
+2. 🚀 Pushed 12 commits to [MohamedElashri/snipp.in](https://github.com/MohamedElashri/snipp.in)
+3. 🎉 Merged PR [#14](https://github.com/MohamedElashri/snibox-1/pull/14) in [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
+4. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+5. 🎉 Merged PR [#232](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/232) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 <!--END_SECTION:activity-->
 
