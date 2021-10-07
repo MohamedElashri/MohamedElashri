@@ -57,9 +57,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 2 commits to [MohamedElashri/Jupyter-to-Markdown](https://github.com/MohamedElashri/Jupyter-to-Markdown)
-2. 💪 Opened PR [#70](https://github.com/haxzie/snipp.in/pull/70) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-3. 🚀 Pushed 12 commits to [MohamedElashri/snipp.in](https://github.com/MohamedElashri/snipp.in)
-4. 🎉 Merged PR [#14](https://github.com/MohamedElashri/snibox-1/pull/14) in [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
-5. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+2. ❌ Closed PR [#2](https://github.com/MohamedElashri/Jupyter-to-Markdown/pull/2) in [MohamedElashri/Jupyter-to-Markdown](https://github.com/MohamedElashri/Jupyter-to-Markdown)
+3. 🚀 Pushed 3 commits to [MohamedElashri/Machine-Learning-Engineering-for-Production-MLOps-Specialization](https://github.com/MohamedElashri/Machine-Learning-Engineering-for-Production-MLOps-Specialization)
+4. ❌ Reopened PR [#2](https://github.com/MohamedElashri/Jupyter-to-Markdown/pull/2) in [MohamedElashri/Jupyter-to-Markdown](https://github.com/MohamedElashri/Jupyter-to-Markdown)
+5. 🚀 Pushed 1 commit to [MohamedElashri/Jupyter-to-Markdown](https://github.com/MohamedElashri/Jupyter-to-Markdown)
 <!--END_SECTION:activity-->
 
