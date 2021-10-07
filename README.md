@@ -53,6 +53,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 	<a href="https://www.linkedin.com/in/mohamedelashri1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 7 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
