@@ -45,9 +45,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 
 [![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/blm.svg)](https://opensourceforcivilrights.com)
-<p float="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelashri&layout=compact&hide=html" alt="mohamedelashri"  />
-</p>
 
 
 <p align="center">
