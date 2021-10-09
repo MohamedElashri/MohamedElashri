@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 5 commits to [MohamedElashri/open-vscode](https://github.com/MohamedElashri/open-vscode)
+1. 🚀 Pushed 9 commits to [MohamedElashri/open-vscode](https://github.com/MohamedElashri/open-vscode)
 2. 🗣 Commented on [#36](https://github.com/gitpod-io/openvscode-server/issues/36) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
 3. 🚀 Pushed 3 commits to [MohamedElashri/open-vscode](https://github.com/MohamedElashri/open-vscode)
 4. 🎉 Merged PR [#2](https://github.com/MohamedElashri/open-vscode/pull/2) in [MohamedElashri/open-vscode](https://github.com/MohamedElashri/open-vscode)
