@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
+1. 🚀 Pushed 7 commits to [MohamedElashri/snapcode](https://github.com/MohamedElashri/snapcode)
 2. 🎉 Merged PR [#153](https://github.com/MohamedElashri/Zotero-Docker/pull/153) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
 3. 🚀 Pushed 13 commits to [MohamedElashri/open-vscode](https://github.com/MohamedElashri/open-vscode)
 4. 🗣 Commented on [#36](https://github.com/gitpod-io/openvscode-server/issues/36) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
