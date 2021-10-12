@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
-2. 🎉 Merged PR [#16](https://github.com/MohamedElashri/snibox-1/pull/16) in [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
-3. ❗️ Opened issue [#85](https://github.com/draivin/hsnips/issues/85) in [draivin/hsnips](https://github.com/draivin/hsnips)
-4. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-5. 🎉 Merged PR [#146](https://github.com/MohamedElashri/Zotero-Docker/pull/146) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
+1. 💪 Opened PR [#3](https://github.com/MohamedElashri/MathFX/pull/3) in [MohamedElashri/MathFX](https://github.com/MohamedElashri/MathFX)
+2. 🗣 Commented on [#1](https://github.com/Creator-SN/MathFX/issues/1) in [Creator-SN/MathFX](https://github.com/Creator-SN/MathFX)
+3. 🚀 Pushed 2 commits to [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
+4. 🎉 Merged PR [#16](https://github.com/MohamedElashri/snibox-1/pull/16) in [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
+5. ❗️ Opened issue [#85](https://github.com/draivin/hsnips/issues/85) in [draivin/hsnips](https://github.com/draivin/hsnips)
 <!--END_SECTION:activity-->
 
