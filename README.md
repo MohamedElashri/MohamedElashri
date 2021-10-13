@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 4 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
-2. 🎉 Merged PR [#26](https://github.com/MohamedElashri/dpaste/pull/26) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🚀 Pushed 1 commit to [MohamedElashri/Adguard](https://github.com/MohamedElashri/Adguard)
-4. 💪 Opened PR [#2](https://github.com/MohamedElashri/vscodium/pull/2) in [MohamedElashri/vscodium](https://github.com/MohamedElashri/vscodium)
-5. 🚀 Pushed 1 commit to [MohamedElashri/Overleaf-full](https://github.com/MohamedElashri/Overleaf-full)
+1. 🚀 Pushed 8 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
+2. 🎉 Merged PR [#2](https://github.com/MohamedElashri/Sharry/pull/2) in [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
+3. 🚀 Pushed 8 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
+4. 🎉 Merged PR [#26](https://github.com/MohamedElashri/dpaste/pull/26) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 1 commit to [MohamedElashri/Adguard](https://github.com/MohamedElashri/Adguard)
 <!--END_SECTION:activity-->
 
