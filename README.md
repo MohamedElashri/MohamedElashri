@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. 🚀 Pushed 4 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
 2. 🎉 Merged PR [#26](https://github.com/MohamedElashri/dpaste/pull/26) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
 3. 🚀 Pushed 1 commit to [MohamedElashri/Adguard](https://github.com/MohamedElashri/Adguard)
 4. 💪 Opened PR [#2](https://github.com/MohamedElashri/vscodium/pull/2) in [MohamedElashri/vscodium](https://github.com/MohamedElashri/vscodium)
