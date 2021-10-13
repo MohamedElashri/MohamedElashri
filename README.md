@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/Adguard](https://github.com/MohamedElashri/Adguard)
-2. 💪 Opened PR [#2](https://github.com/MohamedElashri/vscodium/pull/2) in [MohamedElashri/vscodium](https://github.com/MohamedElashri/vscodium)
-3. 🚀 Pushed 4 commits to [MohamedElashri/Overleaf-full](https://github.com/MohamedElashri/Overleaf-full)
-4. 💪 Opened PR [#3](https://github.com/MohamedElashri/MathFX/pull/3) in [MohamedElashri/MathFX](https://github.com/MohamedElashri/MathFX)
-5. 🗣 Commented on [#1](https://github.com/Creator-SN/MathFX/issues/1) in [Creator-SN/MathFX](https://github.com/Creator-SN/MathFX)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🎉 Merged PR [#26](https://github.com/MohamedElashri/dpaste/pull/26) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🚀 Pushed 1 commit to [MohamedElashri/Adguard](https://github.com/MohamedElashri/Adguard)
+4. 💪 Opened PR [#2](https://github.com/MohamedElashri/vscodium/pull/2) in [MohamedElashri/vscodium](https://github.com/MohamedElashri/vscodium)
+5. 🚀 Pushed 1 commit to [MohamedElashri/Overleaf-full](https://github.com/MohamedElashri/Overleaf-full)
 <!--END_SECTION:activity-->
 
