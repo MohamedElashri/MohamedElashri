@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/sagemathinc/cocalc-docker/issues/56) in [sagemathinc/cocalc-docker](https://github.com/sagemathinc/cocalc-docker)
-2. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🎉 Merged PR [#23](https://github.com/MohamedElashri/dpaste/pull/23) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. 🚀 Pushed 11 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
-5. 🎉 Merged PR [#2](https://github.com/MohamedElashri/Sharry/pull/2) in [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
+1. 🚀 Pushed 45 commits to [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+2. 🗣 Commented on [#56](https://github.com/sagemathinc/cocalc-docker/issues/56) in [sagemathinc/cocalc-docker](https://github.com/sagemathinc/cocalc-docker)
+3. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+4. 🎉 Merged PR [#23](https://github.com/MohamedElashri/dpaste/pull/23) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 1 commit to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
 <!--END_SECTION:activity-->
 
