@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/snapcode/pull/1) in [MohamedElashri/snapcode](https://github.com/MohamedElashri/snapcode)
-2. 🚀 Pushed 7 commits to [MohamedElashri/snapcode](https://github.com/MohamedElashri/snapcode)
-3. 🎉 Merged PR [#235](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/235) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-4. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🎉 Merged PR [#237](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/237) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+2. 🎉 Merged PR [#2](https://github.com/MohamedElashri/MohamedElashri/pull/2) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+3. ❌ Closed PR [#1](https://github.com/MohamedElashri/snapcode/pull/1) in [MohamedElashri/snapcode](https://github.com/MohamedElashri/snapcode)
+4. 🚀 Pushed 7 commits to [MohamedElashri/snapcode](https://github.com/MohamedElashri/snapcode)
+5. 🎉 Merged PR [#235](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/235) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 <!--END_SECTION:activity-->
 
