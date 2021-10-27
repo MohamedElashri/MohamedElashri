@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-2. 🎉 Merged PR [#118](https://github.com/MohamedElashri/Zotero-Docker/pull/118) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-3. 🚀 Pushed 4 commits to [MohamedElashri/Virtualbox](https://github.com/MohamedElashri/Virtualbox)
-4. 🎉 Merged PR [#240](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/240) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/zotero-scihub-1](https://github.com/MohamedElashri/zotero-scihub-1)
+2. 💪 Opened PR [#1](https://github.com/Alyw234237/sci-hub-remove-left-sidebar/pull/1) in [Alyw234237/sci-hub-remove-left-sidebar](https://github.com/Alyw234237/sci-hub-remove-left-sidebar)
+3. 🚀 Pushed 1 commit to [MohamedElashri/sci-hub-remove-left-sidebar](https://github.com/MohamedElashri/sci-hub-remove-left-sidebar)
+4. 💪 Opened PR [#2](https://github.com/brunneis/scihub-downloader/pull/2) in [brunneis/scihub-downloader](https://github.com/brunneis/scihub-downloader)
+5. 🚀 Pushed 1 commit to [MohamedElashri/scihub-downloader](https://github.com/MohamedElashri/scihub-downloader)
 <!--END_SECTION:activity-->
 
