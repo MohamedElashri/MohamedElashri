@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/pyscihub](https://github.com/MohamedElashri/pyscihub)
+1. 🚀 Pushed 4 commits to [MohamedElashri/pyscihub](https://github.com/MohamedElashri/pyscihub)
 2. 💪 Opened PR [#62](https://github.com/ethanwillis/zotero-scihub/pull/62) in [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
 3. 🚀 Pushed 3 commits to [MohamedElashri/zotero-scihub-1](https://github.com/MohamedElashri/zotero-scihub-1)
 4. 💪 Opened PR [#1](https://github.com/Alyw234237/sci-hub-remove-left-sidebar/pull/1) in [Alyw234237/sci-hub-remove-left-sidebar](https://github.com/Alyw234237/sci-hub-remove-left-sidebar)
