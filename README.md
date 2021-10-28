@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/MohamedElashri/blog-theme/pull/118) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
-2. 🚀 Pushed 8 commits to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
-3. 💪 Opened PR [#107](https://github.com/markkvdb/pyscihub/pull/107) in [markkvdb/pyscihub](https://github.com/markkvdb/pyscihub)
-4. 🚀 Pushed 6 commits to [MohamedElashri/pyscihub](https://github.com/MohamedElashri/pyscihub)
-5. 💪 Opened PR [#62](https://github.com/ethanwillis/zotero-scihub/pull/62) in [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
+1. 🚀 Pushed 1 commit to [MohamedElashri/ls-go-zsh](https://github.com/MohamedElashri/ls-go-zsh)
+2. 🎉 Merged PR [#118](https://github.com/MohamedElashri/blog-theme/pull/118) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+3. 🚀 Pushed 8 commits to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+4. 💪 Opened PR [#107](https://github.com/markkvdb/pyscihub/pull/107) in [markkvdb/pyscihub](https://github.com/markkvdb/pyscihub)
+5. 🚀 Pushed 1 commit to [MohamedElashri/pyscihub](https://github.com/MohamedElashri/pyscihub)
 <!--END_SECTION:activity-->
 
