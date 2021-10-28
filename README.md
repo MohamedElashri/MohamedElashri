@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 4 commits to [MohamedElashri/zsh-functions](https://github.com/MohamedElashri/zsh-functions)
+1. 🚀 Pushed 10 commits to [MohamedElashri/zsh-functions](https://github.com/MohamedElashri/zsh-functions)
 2. 🎉 Merged PR [#118](https://github.com/MohamedElashri/blog-theme/pull/118) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
 3. 🚀 Pushed 8 commits to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
 4. 💪 Opened PR [#107](https://github.com/markkvdb/pyscihub/pull/107) in [markkvdb/pyscihub](https://github.com/markkvdb/pyscihub)
