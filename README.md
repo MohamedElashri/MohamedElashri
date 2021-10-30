@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/focalboard/pull/1) in [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
-3. ❌ Closed NaN commits in [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
-4. 🎉 Merged PR [#104](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/104) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/IsingModel](https://github.com/MohamedElashri/IsingModel)
+1. ❌ Closed PR [#5](https://github.com/MohamedElashri/IsingModel/pull/5) in [MohamedElashri/IsingModel](https://github.com/MohamedElashri/IsingModel)
+2. 🚀 Pushed 1 commit to [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
+3. ❌ Closed PR [#1](https://github.com/MohamedElashri/focalboard/pull/1) in [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
+4. ❌ Closed NaN commits in [MohamedElashri/focalboard](https://github.com/MohamedElashri/focalboard)
+5. 🎉 Merged PR [#104](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/104) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 <!--END_SECTION:activity-->
 
