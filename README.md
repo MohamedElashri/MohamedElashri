@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MohamedElashri/snippet-box/pull/2) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-2. 🚀 Pushed 2 commits to [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-3. 🎉 Merged PR [#1](https://github.com/MohamedElashri/snippet-box/pull/1) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-4. 🚀 Pushed 5 commits to [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-5. ❌ Closed PR [#2](https://github.com/MohamedElashri/vscodium/pull/2) in [MohamedElashri/vscodium](https://github.com/MohamedElashri/vscodium)
+1. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+2. 🎉 Merged PR [#246](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/246) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+3. ❌ Closed PR [#2](https://github.com/MohamedElashri/snippet-box/pull/2) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
+4. 🚀 Pushed 2 commits to [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
+5. 🎉 Merged PR [#1](https://github.com/MohamedElashri/snippet-box/pull/1) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
 <!--END_SECTION:activity-->
 
