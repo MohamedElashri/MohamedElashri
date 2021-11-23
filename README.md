@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
+1. 🚀 Pushed 4 commits to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
 2. ❌ Closed PR [#2](https://github.com/MohamedElashri/kasm-centos/pull/2) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
 3. ❌ Closed PR [#4](https://github.com/MohamedElashri/kasm-centos/pull/4) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
 4. ❌ Closed PR [#3](https://github.com/MohamedElashri/kasm-centos/pull/3) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
