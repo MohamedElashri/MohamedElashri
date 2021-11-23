@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 20 commits to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
-2. 🎉 Merged PR [#267](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/267) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-3. 🚀 Pushed 3 commits to [MohamedElashri/Sharry](https://github.com/MohamedElashri/Sharry)
-4. 🎉 Merged PR [#242](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/242) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🎉 Merged PR [#265](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/265) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
+2. ❌ Closed PR [#2](https://github.com/MohamedElashri/kasm-centos/pull/2) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
+3. ❌ Closed PR [#4](https://github.com/MohamedElashri/kasm-centos/pull/4) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
+4. ❌ Closed PR [#3](https://github.com/MohamedElashri/kasm-centos/pull/3) in [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
+5. 🚀 Pushed 1 commit to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
 <!--END_SECTION:activity-->
 
