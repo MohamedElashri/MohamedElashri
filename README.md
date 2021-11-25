@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/kasmtech/KasmVNC/issues/40) in [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
-2. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🎉 Merged PR [#27](https://github.com/MohamedElashri/dpaste/pull/27) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. 🚀 Pushed 4 commits to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
-5. 🎉 Merged PR [#268](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/268) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
+2. 🗣 Commented on [#40](https://github.com/kasmtech/KasmVNC/issues/40) in [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
+3. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+4. 🎉 Merged PR [#27](https://github.com/MohamedElashri/dpaste/pull/27) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 1 commit to [MohamedElashri/kasm-centos](https://github.com/MohamedElashri/kasm-centos)
 <!--END_SECTION:activity-->
 
