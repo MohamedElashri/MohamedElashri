@@ -56,10 +56,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/shell-history/pull/1) in [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
-3. 🚀 Pushed 3 commits to [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
-4. 🗣 Commented on [#40](https://github.com/kasmtech/KasmVNC/issues/40) in [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
-5. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. ❌ Closed PR [#1](https://github.com/MohamedElashri/dot-scripts/pull/1) in [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
+2. 🚀 Pushed 4 commits to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
+3. ❌ Closed PR [#1](https://github.com/MohamedElashri/shell-history/pull/1) in [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
+4. 🚀 Pushed 3 commits to [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
+5. 🗣 Commented on [#40](https://github.com/kasmtech/KasmVNC/issues/40) in [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
 <!--END_SECTION:activity-->
 
