@@ -56,7 +56,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
 2. ❌ Closed PR [#1](https://github.com/MohamedElashri/shell-history/pull/1) in [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
 3. 🚀 Pushed 3 commits to [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
 4. 🗣 Commented on [#40](https://github.com/kasmtech/KasmVNC/issues/40) in [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
