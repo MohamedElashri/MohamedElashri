@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 6 commits to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
-2. 🎉 Merged PR [#270](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/270) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-3. 🚀 Pushed 3 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
-4. 🎉 Merged PR [#269](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/269) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. ❌ Closed PR [#1](https://github.com/MohamedElashri/dot-scripts/pull/1) in [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
+1. 💪 Opened PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+2. 🚀 Pushed 6 commits to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
+3. 🎉 Merged PR [#270](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/270) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+4. 🚀 Pushed 3 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+5. 🎉 Merged PR [#269](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/269) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 <!--END_SECTION:activity-->
 
