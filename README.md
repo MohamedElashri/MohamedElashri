@@ -58,7 +58,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
 2. 💪 Opened PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
 3. 🚀 Pushed 6 commits to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
 4. 🎉 Merged PR [#270](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/270) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
