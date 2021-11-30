@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 7 commits to [MohamedElashri/IsingModel](https://github.com/MohamedElashri/IsingModel)
-2. 💪 Opened PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-3. 🚀 Pushed 6 commits to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
-4. 🎉 Merged PR [#270](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/270) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🎉 Merged PR [#29](https://github.com/MohamedElashri/dpaste/pull/29) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🚀 Pushed 7 commits to [MohamedElashri/IsingModel](https://github.com/MohamedElashri/IsingModel)
+4. 💪 Opened PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+5. 🚀 Pushed 1 commit to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
 <!--END_SECTION:activity-->
 
