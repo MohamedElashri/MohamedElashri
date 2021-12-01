@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-2. 🎉 Merged PR [#5](https://github.com/MohamedElashri/cocalc-docker/pull/5) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-3. 💪 Opened PR [#5](https://github.com/MohamedElashri/cocalc-docker/pull/5) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-4. ❌ Closed PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-5. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. ❌ Closed PR [#7](https://github.com/MohamedElashri/cocalc-docker/pull/7) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+2. 🚀 Pushed 1 commit to [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+3. ❌ Closed PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+4. ❌ Reopened PR [#4](https://github.com/MohamedElashri/cocalc-docker/pull/4) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+5. ❌ Closed PR [#6](https://github.com/MohamedElashri/cocalc-docker/pull/6) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
 <!--END_SECTION:activity-->
 
