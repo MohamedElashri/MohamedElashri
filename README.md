@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/snipp.in](https://github.com/MohamedElashri/snipp.in)
-2. 🗣 Commented on [#76](https://github.com/haxzie/snipp.in/issues/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-3. 💪 Opened NaN commits in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-4. ❌ Closed PR [#7](https://github.com/MohamedElashri/cocalc-docker/pull/7) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
+1. 🎉 Merged PR [#28](https://github.com/MohamedElashri/dpaste/pull/28) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🚀 Pushed 3 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🗣 Commented on [#76](https://github.com/haxzie/snipp.in/issues/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
+4. 💪 Opened PR [#76](https://github.com/haxzie/snipp.in/pull/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
+5. 🚀 Pushed 1 commit to [MohamedElashri/snipp.in](https://github.com/MohamedElashri/snipp.in)
 <!--END_SECTION:activity-->
 
