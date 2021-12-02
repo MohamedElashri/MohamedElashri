@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/MohamedElashri/dpaste/pull/28) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-2. 🚀 Pushed 3 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🗣 Commented on [#76](https://github.com/haxzie/snipp.in/issues/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-4. 💪 Opened PR [#76](https://github.com/haxzie/snipp.in/pull/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-5. 🚀 Pushed 1 commit to [MohamedElashri/snipp.in](https://github.com/MohamedElashri/snipp.in)
+1. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+2. 🎉 Merged PR [#271](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/271) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+3. 🎉 Merged PR [#28](https://github.com/MohamedElashri/dpaste/pull/28) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+4. 🚀 Pushed 3 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🗣 Commented on [#76](https://github.com/haxzie/snipp.in/issues/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
 <!--END_SECTION:activity-->
 
