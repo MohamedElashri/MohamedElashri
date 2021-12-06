@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/statuspage/pull/1) in [MohamedElashri/statuspage](https://github.com/MohamedElashri/statuspage)
-2. 🚀 Pushed 3 commits to [MohamedElashri/statuspage](https://github.com/MohamedElashri/statuspage)
-3. ❌ Closed PR [#8](https://github.com/MohamedElashri/cocalc-docker/pull/8) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-4. 💪 Opened PR [#9](https://github.com/MohamedElashri/cocalc-docker/pull/9) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-5. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/monitor/issues/3) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#3](https://github.com/MohamedElashri/monitor/issues/3) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🗣 Commented on [#343](https://github.com/upptime/upptime/issues/343) in [upptime/upptime](https://github.com/upptime/upptime)
 <!--END_SECTION:activity-->
 
