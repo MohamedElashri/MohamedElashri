@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 23 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Closed issue [#4](https://github.com/MohamedElashri/snippet-box/issues/4) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-3. ❗️ Closed issue [#3](https://github.com/MohamedElashri/snippet-box/issues/3) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
-4. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🚀 Pushed 1 commit to [MohamedElashri/Hubble](https://github.com/MohamedElashri/Hubble)
+1. 🚀 Pushed 7 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. 🎉 Merged PR [#274](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/274) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+3. 🚀 Pushed 28 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Closed issue [#4](https://github.com/MohamedElashri/snippet-box/issues/4) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
+5. ❗️ Closed issue [#3](https://github.com/MohamedElashri/snippet-box/issues/3) in [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
 <!--END_SECTION:activity-->
 
