@@ -58,7 +58,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 11 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
 3. 🗣 Commented on [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
 4. 🚀 Pushed 7 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
