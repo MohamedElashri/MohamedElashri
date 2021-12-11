@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 11 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
-3. 🗣 Commented on [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
-4. 🚀 Pushed 7 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🎉 Merged PR [#274](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/274) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🎉 Merged PR [#30](https://github.com/MohamedElashri/dpaste/pull/30) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Closed issue [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
+5. 🗣 Commented on [#3](https://github.com/MohamedElashri/Snibox/issues/3) in [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
 <!--END_SECTION:activity-->
 
