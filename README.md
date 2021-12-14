@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 6 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#238](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/238) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-3. 🚀 Pushed 21 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🗣 Commented on [#76](https://github.com/haxzie/snipp.in/issues/76) in [haxzie/snipp.in](https://github.com/haxzie/snipp.in)
-5. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#5](https://github.com/MohamedElashri/monitor/issues/5) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 6 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#238](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/238) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+5. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
