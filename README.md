@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+1. 🚀 Pushed 10 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-3. ❌ Closed NaN commits in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-4. ❗️ Closed issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🗣 Commented on [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 1 commit to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+4. ❌ Closed NaN commits in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+5. ❗️ Closed issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
