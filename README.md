@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 20 commits to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-2. ❗️ Opened issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 💪 Opened PR [#10](https://github.com/MohamedElashri/cocalc-docker/pull/10) in [MohamedElashri/cocalc-docker](https://github.com/MohamedElashri/cocalc-docker)
-5. ❌ Closed PR [#147](https://github.com/sagemathinc/cocalc-docker/pull/147) in [sagemathinc/cocalc-docker](https://github.com/sagemathinc/cocalc-docker)
+1. 🚀 Pushed 4 commits to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+2. ❗️ Closed issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 20 commits to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+5. ❗️ Opened issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
