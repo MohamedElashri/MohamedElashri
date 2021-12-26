@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-2. 🚀 Pushed 13 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🚀 Pushed 1 commit to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-4. ❌ Closed NaN commits in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-5. ❗️ Closed issue [#7](https://github.com/MohamedElashri/monitor/issues/7) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. ❌ Closed PR [#1](https://github.com/MohamedElashri/panleaf/pull/1) in [MohamedElashri/panleaf](https://github.com/MohamedElashri/panleaf)
+2. 🚀 Pushed 1 commit to [MohamedElashri/panleaf](https://github.com/MohamedElashri/panleaf)
+3. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+4. 🚀 Pushed 13 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🚀 Pushed 1 commit to [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
 <!--END_SECTION:activity-->
 
