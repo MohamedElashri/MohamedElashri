@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-2. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❌ Closed PR [#1](https://github.com/MohamedElashri/Hydrogen-Atom/pull/1) in [MohamedElashri/Hydrogen-Atom](https://github.com/MohamedElashri/Hydrogen-Atom)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/overleaf-git/pull/1) in [MohamedElashri/overleaf-git](https://github.com/MohamedElashri/overleaf-git)
-5. 🚀 Pushed 1 commit to [MohamedElashri/overleaf-git](https://github.com/MohamedElashri/overleaf-git)
+1. 🚀 Pushed 4 commits to [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
+2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❌ Closed PR [#1](https://github.com/MohamedElashri/Hydrogen-Atom/pull/1) in [MohamedElashri/Hydrogen-Atom](https://github.com/MohamedElashri/Hydrogen-Atom)
+5. ❌ Closed PR [#1](https://github.com/MohamedElashri/overleaf-git/pull/1) in [MohamedElashri/overleaf-git](https://github.com/MohamedElashri/overleaf-git)
 <!--END_SECTION:activity-->
 
