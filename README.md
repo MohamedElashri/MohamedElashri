@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/overleaf-sync-action/pull/1) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
-2. ❌ Closed PR [#2](https://github.com/MohamedElashri/overleaf-sync-action/pull/2) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
-3. 🚀 Pushed 16 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/overleaf-sync-action/pull/1) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
+3. ❌ Closed PR [#2](https://github.com/MohamedElashri/overleaf-sync-action/pull/2) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
+4. 🚀 Pushed 16 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
 <!--END_SECTION:activity-->
 
