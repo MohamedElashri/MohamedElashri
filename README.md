@@ -58,7 +58,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 11 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 2. ❌ Closed PR [#1](https://github.com/MohamedElashri/overleaf-sync-action/pull/1) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
 3. ❌ Closed PR [#2](https://github.com/MohamedElashri/overleaf-sync-action/pull/2) in [MohamedElashri/overleaf-sync-action](https://github.com/MohamedElashri/overleaf-sync-action)
 4. 🚀 Pushed 16 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
