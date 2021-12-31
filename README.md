@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 21 commits to [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/filters/pull/1) in [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
-3. 🚀 Pushed 9 commits to [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
-4. ❗️ Closed issue [#1890](https://github.com/AdguardTeam/AdguardForiOS/issues/1890) in [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS)
-5. 🗣 Commented on [#1890](https://github.com/AdguardTeam/AdguardForiOS/issues/1890) in [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#8](https://github.com/MohamedElashri/monitor/issues/8) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 21 commits to [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
+4. ❌ Closed PR [#1](https://github.com/MohamedElashri/filters/pull/1) in [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
+5. 🚀 Pushed 1 commit to [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
 <!--END_SECTION:activity-->
 
