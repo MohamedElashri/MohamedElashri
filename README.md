@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#32](https://github.com/MohamedElashri/dpaste/pull/32) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🚀 Pushed 5 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. ❗️ Opened issue [#1890](https://github.com/AdguardTeam/AdguardForiOS/issues/1890) in [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS)
-5. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. ❗️ Closed issue [#1890](https://github.com/AdguardTeam/AdguardForiOS/issues/1890) in [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS)
+2. 🗣 Commented on [#1890](https://github.com/AdguardTeam/AdguardForiOS/issues/1890) in [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS)
+3. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#32](https://github.com/MohamedElashri/dpaste/pull/32) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
 <!--END_SECTION:activity-->
 
