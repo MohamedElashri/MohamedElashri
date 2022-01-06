@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/ublacklist/pull/1) in [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
-3. 🚀 Pushed 5 commits to [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
-4. ❗️ Opened issue [#5](https://github.com/sanketpatrikar/hn-search-blacklist/issues/5) in [sanketpatrikar/hn-search-blacklist](https://github.com/sanketpatrikar/hn-search-blacklist)
-5. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🎉 Merged PR [#34](https://github.com/MohamedElashri/dpaste/pull/34) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❌ Closed PR [#1](https://github.com/MohamedElashri/ublacklist/pull/1) in [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
+5. 🚀 Pushed 1 commit to [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
 <!--END_SECTION:activity-->
 
