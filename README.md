@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/arthuredelstein/privacytests.org/issues/66) in [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
-2. 🚀 Pushed 27 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🎉 Merged PR [#34](https://github.com/MohamedElashri/dpaste/pull/34) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❌ Closed PR [#1](https://github.com/MohamedElashri/ublacklist/pull/1) in [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
+1. 🚀 Pushed 6 commits to [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
+2. 🗣 Commented on [#66](https://github.com/arthuredelstein/privacytests.org/issues/66) in [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
+3. 🚀 Pushed 27 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#34](https://github.com/MohamedElashri/dpaste/pull/34) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
