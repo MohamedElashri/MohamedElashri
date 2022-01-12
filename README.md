@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 13 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#37](https://github.com/MohamedElashri/dpaste/pull/37) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🚀 Pushed 67 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/dracula/pull/1) in [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
-5. 🚀 Pushed 1 commit to [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
+1. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
+2. 🚀 Pushed 16 commits to [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
+3. 🎉 Merged PR [#37](https://github.com/MohamedElashri/dpaste/pull/37) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+4. 🚀 Pushed 67 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❌ Closed PR [#1](https://github.com/MohamedElashri/dracula/pull/1) in [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
 <!--END_SECTION:activity-->
 
