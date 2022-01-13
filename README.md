@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 11 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 1 commit to [MohamedElashri/shell-history](https://github.com/MohamedElashri/shell-history)
 2. ❗️ Closed issue [#3](https://github.com/MohamedElashri/nopyter/issues/3) in [MohamedElashri/nopyter](https://github.com/MohamedElashri/nopyter)
-3. 🚀 Pushed 16 commits to [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
-4. 🎉 Merged PR [#37](https://github.com/MohamedElashri/dpaste/pull/37) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 16 commits to [MohamedElashri/dracula](https://github.com/MohamedElashri/dracula)
+5. 🎉 Merged PR [#37](https://github.com/MohamedElashri/dpaste/pull/37) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
 <!--END_SECTION:activity-->
 
