@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/rishavanand/github-profilinator/pull/87) in [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
-2. 🚀 Pushed 3 commits to [MohamedElashri/github-profilinator](https://github.com/MohamedElashri/github-profilinator)
-3. 🎉 Merged PR [#281](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/281) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-4. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🎉 Merged PR [#36](https://github.com/MohamedElashri/dpaste/pull/36) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. 💪 Opened PR [#87](https://github.com/rishavanand/github-profilinator/pull/87) in [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
+3. 🚀 Pushed 3 commits to [MohamedElashri/github-profilinator](https://github.com/MohamedElashri/github-profilinator)
+4. 🎉 Merged PR [#281](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/281) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
