@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 9 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 💪 Opened PR [#87](https://github.com/rishavanand/github-profilinator/pull/87) in [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
-3. 🚀 Pushed 3 commits to [MohamedElashri/github-profilinator](https://github.com/MohamedElashri/github-profilinator)
-4. 🎉 Merged PR [#281](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/281) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 5 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Closed issue [#9](https://github.com/MohamedElashri/monitor/issues/9) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#9](https://github.com/MohamedElashri/monitor/issues/9) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Opened issue [#9](https://github.com/MohamedElashri/monitor/issues/9) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
