@@ -58,7 +58,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 22 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 24 commits to [MohamedElashri/Snibox](https://github.com/MohamedElashri/Snibox)
 2. 🎉 Merged PR [#287](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/287) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 3. 🚀 Pushed 23 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 4. 🎉 Merged PR [#284](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/284) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
