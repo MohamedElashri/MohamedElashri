@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#1](https://github.com/MohamedElashri/hadd-parallel/pull/1) in [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
-3. 🚀 Pushed 22 commits to [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
-4. 🎉 Merged PR [#276](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/276) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#11](https://github.com/MohamedElashri/monitor/issues/11) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#1](https://github.com/MohamedElashri/hadd-parallel/pull/1) in [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
+5. 🚀 Pushed 1 commit to [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
 <!--END_SECTION:activity-->
 
