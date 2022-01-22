@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 💪 Opened PR [#2840](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2840) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. 🚀 Pushed 4 commits to [MohamedElashri/awesome-selfhosted](https://github.com/MohamedElashri/awesome-selfhosted)
-4. ❗️ Closed issue [#11](https://github.com/MohamedElashri/monitor/issues/11) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🗣 Commented on [#11](https://github.com/MohamedElashri/monitor/issues/11) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 2 commits to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+2. 🎉 Merged PR [#120](https://github.com/MohamedElashri/blog-theme/pull/120) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 💪 Opened PR [#2840](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2840) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. 🚀 Pushed 1 commit to [MohamedElashri/awesome-selfhosted](https://github.com/MohamedElashri/awesome-selfhosted)
 <!--END_SECTION:activity-->
 
