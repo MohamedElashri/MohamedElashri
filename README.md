@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 18 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#120](https://github.com/MohamedElashri/blog-theme/pull/120) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
-3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 💪 Opened PR [#2840](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2840) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. 🚀 Pushed 1 commit to [MohamedElashri/awesome-selfhosted](https://github.com/MohamedElashri/awesome-selfhosted)
+1. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+2. 🎉 Merged PR [#291](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/291) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+3. 🚀 Pushed 18 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#120](https://github.com/MohamedElashri/blog-theme/pull/120) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
