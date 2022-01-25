@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#13](https://github.com/goranmoomin/HackerNews/issues/13) in [goranmoomin/HackerNews](https://github.com/goranmoomin/HackerNews)
-3. 🚀 Pushed 15 commits to [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
-4. 🎉 Merged PR [#291](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/291) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🗣 Commented on [#13](https://github.com/goranmoomin/HackerNews/issues/13) in [goranmoomin/HackerNews](https://github.com/goranmoomin/HackerNews)
+2. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. ❗️ Opened issue [#13](https://github.com/goranmoomin/HackerNews/issues/13) in [goranmoomin/HackerNews](https://github.com/goranmoomin/HackerNews)
+4. 🚀 Pushed 15 commits to [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
+5. 🎉 Merged PR [#291](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/291) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
 <!--END_SECTION:activity-->
 
