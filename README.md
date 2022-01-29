@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/MohamedElashri/Zotero-Docker/issues/161) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-2. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-3. 🎉 Merged PR [#161](https://github.com/MohamedElashri/Zotero-Docker/pull/161) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-4. 🚀 Pushed 53 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🗣 Commented on [#13](https://github.com/goranmoomin/HackerNews/issues/13) in [goranmoomin/HackerNews](https://github.com/goranmoomin/HackerNews)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#12](https://github.com/MohamedElashri/monitor/issues/12) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🗣 Commented on [#161](https://github.com/MohamedElashri/Zotero-Docker/issues/161) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
+5. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
 <!--END_SECTION:activity-->
 
