@@ -59,9 +59,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#12](https://github.com/MohamedElashri/monitor/issues/12) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🗣 Commented on [#161](https://github.com/MohamedElashri/Zotero-Docker/issues/161) in [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
-5. 🚀 Pushed 2 commits to [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker)
+2. ❗️ Closed issue [#12](https://github.com/MohamedElashri/monitor/issues/12) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#12](https://github.com/MohamedElashri/monitor/issues/12) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Opened issue [#12](https://github.com/MohamedElashri/monitor/issues/12) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
