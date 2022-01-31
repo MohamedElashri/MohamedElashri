@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🎉 Merged PR [#292](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/292) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
-3. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🎉 Merged PR [#25](https://github.com/MohamedElashri/dpaste/pull/25) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-5. 🗣 Commented on [#25](https://github.com/MohamedElashri/dpaste/issues/25) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. 🚀 Pushed 2 commits to [MohamedElashri/MohamedElashri.github.io](https://github.com/MohamedElashri/MohamedElashri.github.io)
+2. ❌ Closed PR [#19](https://github.com/MohamedElashri/MohamedElashri.github.io/pull/19) in [MohamedElashri/MohamedElashri.github.io](https://github.com/MohamedElashri/MohamedElashri.github.io)
+3. 🚀 Pushed 15 commits to [MohamedElashri/MohamedElashri.github.io](https://github.com/MohamedElashri/MohamedElashri.github.io)
+4. 🎉 Merged PR [#292](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/292) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
