@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 💪 Opened PR [#374](https://github.com/awesome-foss/awesome-sysadmin/pull/374) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-3. 🚀 Pushed 6 commits to [MohamedElashri/awesome-sysadmin](https://github.com/MohamedElashri/awesome-sysadmin)
-4. 🎉 Merged PR [#21](https://github.com/MohamedElashri/MohamedElashri.github.io/pull/21) in [MohamedElashri/MohamedElashri.github.io](https://github.com/MohamedElashri/MohamedElashri.github.io)
-5. 💪 Opened PR [#21](https://github.com/MohamedElashri/MohamedElashri.github.io/pull/21) in [MohamedElashri/MohamedElashri.github.io](https://github.com/MohamedElashri/MohamedElashri.github.io)
+1. 🚀 Pushed 8 commits to [MohamedElashri/colab-terminal](https://github.com/MohamedElashri/colab-terminal)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/colab-terminal/pull/1) in [MohamedElashri/colab-terminal](https://github.com/MohamedElashri/colab-terminal)
+3. 🚀 Pushed 4 commits to [MohamedElashri/colab-terminal](https://github.com/MohamedElashri/colab-terminal)
+4. 💪 Opened PR [#374](https://github.com/awesome-foss/awesome-sysadmin/pull/374) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+5. 🚀 Pushed 1 commit to [MohamedElashri/awesome-sysadmin](https://github.com/MohamedElashri/awesome-sysadmin)
 <!--END_SECTION:activity-->
 
