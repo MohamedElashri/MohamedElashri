@@ -58,10 +58,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🗣 Commented on [#107](https://github.com/ml-tooling/ml-workspace/issues/107) in [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)
-3. 🚀 Pushed 4 commits to [MohamedElashri/panleaf](https://github.com/MohamedElashri/panleaf)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/colab-shell/pull/1) in [MohamedElashri/colab-shell](https://github.com/MohamedElashri/colab-shell)
-5. 🚀 Pushed 1 commit to [MohamedElashri/colab-shell](https://github.com/MohamedElashri/colab-shell)
+1. 🚀 Pushed 2 commits to [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+2. 🎉 Merged PR [#39](https://github.com/MohamedElashri/dpaste/pull/39) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+3. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🗣 Commented on [#107](https://github.com/ml-tooling/ml-workspace/issues/107) in [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)
+5. 🚀 Pushed 3 commits to [MohamedElashri/panleaf](https://github.com/MohamedElashri/panleaf)
 <!--END_SECTION:activity-->
 
