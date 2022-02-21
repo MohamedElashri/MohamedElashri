@@ -23,7 +23,8 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like reading and I'm currently  reading 50 books per year on average!
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) </p>
+
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
