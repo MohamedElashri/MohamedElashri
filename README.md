@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 110 commits to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/academic-website-template/pull/1) in [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
-3. 💪 Opened PR [#1](https://github.com/sbryngelson/academic-website-template/pull/1) in [sbryngelson/academic-website-template](https://github.com/sbryngelson/academic-website-template)
-4. 🚀 Pushed 15 commits to [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
-5. 🎉 Merged PR [#303](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/303) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+1. ❗️ Opened issue [#555](https://github.com/ktraunmueller/Compositor/issues/555) in [ktraunmueller/Compositor](https://github.com/ktraunmueller/Compositor)
+2. 🚀 Pushed 110 commits to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+3. ❌ Closed PR [#1](https://github.com/MohamedElashri/academic-website-template/pull/1) in [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
+4. 💪 Opened PR [#1](https://github.com/sbryngelson/academic-website-template/pull/1) in [sbryngelson/academic-website-template](https://github.com/sbryngelson/academic-website-template)
+5. 🚀 Pushed 1 commit to [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
 <!--END_SECTION:activity-->
 
