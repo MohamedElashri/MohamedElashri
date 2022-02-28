@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 8 commits to [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
-2. ❌ Closed PR [#2](https://github.com/MohamedElashri/github-fork/pull/2) in [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
-3. ❌ Closed PR [#1](https://github.com/MohamedElashri/github-fork/pull/1) in [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
-4. 🚀 Pushed 55 commits to [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
-5. ❗️ Opened issue [#555](https://github.com/ktraunmueller/Compositor/issues/555) in [ktraunmueller/Compositor](https://github.com/ktraunmueller/Compositor)
+1. 🚀 Pushed 52 commits to [MohamedElashri/github_fork_info](https://github.com/MohamedElashri/github_fork_info)
+2. ❗️ Opened issue [#555](https://github.com/ktraunmueller/Compositor/issues/555) in [ktraunmueller/Compositor](https://github.com/ktraunmueller/Compositor)
+3. 🚀 Pushed 110 commits to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+4. ❌ Closed PR [#1](https://github.com/MohamedElashri/academic-website-template/pull/1) in [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
+5. 💪 Opened PR [#1](https://github.com/sbryngelson/academic-website-template/pull/1) in [sbryngelson/academic-website-template](https://github.com/sbryngelson/academic-website-template)
 <!--END_SECTION:activity-->
 
