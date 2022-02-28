@@ -62,7 +62,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
+1. 🚀 Pushed 5 commits to [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
 2. ❌ Closed PR [#2](https://github.com/MohamedElashri/github-fork/pull/2) in [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
 3. ❌ Closed PR [#1](https://github.com/MohamedElashri/github-fork/pull/1) in [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
 4. 🚀 Pushed 55 commits to [MohamedElashri/github-fork](https://github.com/MohamedElashri/github-fork)
