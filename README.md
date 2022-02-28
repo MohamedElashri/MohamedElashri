@@ -62,7 +62,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 52 commits to [MohamedElashri/github_fork_info](https://github.com/MohamedElashri/github_fork_info)
+1. 🚀 Pushed 54 commits to [MohamedElashri/dot-scripts](https://github.com/MohamedElashri/dot-scripts)
 2. ❗️ Opened issue [#555](https://github.com/ktraunmueller/Compositor/issues/555) in [ktraunmueller/Compositor](https://github.com/ktraunmueller/Compositor)
 3. 🚀 Pushed 110 commits to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
 4. ❌ Closed PR [#1](https://github.com/MohamedElashri/academic-website-template/pull/1) in [MohamedElashri/academic-website-template](https://github.com/MohamedElashri/academic-website-template)
