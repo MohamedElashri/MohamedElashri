@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/play_with_ROOT/pull/1) in [MohamedElashri/play_with_ROOT](https://github.com/MohamedElashri/play_with_ROOT)
-2. 🚀 Pushed 16 commits to [MohamedElashri/play_with_ROOT](https://github.com/MohamedElashri/play_with_ROOT)
-3. ❗️ Opened issue [#829](https://github.com/PPHubApp/PPHub-Feedback/issues/829) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-4. 🚀 Pushed 35 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🎉 Merged PR [#4](https://github.com/MohamedElashri/MohamedElashri/pull/4) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+1. 🚀 Pushed 11 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/play_with_ROOT/pull/1) in [MohamedElashri/play_with_ROOT](https://github.com/MohamedElashri/play_with_ROOT)
+3. 🚀 Pushed 16 commits to [MohamedElashri/play_with_ROOT](https://github.com/MohamedElashri/play_with_ROOT)
+4. ❗️ Opened issue [#829](https://github.com/PPHubApp/PPHub-Feedback/issues/829) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
