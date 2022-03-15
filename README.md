@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 71 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🗣 Commented on [#3](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io/issues/3) in [LHCb-Cincinnati/LHCb-Cincinnati.github.io](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io)
-3. ❗️ Closed issue [#3](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io/issues/3) in [LHCb-Cincinnati/LHCb-Cincinnati.github.io](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io)
-4. 🚀 Pushed 8 commits to [LHCb-Cincinnati/LHCb-Cincinnati.github.io](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io)
-5. ❗️ Opened issue [#4](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io/issues/4) in [LHCb-Cincinnati/LHCb-Cincinnati.github.io](https://github.com/LHCb-Cincinnati/LHCb-Cincinnati.github.io)
+1. 🚀 Pushed 6 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#21](https://github.com/MohamedElashri/monitor/issues/21) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. ❗️ Opened issue [#20](https://github.com/MohamedElashri/monitor/issues/20) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Opened issue [#19](https://github.com/MohamedElashri/monitor/issues/19) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Opened issue [#18](https://github.com/MohamedElashri/monitor/issues/18) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
