@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MohamedElashri/ublacklist/pull/2) in [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
-2. ❌ Closed PR [#2](https://github.com/MohamedElashri/filters/pull/2) in [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
-3. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❌ Closed PR [#2](https://github.com/MohamedElashri/MathFX/pull/2) in [MohamedElashri/MathFX](https://github.com/MohamedElashri/MathFX)
-5. ❌ Closed PR [#1](https://github.com/MohamedElashri/MathFX/pull/1) in [MohamedElashri/MathFX](https://github.com/MohamedElashri/MathFX)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#22](https://github.com/MohamedElashri/monitor/issues/22) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. ❌ Closed PR [#2](https://github.com/MohamedElashri/ublacklist/pull/2) in [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
+4. ❌ Closed PR [#2](https://github.com/MohamedElashri/filters/pull/2) in [MohamedElashri/filters](https://github.com/MohamedElashri/filters)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
