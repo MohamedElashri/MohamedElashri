@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#33](https://github.com/MohamedElashri/monitor/issues/33) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❗️ Closed issue [#3](https://github.com/MohamedElashri/MohamedElashri/issues/3) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
-4. 🚀 Pushed 2 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
-5. ❌ Closed PR [#3](https://github.com/MohamedElashri/ME-Resume/pull/3) in [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+1. 🚀 Pushed 2 commits to [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+2. 🎉 Merged PR [#305](https://github.com/MohamedElashri/SwiftLaTeX-Docker/pull/305) in [MohamedElashri/SwiftLaTeX-Docker](https://github.com/MohamedElashri/SwiftLaTeX-Docker)
+3. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Opened issue [#33](https://github.com/MohamedElashri/monitor/issues/33) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Closed issue [#3](https://github.com/MohamedElashri/MohamedElashri/issues/3) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
 <!--END_SECTION:activity-->
 
