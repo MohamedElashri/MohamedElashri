@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Closed issue [#32](https://github.com/MohamedElashri/monitor/issues/32) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🗣 Commented on [#32](https://github.com/MohamedElashri/monitor/issues/32) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🚀 Pushed 16 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Opened issue [#32](https://github.com/MohamedElashri/monitor/issues/32) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. ❗️ Closed issue [#3](https://github.com/MohamedElashri/MohamedElashri/issues/3) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+2. 🚀 Pushed 2 commits to [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri)
+3. ❌ Closed PR [#3](https://github.com/MohamedElashri/ME-Resume/pull/3) in [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+4. 🚀 Pushed 4 commits to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+5. ❗️ Closed issue [#32](https://github.com/MohamedElashri/monitor/issues/32) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
