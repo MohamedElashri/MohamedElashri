@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🗣 Commented on [#109](https://github.com/ml-tooling/ml-workspace/issues/109) in [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)
-3. 🗣 Commented on [#70](https://github.com/ethanwillis/zotero-scihub/issues/70) in [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
-4. 🚀 Pushed 31 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Closed issue [#43](https://github.com/MohamedElashri/monitor/issues/43) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🗣 Commented on [#108](https://github.com/ml-tooling/ml-workspace/issues/108) in [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)
+2. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#109](https://github.com/ml-tooling/ml-workspace/issues/109) in [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)
+4. 🗣 Commented on [#70](https://github.com/ethanwillis/zotero-scihub/issues/70) in [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
