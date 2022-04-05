@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/Disappearing_Tracks/pull/1) in [MohamedElashri/Disappearing_Tracks](https://github.com/MohamedElashri/Disappearing_Tracks)
-2. 🚀 Pushed 31 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🎉 Merged PR [#41](https://github.com/MohamedElashri/dpaste/pull/41) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. 🚀 Pushed 116 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🎉 Merged PR [#135](https://github.com/MohamedElashri/blog-theme/pull/135) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+1. 🚀 Pushed 1 commit to [MohamedElashri/snibox-1](https://github.com/MohamedElashri/snibox-1)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/Disappearing_Tracks/pull/1) in [MohamedElashri/Disappearing_Tracks](https://github.com/MohamedElashri/Disappearing_Tracks)
+3. 🚀 Pushed 31 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged PR [#41](https://github.com/MohamedElashri/dpaste/pull/41) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+5. 🚀 Pushed 2 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
