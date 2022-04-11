@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 53 commits to [MohamedElashri/ublacklist](https://github.com/MohamedElashri/ublacklist)
-2. ❗️ Closed issue [#15](https://github.com/MohamedElashri/dpaste/issues/15) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-3. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🚀 Pushed 17 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Closed issue [#45](https://github.com/MohamedElashri/monitor/issues/45) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. ❌ Closed PR [#2](https://github.com/MohamedElashri/hadd-parallel/pull/2) in [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
+2. 🚀 Pushed 56 commits to [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
+3. ❗️ Closed issue [#15](https://github.com/MohamedElashri/dpaste/issues/15) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+4. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
