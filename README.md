@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 33 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/pythia/pull/1) in [MohamedElashri/pythia](https://github.com/MohamedElashri/pythia)
-3. 🚀 Pushed 1 commit to [MohamedElashri/pythia](https://github.com/MohamedElashri/pythia)
-4. ❌ Closed PR [#2](https://github.com/MohamedElashri/hadd-parallel/pull/2) in [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
-5. 🚀 Pushed 1 commit to [MohamedElashri/hadd-parallel](https://github.com/MohamedElashri/hadd-parallel)
+1. 🚀 Pushed 4 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#47](https://github.com/MohamedElashri/monitor/issues/47) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. ❗️ Opened issue [#46](https://github.com/MohamedElashri/monitor/issues/46) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 33 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❌ Closed PR [#1](https://github.com/MohamedElashri/pythia/pull/1) in [MohamedElashri/pythia](https://github.com/MohamedElashri/pythia)
 <!--END_SECTION:activity-->
 
