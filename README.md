@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 20 commits to [LHCb-Cincinnati/DisappTracks](https://github.com/LHCb-Cincinnati/DisappTracks)
-2. ❗️ Closed issue [#52](https://github.com/MohamedElashri/monitor/issues/52) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🗣 Commented on [#52](https://github.com/MohamedElashri/monitor/issues/52) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Opened issue [#52](https://github.com/MohamedElashri/monitor/issues/52) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#53](https://github.com/MohamedElashri/monitor/issues/53) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 20 commits to [LHCb-Cincinnati/DisappTracks](https://github.com/LHCb-Cincinnati/DisappTracks)
+4. ❗️ Closed issue [#52](https://github.com/MohamedElashri/monitor/issues/52) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🗣 Commented on [#52](https://github.com/MohamedElashri/monitor/issues/52) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
