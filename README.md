@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/DisappTracks/pull/1) in [MohamedElashri/DisappTracks](https://github.com/MohamedElashri/DisappTracks)
-2. 🚀 Pushed 33 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❌ Closed PR [#1](https://github.com/MohamedElashri/arxiv-vs-vixra/pull/1) in [MohamedElashri/arxiv-vs-vixra](https://github.com/MohamedElashri/arxiv-vs-vixra)
-4. 🚀 Pushed 61 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/DisappTracks/pull/1) in [MohamedElashri/DisappTracks](https://github.com/MohamedElashri/DisappTracks)
+3. 🚀 Pushed 33 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❌ Closed NaN commits in [MohamedElashri/arxiv-vs-vixra](https://github.com/MohamedElashri/arxiv-vs-vixra)
 5. ❗️ Closed issue [#54](https://github.com/MohamedElashri/monitor/issues/54) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
