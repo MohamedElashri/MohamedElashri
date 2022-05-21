@@ -63,9 +63,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#55](https://github.com/MohamedElashri/monitor/issues/55) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🚀 Pushed 15 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🗣 Commented on [#457](https://github.com/thebaselab/codeapp/issues/457) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Closed issue [#55](https://github.com/MohamedElashri/monitor/issues/55) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#55](https://github.com/MohamedElashri/monitor/issues/55) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Opened issue [#55](https://github.com/MohamedElashri/monitor/issues/55) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
