@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/yeayee/Mathpix-Snip/issues/1) in [yeayee/Mathpix-Snip](https://github.com/yeayee/Mathpix-Snip)
-2. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🎉 Merged PR [#51](https://github.com/MohamedElashri/dpaste/pull/51) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
-4. 🚀 Pushed 15 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 12 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#1](https://github.com/yeayee/Mathpix-Snip/issues/1) in [yeayee/Mathpix-Snip](https://github.com/yeayee/Mathpix-Snip)
+3. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🎉 Merged NaN commits in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
 5. ❗️ Closed issue [#60](https://github.com/MohamedElashri/monitor/issues/60) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
