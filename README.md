@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/App-Fair/App/issues/2) in [App-Fair/App](https://github.com/App-Fair/App)
-2. 🚀 Pushed 16 commits to [LHCb-Cincinnati/susy-gauss](https://github.com/LHCb-Cincinnati/susy-gauss)
-3. ❗️ Opened issue [#1](https://github.com/yeayee/Mathpix-Snip/issues/1) in [yeayee/Mathpix-Snip](https://github.com/yeayee/Mathpix-Snip)
-4. 🚀 Pushed 30 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🎉 Merged PR [#51](https://github.com/MohamedElashri/dpaste/pull/51) in [MohamedElashri/dpaste](https://github.com/MohamedElashri/dpaste)
+1. 🚀 Pushed 4 commits to [MohamedElashri/blog](https://github.com/MohamedElashri/blog)
+2. ❗️ Closed issue [#53](https://github.com/MohamedElashri/monitor/issues/53) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🗣 Commented on [#53](https://github.com/MohamedElashri/monitor/issues/53) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🗣 Commented on [#2](https://github.com/App-Fair/App/issues/2) in [App-Fair/App](https://github.com/App-Fair/App)
 <!--END_SECTION:activity-->
 
