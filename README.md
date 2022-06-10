@@ -62,7 +62,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 5 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 17 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 2. ❗️ Opened issue [#63](https://github.com/MohamedElashri/monitor/issues/63) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 3. ❗️ Opened issue [#64](https://github.com/MohamedElashri/monitor/issues/64) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 4. ❗️ Opened issue [#62](https://github.com/MohamedElashri/monitor/issues/62) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
