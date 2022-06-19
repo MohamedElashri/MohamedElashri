@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [MohamedElashri/Overleaf-Full](https://github.com/MohamedElashri/Overleaf-Full)
+1. 🚀 Pushed 17 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 2. 🎉 Merged PR [#13](https://github.com/MohamedElashri/Overleaf-Full/pull/13) in [MohamedElashri/Overleaf-Full](https://github.com/MohamedElashri/Overleaf-Full)
-3. 🎉 Merged PR [#12](https://github.com/MohamedElashri/Overleaf-Full/pull/12) in [MohamedElashri/Overleaf-Full](https://github.com/MohamedElashri/Overleaf-Full)
-4. 🚀 Pushed 28 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Closed issue [#89](https://github.com/MohamedElashri/monitor/issues/89) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 2 commits to [MohamedElashri/Overleaf-Full](https://github.com/MohamedElashri/Overleaf-Full)
+4. 🎉 Merged PR [#12](https://github.com/MohamedElashri/Overleaf-Full/pull/12) in [MohamedElashri/Overleaf-Full](https://github.com/MohamedElashri/Overleaf-Full)
+5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
