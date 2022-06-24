@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MohamedElashri/slha_vim/pull/1) in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
-2. 🚀 Pushed 1 commit to [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
-3. ❌ Reopened NaN commits in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
-4. ❗️ Closed issue [#66](https://github.com/MohamedElashri/monitor/issues/66) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Closed issue [#70](https://github.com/MohamedElashri/monitor/issues/70) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/slha_vim/pull/1) in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
+3. 🚀 Pushed 1 commit to [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
+4. ❌ Reopened NaN commits in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
+5. ❗️ Closed issue [#66](https://github.com/MohamedElashri/monitor/issues/66) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
