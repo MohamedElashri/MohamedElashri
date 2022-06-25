@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Robin-Sch/matrix-bridges/issues/1) in [Robin-Sch/matrix-bridges](https://github.com/Robin-Sch/matrix-bridges)
-2. 🚀 Pushed 17 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❌ Closed PR [#1](https://github.com/MohamedElashri/slha_vim/pull/1) in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
-4. 🚀 Pushed 1 commit to [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
-5. ❌ Reopened PR [#1](https://github.com/MohamedElashri/slha_vim/pull/1) in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
+1. 🚀 Pushed 14 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#1](https://github.com/Robin-Sch/matrix-bridges/issues/1) in [Robin-Sch/matrix-bridges](https://github.com/Robin-Sch/matrix-bridges)
+3. 🚀 Pushed 17 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❌ Closed PR [#1](https://github.com/MohamedElashri/slha_vim/pull/1) in [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
+5. 🚀 Pushed 1 commit to [MohamedElashri/slha_vim](https://github.com/MohamedElashri/slha_vim)
 <!--END_SECTION:activity-->
 
