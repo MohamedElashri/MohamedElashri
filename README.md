@@ -63,9 +63,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 10 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#108](https://github.com/MohamedElashri/monitor/issues/108) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❗️ Opened issue [#107](https://github.com/MohamedElashri/monitor/issues/107) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❗️ Opened issue [#106](https://github.com/MohamedElashri/monitor/issues/106) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. ❗️ Opened issue [#105](https://github.com/MohamedElashri/monitor/issues/105) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Closed issue [#108](https://github.com/MohamedElashri/monitor/issues/108) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#108](https://github.com/MohamedElashri/monitor/issues/108) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Closed issue [#107](https://github.com/MohamedElashri/monitor/issues/107) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🗣 Commented on [#107](https://github.com/MohamedElashri/monitor/issues/107) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
