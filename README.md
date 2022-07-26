@@ -62,7 +62,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 19 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 20 commits to [MohamedElashri/SUSYMassSpectrumPlot](https://github.com/MohamedElashri/SUSYMassSpectrumPlot)
 2. 🎉 Merged PR [#2](https://github.com/MohamedElashri/SUSYMassSpectrumPlot/pull/2) in [MohamedElashri/SUSYMassSpectrumPlot](https://github.com/MohamedElashri/SUSYMassSpectrumPlot)
 3. 💪 Opened PR [#2](https://github.com/MohamedElashri/SUSYMassSpectrumPlot/pull/2) in [MohamedElashri/SUSYMassSpectrumPlot](https://github.com/MohamedElashri/SUSYMassSpectrumPlot)
 4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
