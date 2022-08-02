@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 9 commits to [MohamedElashri/CE](https://github.com/MohamedElashri/CE)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/CE/pull/1) in [MohamedElashri/CE](https://github.com/MohamedElashri/CE)
-3. 🚀 Pushed 2 commits to [MohamedElashri/CE](https://github.com/MohamedElashri/CE)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/codas-hep-22-git-playground/pull/1) in [MohamedElashri/codas-hep-22-git-playground](https://github.com/MohamedElashri/codas-hep-22-git-playground)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 1 commit to [MohamedElashri/ME-Resume](https://github.com/MohamedElashri/ME-Resume)
+2. ❌ Closed PR [#1](https://github.com/MohamedElashri/codas-hep-22-git-playground/pull/1) in [MohamedElashri/codas-hep-22-git-playground](https://github.com/MohamedElashri/codas-hep-22-git-playground)
+3. 🚀 Pushed 21 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. ❗️ Closed issue [#163](https://github.com/MohamedElashri/monitor/issues/163) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. 🗣 Commented on [#163](https://github.com/MohamedElashri/monitor/issues/163) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
