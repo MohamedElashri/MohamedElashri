@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 118 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❌ Closed PR [#1](https://github.com/MohamedElashri/CoDaS/pull/1) in [MohamedElashri/CoDaS](https://github.com/MohamedElashri/CoDaS)
-3. 🚀 Pushed 37 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/codas-hep-22-git-playground/pull/1) in [MohamedElashri/codas-hep-22-git-playground](https://github.com/MohamedElashri/codas-hep-22-git-playground)
-5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🗣 Commented on [#74](https://github.com/toeverything/AFFiNE/issues/74) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+2. 🚀 Pushed 118 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. ❌ Closed PR [#1](https://github.com/MohamedElashri/CoDaS/pull/1) in [MohamedElashri/CoDaS](https://github.com/MohamedElashri/CoDaS)
+4. 🚀 Pushed 37 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❌ Closed PR [#1](https://github.com/MohamedElashri/codas-hep-22-git-playground/pull/1) in [MohamedElashri/codas-hep-22-git-playground](https://github.com/MohamedElashri/codas-hep-22-git-playground)
 <!--END_SECTION:activity-->
 
