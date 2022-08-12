@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 34 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. 🗣 Commented on [#74](https://github.com/toeverything/AFFiNE/issues/74) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-3. 🚀 Pushed 118 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. ❌ Closed PR [#1](https://github.com/MohamedElashri/CoDaS/pull/1) in [MohamedElashri/CoDaS](https://github.com/MohamedElashri/CoDaS)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Opened issue [#164](https://github.com/MohamedElashri/monitor/issues/164) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🚀 Pushed 34 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🗣 Commented on [#74](https://github.com/toeverything/AFFiNE/issues/74) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 5. 🚀 Pushed 1 commit to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
