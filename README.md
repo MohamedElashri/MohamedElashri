@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/overleaf_ynh](https://github.com/MohamedElashri/overleaf_ynh)
-2. ❗️ Closed issue [#110](https://github.com/MohamedElashri/blog-theme/issues/110) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
-3. 🚀 Pushed 23 commits to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
-4. ❗️ Closed issue [#172](https://github.com/MohamedElashri/monitor/issues/172) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-5. 🗣 Commented on [#172](https://github.com/MohamedElashri/monitor/issues/172) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+1. 🚀 Pushed 1 commit to [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
+2. 💪 Opened PR [#10](https://github.com/YunoHost-Apps/overleaf_ynh/pull/10) in [YunoHost-Apps/overleaf_ynh](https://github.com/YunoHost-Apps/overleaf_ynh)
+3. 🚀 Pushed 1 commit to [MohamedElashri/overleaf_ynh](https://github.com/MohamedElashri/overleaf_ynh)
+4. ❗️ Closed issue [#110](https://github.com/MohamedElashri/blog-theme/issues/110) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
+5. 🚀 Pushed 1 commit to [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
 <!--END_SECTION:activity-->
 
