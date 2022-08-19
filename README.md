@@ -62,7 +62,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [MohamedElashri/snippet-box](https://github.com/MohamedElashri/snippet-box)
+1. 🚀 Pushed 2 commits to [MohamedElashri/SUSYMassSpectrumPlot](https://github.com/MohamedElashri/SUSYMassSpectrumPlot)
 2. 💪 Opened PR [#10](https://github.com/YunoHost-Apps/overleaf_ynh/pull/10) in [YunoHost-Apps/overleaf_ynh](https://github.com/YunoHost-Apps/overleaf_ynh)
 3. 🚀 Pushed 1 commit to [MohamedElashri/overleaf_ynh](https://github.com/MohamedElashri/overleaf_ynh)
 4. ❗️ Closed issue [#110](https://github.com/MohamedElashri/blog-theme/issues/110) in [MohamedElashri/blog-theme](https://github.com/MohamedElashri/blog-theme)
