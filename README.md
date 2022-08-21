@@ -63,9 +63,9 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-2. ❗️ Opened issue [#173](https://github.com/MohamedElashri/monitor/issues/173) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. 🚀 Pushed 36 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 💪 Opened PR [#10](https://github.com/YunoHost-Apps/overleaf_ynh/pull/10) in [YunoHost-Apps/overleaf_ynh](https://github.com/YunoHost-Apps/overleaf_ynh)
-5. 🚀 Pushed 1 commit to [MohamedElashri/overleaf_ynh](https://github.com/MohamedElashri/overleaf_ynh)
+2. ❗️ Closed issue [#173](https://github.com/MohamedElashri/monitor/issues/173) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#173](https://github.com/MohamedElashri/monitor/issues/173) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+5. ❗️ Opened issue [#173](https://github.com/MohamedElashri/monitor/issues/173) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
