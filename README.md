@@ -62,10 +62,10 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/YunoHost-Apps/webmin_ynh/issues/22) in [YunoHost-Apps/webmin_ynh](https://github.com/YunoHost-Apps/webmin_ynh)
-2. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-3. ❗️ Opened issue [#179](https://github.com/MohamedElashri/monitor/issues/179) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
-4. 🚀 Pushed 25 commits to [MohamedElashri/UblockOrigin_Search_Rules](https://github.com/MohamedElashri/UblockOrigin_Search_Rules)
-5. ❌ Closed PR [#1](https://github.com/MohamedElashri/SUSYMassSpectrumPlot/pull/1) in [MohamedElashri/SUSYMassSpectrumPlot](https://github.com/MohamedElashri/SUSYMassSpectrumPlot)
+1. 🚀 Pushed 3 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+2. ❗️ Closed issue [#179](https://github.com/MohamedElashri/monitor/issues/179) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+3. 🗣 Commented on [#179](https://github.com/MohamedElashri/monitor/issues/179) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
+4. 🗣 Commented on [#22](https://github.com/YunoHost-Apps/webmin_ynh/issues/22) in [YunoHost-Apps/webmin_ynh](https://github.com/YunoHost-Apps/webmin_ynh)
+5. 🚀 Pushed 2 commits to [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor)
 <!--END_SECTION:activity-->
 
