@@ -8,7 +8,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
   <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
   <a href="https://twitter.com/MIBElashri"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
   <a href="https://www.linkedin.com/in/mohamedelashri1/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+  <a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
   <a href="https://keybase.io/melashri"><img src="https://icons-for-free.com/iconfiles/png/512/Keybase-1324888733257538805.png" height="16"/>KeyBase</a>
 
 </p>
