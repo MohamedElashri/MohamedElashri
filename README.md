@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelashri" alt="mohamedelashri" /> </p>
 
-I’m a particle physics graduate student at university of cinccinati, I'm doing resarch as part of LHCb experiment at CERN
+I’m a particle physics graduate student at university of cinccinati, I'm doing research as part of LHCb experiment at CERN
 
 <p align="center">
   <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
