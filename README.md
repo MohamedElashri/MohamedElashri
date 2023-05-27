@@ -6,7 +6,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <p align="center">
   <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
-  <a href="https://twitter.com/MIBElashri"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
   <a href="https://linkedin.com/in/elashri"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:mail@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
   <a href="https://keybase.io/melashri"><img src="https://icons-for-free.com/iconfiles/png/512/Keybase-1324888733257538805.png" height="16"/>KeyBase</a>
@@ -48,7 +47,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <p align="center">
 	<a href="https://github.com/MohamedElashri"><img src="https://img.shields.io/github/followers/MohamedElashri.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/MIBElashri"><img src="https://img.shields.io/twitter/follow/MIBElashri?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/mohamedelashri1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
