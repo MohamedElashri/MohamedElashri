@@ -18,7 +18,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and self-hosting**
-- 📫 How to reach me: **<a href="mailto:elashrmr@mail.uc.edu"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** or Twitter **@MIBElashri** 
+- 📫 How to reach me: **<a href="mailto:me@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** 
 
 
 
