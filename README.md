@@ -14,7 +14,7 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 
 
-- 🔭 I’m currently working with QEE group at [LHCb](https://home.cern/science/experiments/lhcb)
+- 🔭 I’m currently working with Rare Decays group at [LHCb](https://home.cern/science/experiments/lhcb)
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and self-hosting**
