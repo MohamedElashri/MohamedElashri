@@ -22,7 +22,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 
 
-
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
 <div align="center">  
@@ -41,6 +40,8 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 
 <br/>  
 
+> #### ⚠️ **Important Notice** ⚠️
+> _**Please, read any code before running it.** Understand its functionality and ensure it aligns with your expectations and environment. Your use of the code is at your own risk._
 
 
 
