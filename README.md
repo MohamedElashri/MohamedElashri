@@ -2,23 +2,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelashri" alt="mohamedelashri" /> </p>
 
-I’m a particle physics graduate student at university of cinccinati, I'm doing research as part of LHCb experiment at CERN
+I’m a Particle Physics PhD Candidate at university of Cincinnati, conducting research as part of the LHCb experiment at CERN.
+I'm passionate about exploring the fundamental nature of matter and applying Machine Learning techniques to solve complex problems in High Energy Physics.
+
 
 <p align="center">
   <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
   <a href="https://linkedin.com/in/elashri"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:mail@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
-  <a href="https://keybase.io/melashri"><img src="https://icons-for-free.com/iconfiles/png/512/Keybase-1324888733257538805.png" height="16"/>KeyBase</a>
+  <a href="https://keybase.io/melashri"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" height="16"/>Keybase</a>
 
 </p>
 
 
 
-- 🔭 I’m currently working with Rare Decays group at [LHCb](https://home.cern/science/experiments/lhcb)
+- 🔭 I’m currently working at CERN with [LHCb](https://home.cern/science/experiments/lhcb) Collaboration
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and self-hosting**
-- 📫 How to reach me: **<a href="mailto:me@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** 
+- 📫 How to reach me: **<a href="mailto:mail@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** 
 
 
 
@@ -26,7 +28,6 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 	
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
@@ -35,13 +36,17 @@ I’m a particle physics graduate student at university of cinccinati, I'm doing
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mysql" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="rust" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+
+
 </div>  
 
 <br/>  
 
 > #### ⚠️ **Important Notice** ⚠️
-> _**Please, read any code before running it.** Understand its functionality and ensure it aligns with your expectations and environment. Your use of the code is at your own risk._
+> _**Please, read any code before running it.** Understand its functionality and ensure it aligns with your expectations and environment. Your use of any code here is at your own risk._
 
 
 
