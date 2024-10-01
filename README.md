@@ -9,7 +9,6 @@ I'm passionate about exploring the fundamental nature of matter and applying Mac
 <p align="center">
   <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
   <a href="https://linkedin.com/in/elashri"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:mail@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
   <a href="https://keybase.io/melashri"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" height="16"/>Keybase</a>
 
 </p>
@@ -20,7 +19,6 @@ I'm passionate about exploring the fundamental nature of matter and applying Mac
 - 🌱 I’m currently learning **Machine learning** 
 - 👯 I’m looking to collaborate on **Applying Machine learning in High Energy Physics**
 - 💬 Ask me about **Particle Physics, Machine learning and self-hosting**
-- 📫 How to reach me: **<a href="mailto:mail@elashri.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** 
 
 
 
