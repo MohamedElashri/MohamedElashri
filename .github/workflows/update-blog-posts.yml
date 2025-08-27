@@ -1,0 +1,28 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/update-blog-posts.yml
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull posts from RSS and update README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 5
+          feed_list: "https://blog.melashri.net/index.xml,https://blog.melashri.net/feed.xml"
+          template: "- [$title]($url)  \n"
+          readme_path: "README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          gh_token: "${{ secrets.GITHUB_TOKEN }}"
