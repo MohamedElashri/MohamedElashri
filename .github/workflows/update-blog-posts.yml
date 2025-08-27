@@ -2,7 +2,7 @@ name: Update latest blog posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once per day
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch: {}
   push:
     paths:
@@ -13,16 +13,89 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FEED_URL: "https://blog.melashri.net/all-content.xml"
+      MAX_POSTS: "5"
+      TARGET_FILE: "README.md"
+      START_MARKER: "<!-- BLOG-POST-LIST:START -->"
+      END_MARKER: "<!-- BLOG-POST-LIST:END -->"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull posts from RSS and update README
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: 5
-          feed_list: "https://blog.melashri.net/all-content.xml"
-          template: "\n- [$title]($url)\n"
-          readme_path: "README.md"
-          comment_tag_name: "BLOG-POST-LIST"
-          gh_token: "${{ secrets.GITHUB_TOKEN }}"
+      - name: Build posts block (Python)
+        run: |
+          python3 - << 'PY'
+          import html, sys, urllib.request, xml.etree.ElementTree as ET
+          FEED_URL      = "${{ env.FEED_URL }}"
+          MAX_POSTS     = int("${{ env.MAX_POSTS }}")
+          TARGET_FILE   = "${{ env.TARGET_FILE }}"
+          START_MARKER  = "${{ env.START_MARKER }}"
+          END_MARKER    = "${{ env.END_MARKER }}"
+
+          # Fetch feed
+          with urllib.request.urlopen(FEED_URL, timeout=30) as r:
+            data = r.read()
+
+          # Parse Atom or RSS
+          root = ET.fromstring(data)
+          ns = {
+            "atom": "http://www.w3.org/2005/Atom",
+            "rss": "http://purl.org/rss/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/"
+          }
+
+          items = []
+          # Try Atom <entry>
+          for e in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
+            title = e.findtext("{http://www.w3.org/2005/Atom}title", default="Untitled")
+            link_el = e.find("{http://www.w3.org/2005/Atom}link")
+            link = (link_el.get("href") if link_el is not None else None) or e.findtext("{http://www.w3.org/2005/Atom}id")
+            if title and link:
+              items.append((html.unescape(title.strip()), link.strip()))
+          # Fallback to RSS 2.0 <item>
+          if not items:
+            for e in root.findall(".//item"):
+              title = e.findtext("title", default="Untitled")
+              link = e.findtext("link")
+              if title and link:
+                items.append((html.unescape(title.strip()), link.strip()))
+
+          items = items[:MAX_POSTS]
+          block = "\n".join(f"- [{t}]({u})" for t, u in items) if items else "- No posts found."
+
+          # Inject into README
+          with open(TARGET_FILE, "r", encoding="utf-8") as f:
+            readme = f.read()
+
+          start_idx = readme.find(START_MARKER)
+          end_idx   = readme.find(END_MARKER)
+
+          if start_idx == -1 or end_idx == -1 or end_idx < start_idx:
+            # Append a new section if markers are missing/misordered
+            new = readme.rstrip() + f"\n\n### 📌 Latest Blog Posts\n{START_MARKER}\n\n{block}\n\n{END_MARKER}\n"
+          else:
+            before = readme[: start_idx + len(START_MARKER)]
+            after  = readme[end_idx:]
+            # Force clean newlines around the list
+            new = before + "\n\n" + block + "\n\n" + after
+
+          if new != readme:
+            with open(TARGET_FILE, "w", encoding="utf-8") as f:
+              f.write(new)
+            print("README updated.")
+          else:
+            print("No changes needed.")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${TARGET_FILE}"
+          git commit -m "chore(readme): update latest blog posts"
+          git push
