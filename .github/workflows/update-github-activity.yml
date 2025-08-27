@@ -44,7 +44,7 @@ jobs:
             ignored_repos: []
             commit_msg: "chore(readme): update recent activity"
             date:
-              timezone: Europe/Zurch
+              timezone: Europe/Zurich
               text: "Last updated: {DATE}"
               format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
             line_prefix: "{NUM}. "
