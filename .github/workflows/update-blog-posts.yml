@@ -21,7 +21,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5
-          feed_list: "https://blog.melashri.net/index.xml,https://blog.melashri.net/feed.xml"
+          feed_list: "https://blog.melashri.net/all-content.xml"
           template: "- [$title]($url)  \n"
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
