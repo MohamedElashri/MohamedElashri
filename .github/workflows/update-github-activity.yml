@@ -13,18 +13,149 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      USERNAME: "MohamedElashri"
+      MAX_ITEMS: "10"
+      TARGET_FILE: "README.md"
+      START_MARKER: "<!-- ACTIVITY:START -->"
+      END_MARKER: "<!-- ACTIVITY:END -->"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@v0.4.5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate activity block
+        uses: actions/github-script@v7
+        id: gen
         with:
-          GH_USERNAME: "MohamedElashri"      # optional; defaults to repo owner
-          MAX_LINES: 5                      # number of activity items
-          COMMIT_MSG: "chore(readme): update recent activity"
-          TARGET_FILE: "README.md"           # where to inject activity
-          COMMIT_NAME: "github-actions[bot]" # optional
-          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          script: |
+            const username = process.env.USERNAME;
+            const maxItems = parseInt(process.env.MAX_ITEMS || "10", 10);
+
+            // 1) Fetch recent public events (up to ~50) for the user
+            const perPage = 50;
+            const events = await github.request("GET /users/{username}/events/public", {
+              username,
+              per_page: perPage
+            }).then(r => r.data);
+
+            // 2) Filter supported types (exclude PushEvent)
+            const supported = new Set([
+              "CommitCommentEvent",
+              "CreateEvent",
+              "ForkEvent",
+              "GollumEvent",
+              "IssueCommentEvent",
+              "IssuesEvent",
+              "MemberEvent",
+              "PullRequestEvent",
+              "PullRequestReviewCommentEvent",
+              "PullRequestReviewEvent",
+              "ReleaseEvent",
+              "WatchEvent"
+            ]);
+
+            const filtered = events.filter(e => supported.has(e.type)).slice(0, maxItems);
+
+            // 3) Format each line
+            function shortSha(sha) { return sha ? sha.slice(0, 7) : ""; }
+            function repoUrl(full) { return `https://github.com/${full}`; }
+            function prUrl(repo, num) { return `https://github.com/${repo}/pull/${num}`; }
+            function issueUrl(repo, num) { return `https://github.com/${repo}/issues/${num}`; }
+            function relUrl(repo, tag) { return `https://github.com/${repo}/releases/tag/${encodeURIComponent(tag)}`; }
+            function wikiUrl(repo) { return `https://github.com/${repo}/wiki`; }
+
+            function lineFor(ev) {
+              const repo = ev.repo?.name || "";
+              const rurl = repoUrl(repo);
+              const when = new Date(ev.created_at).toISOString().replace(/\.\d+Z$/,"Z");
+
+              switch (ev.type) {
+                case "CreateEvent": {
+                  const ref = ev.payload?.ref;
+                  const refType = ev.payload?.ref_type;
+                  const what = refType === "repository" ? "created a repository" : `created ${refType} ${ref}`;
+                  return `- 🆕 ${what} in [${repo}](${rurl}) • ${when}`;
+                }
+                case "ForkEvent": {
+                  const forkee = ev.payload?.forkee?.full_name;
+                  return `- 🍴 forked [${repo}](${rurl}) to [${forkee}](https://github.com/${forkee}) • ${when}`;
+                }
+                case "WatchEvent":
+                  return `- ⭐ starred [${repo}](${rurl}) • ${when}`;
+                case "IssuesEvent": {
+                  const action = ev.payload?.action;
+                  const num = ev.payload?.issue?.number;
+                  return `- 🐛 ${action} issue [#${num}](${issueUrl(repo, num)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "IssueCommentEvent": {
+                  const num = ev.payload?.issue?.number;
+                  return `- 💬 commented on issue [#${num}](${issueUrl(repo, num)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "PullRequestEvent": {
+                  const action = ev.payload?.action;
+                  const num = ev.payload?.number || ev.payload?.pull_request?.number;
+                  return `- 🔧 ${action} PR [#${num}](${prUrl(repo, num)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "PullRequestReviewEvent": {
+                  const num = ev.payload?.pull_request?.number;
+                  return `- 👀 reviewed PR [#${num}](${prUrl(repo, num)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "PullRequestReviewCommentEvent": {
+                  const num = ev.payload?.pull_request?.number;
+                  return `- 📝 commented on PR [#${num}](${prUrl(repo, num)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "ReleaseEvent": {
+                  const tag = ev.payload?.release?.tag_name;
+                  return `- 🚀 released [${tag}](${relUrl(repo, tag)}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "GollumEvent":
+                  return `- 📚 updated wiki for [${repo}](${wikiUrl(repo)}) • ${when}`;
+                case "CommitCommentEvent": {
+                  const sha = shortSha(ev.payload?.comment?.commit_id);
+                  return `- 🗣️ commented on commit [${sha}](${rurl}/commit/${ev.payload?.comment?.commit_id}) in [${repo}](${rurl}) • ${when}`;
+                }
+                case "MemberEvent": {
+                  const action = ev.payload?.action || "changed membership";
+                  return `- 👥 ${action} on [${repo}](${rurl}) • ${when}`;
+                }
+                default:
+                  return null;
+              }
+            }
+
+            const lines = filtered.map(lineFor).filter(Boolean);
+            const block = lines.length ? lines.join("\n") : "- No recent activity.";
+
+            // 4) Inject into README between markers
+            const fs = require("fs");
+            const path = process.env.TARGET_FILE;
+            const start = process.env.START_MARKER;
+            const end = process.env.END_MARKER;
+
+            let readme = fs.readFileSync(path, "utf8");
+            const startIdx = readme.indexOf(start);
+            const endIdx = readme.indexOf(end);
+
+            if (startIdx === -1 || endIdx === -1 || endIdx < startIdx) {
+              // If markers missing, append section at end
+              readme += `\n\n### 📌 Latest GitHub Activity\n${start}\n${block}\n${end}\n`;
+            } else {
+              const before = readme.slice(0, startIdx + start.length);
+              const after = readme.slice(endIdx);
+              readme = `${before}\n${block}\n${after}`;
+            }
+
+            fs.writeFileSync(path, readme);
+            core.setOutput("changed", "true");
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${TARGET_FILE}"
+          git commit -m "chore(readme): update recent activity"
+          git push
