@@ -2,7 +2,7 @@ name: Update latest GitHub activity
 
 on:
   schedule:
-    - cron: "41 */6 * * *"
+    - cron: "41 */6 * * *"   # every 6 hours
   workflow_dispatch: {}
   push:
     paths:
@@ -17,47 +17,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create recent-activity config (ephemeral)
-        run: |
-          mkdir -p .github
-          cat > .github/recent-activity.config.yml << 'YAML'
-          settings:
-            username: MohamedElashri
-            max_lines: 10
-            readme_file: ./README.md
-
-            # 1) Allow only supported events (from the action README)
-            include_events:
-              - CommitCommentEvent
-              - CreateEvent
-              - ForkEvent
-              - GollumEvent
-              - IssueCommentEvent
-              - IssuesEvent
-              - MemberEvent
-              - PullRequestEvent
-              - PullRequestReviewCommentEvent
-              - PullRequestReviewEvent
-              - ReleaseEvent
-              - WatchEvent
-
-            # 2) Explicitly ignore PushEvent to prevent crash if it appears
-            ignored_events:
-              - PushEvent
-
-            ignored_repos: []
-
-            commit_msg: "chore(readme): update recent activity"
-            date:
-              timezone: Europe/Zurich
-              text: "Last updated: {DATE}"
-              format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-            line_prefix: "{NUM}. "
-          YAML
-
-      - name: Update recent activity in README
-        uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: ./.github/recent-activity.config.yml
+          GH_USERNAME: "MohamedElashri"      # optional; defaults to repo owner
+          MAX_LINES: 5                      # number of activity items
+          COMMIT_MSG: "chore(readme): update recent activity"
+          TARGET_FILE: "README.md"           # where to inject activity
+          COMMIT_NAME: "github-actions[bot]" # optional
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
