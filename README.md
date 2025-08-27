@@ -19,6 +19,10 @@ I’m passionate about exploring the fundamental nature of matter and applying *
   <a href="https://keybase.io/melashri">
     <img src="https://img.shields.io/badge/Keybase-melashri-orange?logo=keybase&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar"/>
+  </a>
+
 </p>
 
 ---
@@ -79,8 +83,3 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ---
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar"/>
-  </a>
-</p>
