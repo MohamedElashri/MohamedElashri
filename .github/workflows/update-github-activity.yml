@@ -17,14 +17,35 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Create a config file only in the runner workspace (not committed)
+      - name: Create ephemeral recent-activity config
+        run: |
+          mkdir -p .github
+          cat > .github/recent-activity.config.yml << 'YAML'
+          settings:
+            username: MohamedElashri
+            max_lines: 10
+            readme_file: ./README.md
+            whitelisted_events:
+              - push
+              - pr_open
+              - pr_merge
+              - pr_close
+              - issues_open
+              - issues_close
+              - release
+            ignored_repos: []
+            commit_msg: "chore(readme): update recent activity"
+            date:
+              timezone: Europe/Zurich
+              text: "Last updated: {DATE}"
+              format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+            line_prefix: "{NUM}. "
+          YAML
+
       - name: Update recent activity in README
         uses: Readme-Workflows/recent-activity@v2.4.1
-        with:
-          GH_USERNAME: "MohamedElashri"
-          COMMIT_MESSAGE: "chore(readme): update recent activity"
-          MAX_LINES: 10
-          README_FILE: "README.md"
-          TARGET_PLAIN: "<!-- GITHUB_ACTIVITY:START -->"
-          END_PLAIN: "<!-- GITHUB_ACTIVITY:END -->"
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: ./.github/recent-activity.config.yml
