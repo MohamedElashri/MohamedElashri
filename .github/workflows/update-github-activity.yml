@@ -2,7 +2,7 @@ name: Update latest GitHub activity
 
 on:
   schedule:
-    - cron: "41 */6 * * *"   # every 6 hours
+    - cron: "41 */6 * * *"
   workflow_dispatch: {}
   push:
     paths:
@@ -17,8 +17,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Create a config file only in the runner workspace (not committed)
-      - name: Create ephemeral recent-activity config
+      # Create ephemeral config (not committed)
+      - name: Create recent-activity config
         run: |
           mkdir -p .github
           cat > .github/recent-activity.config.yml << 'YAML'
@@ -26,18 +26,25 @@ jobs:
             username: MohamedElashri
             max_lines: 10
             readme_file: ./README.md
-            whitelisted_events:
-              - push
-              - pr_open
-              - pr_merge
-              - pr_close
-              - issues_open
-              - issues_close
-              - release
+            # Remove any "push" filtering; either omit filters entirely OR use only supported event names.
+            # To show ALL supported events, keep filters commented out.
+            # include_events:
+            #   - CommitCommentEvent
+            #   - CreateEvent
+            #   - ForkEvent
+            #   - GollumEvent
+            #   - IssueCommentEvent
+            #   - IssuesEvent
+            #   - MemberEvent
+            #   - PullRequestEvent
+            #   - PullRequestReviewCommentEvent
+            #   - PullRequestReviewEvent
+            #   - ReleaseEvent
+            #   - WatchEvent
             ignored_repos: []
             commit_msg: "chore(readme): update recent activity"
             date:
-              timezone: Europe/Zurich
+              timezone: Europe/Zurch
               text: "Last updated: {DATE}"
               format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
             line_prefix: "{NUM}. "
