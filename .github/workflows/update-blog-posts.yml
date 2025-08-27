@@ -2,7 +2,7 @@ name: Update latest blog posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # once per day
   workflow_dispatch: {}
   push:
     paths:
@@ -22,7 +22,7 @@ jobs:
         with:
           max_post_count: 5
           feed_list: "https://blog.melashri.net/all-content.xml"
-          template: "- [$title]($url)  \n"
+          template: "\n- [$title]($url)\n"
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
           gh_token: "${{ secrets.GITHUB_TOKEN }}"
