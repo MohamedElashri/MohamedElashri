@@ -11,13 +11,13 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 <p align="center">
   <a href="https://melashri.net/">
-    <img src="https://img.icons8.com/color/48/000000/internet.png" height="20"/> Personal Website
-  </a> •
+    <img src="https://img.shields.io/badge/Website-melashri.net-blue?logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/elashri">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="20"/> LinkedIn
-  </a> •
+    <img src="https://img.shields.io/badge/LinkedIn-elashri-blue?logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://keybase.io/melashri">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" height="20"/> Keybase
+    <img src="https://img.shields.io/badge/Keybase-melashri-orange?logo=keybase&logoColor=white" />
   </a>
 </p>
 
