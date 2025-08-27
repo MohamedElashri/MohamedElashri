@@ -1,0 +1,30 @@
+name: Update latest GitHub activity
+
+on:
+  schedule:
+    - cron: "41 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/update-github-activity.yml
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update recent activity in README
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: "MohamedElashri"
+          COMMIT_MESSAGE: "chore(readme): update recent activity"
+          MAX_LINES: 10
+          README_FILE: "README.md"
+          TARGET_PLAIN: "<!-- GITHUB_ACTIVITY:START -->"
+          END_PLAIN: "<!-- GITHUB_ACTIVITY:END -->"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
