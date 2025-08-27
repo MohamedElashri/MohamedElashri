@@ -7,7 +7,7 @@
 I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, conducting research as part of the **[LHCb](https://home.cern/science/experiments/lhcb)** experiment at CERN.  
 I’m passionate about exploring the fundamental nature of matter and applying **Machine Learning** techniques to solve complex problems in High Energy Physics.
 
----
+
 
 <p align="center">
   <a href="https://melashri.net/">
@@ -25,14 +25,14 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 </p>
 
----
+
 
 - 🔭 Currently working at CERN with the [LHCb](https://home.cern/science/experiments/lhcb) Collaboration  
 - 🌱 Learning more about **Machine Learning**  
 - 👯 Open to collaborations on **Machine Learning applications in High Energy Physics**  
 - 💬 Ask me about **Particle Physics, Machine Learning, and Self-hosting**  
 
----
+
 
 
 <div align="center">
