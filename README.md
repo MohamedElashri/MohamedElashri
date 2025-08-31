@@ -71,8 +71,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 - ⭐ starred [louisaslett/zotero-webdav](https://github.com/louisaslett/zotero-webdav) • 2025-08-28T10:48:07Z
 - 🐛 closed issue [#3](https://github.com/MohamedElashri/MohamedElashri/issues/3) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri) • 2025-08-27T12:04:38Z
 - ⭐ starred [cmang/durdraw](https://github.com/cmang/durdraw) • 2025-08-27T11:20:39Z
-- 💬 commented on issue [#919](https://github.com/MohamedElashri/monitor/issues/919) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor) • 2025-08-25T17:03:44Z
-- 🐛 closed issue [#919](https://github.com/MohamedElashri/monitor/issues/919) in [MohamedElashri/monitor](https://github.com/MohamedElashri/monitor) • 2025-08-25T17:03:44Z
 <!-- ACTIVITY:END -->
 
 ---
