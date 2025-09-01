@@ -64,13 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 🆕 created branch main in [MohamedElashri/iml7-cern-lhcbfinder-poster](https://github.com/MohamedElashri/iml7-cern-lhcbfinder-poster) • 2025-08-31T19:38:07Z
+- 🆕 created a repository in [MohamedElashri/iml7-cern-lhcbfinder-poster](https://github.com/MohamedElashri/iml7-cern-lhcbfinder-poster) • 2025-08-31T19:38:07Z
+- 🆕 created a repository in [MohamedElashri/iml7-cern-pvfinder-ml-challenges](https://github.com/MohamedElashri/iml7-cern-pvfinder-ml-challenges) • 2025-08-31T19:29:55Z
+- 🆕 created branch main in [MohamedElashri/iml7-cern-pvfinder-ml-challenges](https://github.com/MohamedElashri/iml7-cern-pvfinder-ml-challenges) • 2025-08-31T19:29:55Z
 - ⭐ starred [BookHeaven/BookHeaven.Server](https://github.com/BookHeaven/BookHeaven.Server) • 2025-08-30T01:59:21Z
 - ⭐ starred [HarborGuard/HarborGuard](https://github.com/HarborGuard/HarborGuard) • 2025-08-30T01:59:04Z
 - ⭐ starred [Adewagold/nginx-server-manager](https://github.com/Adewagold/nginx-server-manager) • 2025-08-30T01:57:19Z
 - ⭐ starred [ilyasoloma/zotero-selfhost](https://github.com/ilyasoloma/zotero-selfhost) • 2025-08-28T10:50:06Z
 - ⭐ starred [louisaslett/zotero-webdav](https://github.com/louisaslett/zotero-webdav) • 2025-08-28T10:48:07Z
 - 🐛 closed issue [#3](https://github.com/MohamedElashri/MohamedElashri/issues/3) in [MohamedElashri/MohamedElashri](https://github.com/MohamedElashri/MohamedElashri) • 2025-08-27T12:04:38Z
-- ⭐ starred [cmang/durdraw](https://github.com/cmang/durdraw) • 2025-08-27T11:20:39Z
 <!-- ACTIVITY:END -->
 
 ---
