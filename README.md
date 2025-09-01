@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [CCCL for HEP Triggers](https://blog.melashri.net/cccl-for-hep-triggers/)
 - [Developing ROOT CERN in VSCode](https://blog.melashri.net/developing-root-cern-in-vscode/)
 - [When the Kindle price is higher than the physical book](https://blog.melashri.net/when-the-kindle-price-is-higher-than-the-physical-book/)
 - [Branching on GPUs](https://blog.melashri.net/branching-on-gpus/)
 - [I'm Tired of It All](https://blog.melashri.net/im-tired-of-it-all/)
-- [I added JS code to this blog](https://blog.melashri.net/i-added-js-code-to-this-blog/)
 
 <!-- BLOG-POST-LIST:END -->
 
