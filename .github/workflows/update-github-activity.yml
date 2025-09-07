@@ -20,8 +20,13 @@ jobs:
       START_MARKER: "<!-- ACTIVITY:START -->"
       END_MARKER: "<!-- ACTIVITY:END -->"
       MAX_LOOKBACK_DAYS: "60"   # ignore events older than this window
-      BOT_LOGINS: "github-actions[bot],dependabot[bot],renovate[bot]"
-      EXCLUDED_REPOS: "MohamedElashri/MohamedElashri"   # comma-separated list of owner/repo to exclude entirely
+
+      # Exclusions
+      BOT_LOGINS: "github-actions[bot],dependabot[bot],renovate[bot],upptime-bot[bot]"
+      EXCLUDED_REPOS: "MohamedElashri/MohamedElashri,MohamedElashri/monitor"  # exclude ALL activity from these repos
+      EXCLUDED_PUSH_COMMIT_AUTHORS: "upptime-bot,github-actions,actions@github.com,dependabot" # substrings matched against commit author/committer name/email
+      EXCLUDED_PUSH_MESSAGE_REGEX: "(\\[skip ci\\]|\\[upptime\\]|Update graphs|is up \\()"  # case-insensitive regex applied to commit messages
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,18 +44,26 @@ jobs:
             const knownBotLogins = new Set(
               (process.env.BOT_LOGINS || "")
                 .split(",")
-                .map(s => s.trim())
+                .map(s => s.trim().toLowerCase())
                 .filter(Boolean)
-                .map(s => s.toLowerCase())
             );
 
             const excludedRepos = new Set(
               (process.env.EXCLUDED_REPOS || "")
                 .split(",")
-                .map(s => s.trim())
+                .map(s => s.trim().toLowerCase())
                 .filter(Boolean)
-                .map(s => s.toLowerCase())
             );
+
+            const excludedPushAuthors = (process.env.EXCLUDED_PUSH_COMMIT_AUTHORS || "")
+              .split(",")
+              .map(s => s.trim().toLowerCase())
+              .filter(Boolean);
+
+            const excludeMsgRe = (() => {
+              const pat = process.env.EXCLUDED_PUSH_MESSAGE_REGEX;
+              try { return pat ? new RegExp(pat, "i") : null; } catch { return null; }
+            })();
 
             // Fetch recent public events
             const perPage = 100;
@@ -73,29 +86,38 @@ jobs:
 
             // Helpers
             const looksLikeBot = (login, type) => {
-              if (!login && !type) return false;
-              if ((type || "").toLowerCase() === "bot") return true;
+              const t = (type || "").toLowerCase();
               const l = (login || "").toLowerCase();
+              if (t === "bot") return true;
               if (l.endsWith("[bot]")) return true;
               if (knownBotLogins.has(l)) return true;
               return false;
             };
 
-            const isExcludedRepo = (repoFullName) => {
-              return excludedRepos.has((repoFullName || "").toLowerCase());
-            };
+            const isExcludedRepo = (repoFullName) => excludedRepos.has((repoFullName || "").toLowerCase());
 
             const truncate = (s, n = 80) => {
               if (!s) return "";
               const one = s.split("\n")[0].trim();
               return one.length > n ? one.slice(0, n - 1) + "…" : one;
-            };
+              };
 
             function repoUrl(full) { return `https://github.com/${full}`; }
             function prUrl(repo, num) { return `https://github.com/${repo}/pull/${num}`; }
             function issueUrl(repo, num) { return `https://github.com/${repo}/issues/${num}`; }
             function relUrl(repo, tag) { return `https://github.com/${repo}/releases/tag/${encodeURIComponent(tag)}`; }
             function isoWhen(dstr) { return new Date(dstr).toISOString().replace(/\.\d+Z$/, "Z"); }
+
+            function pushLooksAutomated(ev) {
+              const commits = ev.payload?.commits || [];
+              for (const c of commits) {
+                const authorBlob = `${(c.author?.name || "")} ${(c.author?.email || "")} ${(c.committer?.name || "")} ${(c.committer?.email || "")}`.toLowerCase();
+                if (excludedPushAuthors.some(sub => authorBlob.includes(sub))) return true;
+                const msg = (c.message || "");
+                if (excludeMsgRe && excludeMsgRe.test(msg)) return true;
+              }
+              return false;
+            }
 
             function lineFor(ev) {
               const repo = ev.repo?.name || "";
@@ -105,7 +127,6 @@ jobs:
               switch (ev.type) {
                 case "PullRequestEvent": {
                   const pr = ev.payload?.pull_request;
-
                   // Exclude PRs initiated by bots
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
@@ -117,8 +138,6 @@ jobs:
                 }
                 case "PullRequestReviewEvent": {
                   const pr = ev.payload?.pull_request;
-
-                  // Exclude PR reviews if the PR was initiated by a bot
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
                   const num = pr?.number;
@@ -128,8 +147,6 @@ jobs:
                 }
                 case "PullRequestReviewCommentEvent": {
                   const pr = ev.payload?.pull_request;
-
-                  // Exclude PR review comments if the PR was initiated by a bot
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
                   const num = pr?.number;
@@ -157,8 +174,8 @@ jobs:
                   return `- ${when} published release [${tag}](${relUrl(repo, tag)}) in [${repo}](${rurl})${name ? ` - "${name}"` : ""}`;
                 }
                 case "PushEvent": {
-                  // Exclude pushes initiated by bots (event actor)
-                  if (looksLikeBot(ev.actor?.login, ev.actor?.type)) return null;
+                  // Exclude automated-looking pushes and those from excluded repos
+                  if (pushLooksAutomated(ev)) return null;
 
                   const branch = (ev.payload?.ref || "").replace("refs/heads/", "");
                   const count = ev.payload?.commits?.length || 0;
@@ -173,15 +190,11 @@ jobs:
               }
             }
 
-            // Filter, exclude bot actors globally, exclude selected repos, respect lookback window, then limit
+            // Filter: exclude bot actors, excluded repos, lookback, then limit
             const lines = [];
             for (const ev of events) {
-              // Skip events from bot actors (covers comments, issues, reviews, etc.)
               if (looksLikeBot(ev.actor?.login, ev.actor?.type)) continue;
-
-              // Skip if repo is in the excluded set
               if (isExcludedRepo(ev.repo?.name)) continue;
-
               if (!allowed.has(ev.type)) continue;
               if (new Date(ev.created_at) < cutoff) continue;
 
