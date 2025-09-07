@@ -20,6 +20,7 @@ jobs:
       START_MARKER: "<!-- ACTIVITY:START -->"
       END_MARKER: "<!-- ACTIVITY:END -->"
       MAX_LOOKBACK_DAYS: "60"   # ignore events older than this window
+      BOT_LOGINS: "github-actions[bot],dependabot[bot],renovate[bot]"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,6 +34,12 @@ jobs:
             const maxItems = parseInt(process.env.MAX_ITEMS || "10", 10);
             const maxLookbackDays = parseInt(process.env.MAX_LOOKBACK_DAYS || "60", 10);
             const cutoff = new Date(Date.now() - maxLookbackDays * 24 * 60 * 60 * 1000);
+            const knownBotLogins = new Set(
+              (process.env.BOT_LOGINS || "")
+                .split(",")
+                .map(s => s.trim())
+                .filter(Boolean)
+            );
 
             // Fetch recent public events
             const perPage = 100;
@@ -53,7 +60,16 @@ jobs:
               "PushEvent"
             ]);
 
-            // Optional helper: truncate long text
+            // Helpers
+            const looksLikeBot = (login, type) => {
+              if (!login && !type) return false;
+              if (type === "Bot") return true;
+              const l = (login || "").toLowerCase();
+              if (l.endsWith("[bot]")) return true;
+              if (knownBotLogins.has(login)) return true;
+              return false;
+            };
+
             const truncate = (s, n = 80) => {
               if (!s) return "";
               const one = s.split("\n")[0].trim();
@@ -64,10 +80,7 @@ jobs:
             function prUrl(repo, num) { return `https://github.com/${repo}/pull/${num}`; }
             function issueUrl(repo, num) { return `https://github.com/${repo}/issues/${num}`; }
             function relUrl(repo, tag) { return `https://github.com/${repo}/releases/tag/${encodeURIComponent(tag)}`; }
-
-            function isoWhen(dstr) {
-              return new Date(dstr).toISOString().replace(/\.\d+Z$/, "Z");
-            }
+            function isoWhen(dstr) { return new Date(dstr).toISOString().replace(/\.\d+Z$/, "Z"); }
 
             function lineFor(ev) {
               const repo = ev.repo?.name || "";
@@ -77,6 +90,9 @@ jobs:
               switch (ev.type) {
                 case "PullRequestEvent": {
                   const pr = ev.payload?.pull_request;
+                  // Exclude PRs initiated by bots
+                  if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
+
                   const num = pr?.number ?? ev.payload?.number;
                   let action = ev.payload?.action;
                   if (action === "closed" && pr?.merged) action = "merged";
@@ -85,6 +101,9 @@ jobs:
                 }
                 case "PullRequestReviewEvent": {
                   const pr = ev.payload?.pull_request;
+                  // Exclude PR reviews if the PR was initiated by a bot
+                  if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
+
                   const num = pr?.number;
                   const state = ev.payload?.review?.state || "reviewed";
                   const title = truncate(pr?.title);
@@ -92,6 +111,9 @@ jobs:
                 }
                 case "PullRequestReviewCommentEvent": {
                   const pr = ev.payload?.pull_request;
+                  // Exclude PR review comments if the PR was initiated by a bot
+                  if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
+
                   const num = pr?.number;
                   return `- ${when} commented on PR [#${num}](${prUrl(repo, num)}) in [${repo}](${rurl})`;
                 }
@@ -117,6 +139,9 @@ jobs:
                   return `- ${when} published release [${tag}](${relUrl(repo, tag)}) in [${repo}](${rurl})${name ? ` - "${name}"` : ""}`;
                 }
                 case "PushEvent": {
+                  // Exclude pushes initiated by bots (event actor)
+                  if (looksLikeBot(ev.actor?.login, ev.actor?.type)) return null;
+
                   const branch = (ev.payload?.ref || "").replace("refs/heads/", "");
                   const count = ev.payload?.commits?.length || 0;
                   const before = ev.payload?.before;
@@ -130,11 +155,14 @@ jobs:
               }
             }
 
-            // Filter, respect lookback window, then limit
+            // Filter, exclude bot actors globally, respect lookback window, then limit
             const lines = [];
             for (const ev of events) {
+              // Skip events from bot actors (covers comments, issues, reviews, etc.)
+              if (looksLikeBot(ev.actor?.login, ev.actor?.type)) continue;
               if (!allowed.has(ev.type)) continue;
               if (new Date(ev.created_at) < cutoff) continue;
+
               const line = lineFor(ev);
               if (line) lines.push(line);
               if (lines.length >= maxItems) break;
