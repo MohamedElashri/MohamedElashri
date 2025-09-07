@@ -64,16 +64,14 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 2025-09-07T00:12:23Z pushed 1 commit to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/facb625d316a8007a58a5efde7af394fc1588bf6...ab859afcabfb1c65fc7f38f21863abcc07e3a09a) - ":bento: Update graphs [skip ci]"
-- 2025-09-07T00:00:52Z pushed 2 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/feafcd90ddce81ed844224166373412a9e109a87...facb625d316a8007a58a5efde7af394fc1588bf6) - ":pencil: Update summary in README [skip ci] [upptime]"
-- 2025-09-06T23:01:45Z pushed 6 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/057dbbe7f3de6039e3f38adc797726f368c63f81...feafcd90ddce81ed844224166373412a9e109a87) - "🟩 CERN is up (200 in 1554 ms) [skip ci] [upptime]"
-- 2025-09-06T00:10:31Z pushed 1 commit to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/7b94e36adfd67982b469d1aacd738a8a1b5bc611...057dbbe7f3de6039e3f38adc797726f368c63f81) - ":bento: Update graphs [skip ci]"
-- 2025-09-06T00:00:55Z pushed 2 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/30822fda933a7536377badaa078f13519c0285cc...7b94e36adfd67982b469d1aacd738a8a1b5bc611) - ":pencil: Update summary in README [skip ci] [upptime]"
-- 2025-09-05T23:01:55Z pushed 6 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/d5051685dfce2e3a811adc7f85a63e18f056329d...30822fda933a7536377badaa078f13519c0285cc) - "🟩 CERN is up (200 in 1603 ms) [skip ci] [upptime]"
-- 2025-09-05T00:12:13Z pushed 1 commit to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/181d0925f249ce12f2dc28c277629bb11c810ddb...d5051685dfce2e3a811adc7f85a63e18f056329d) - ":bento: Update graphs [skip ci]"
-- 2025-09-05T00:01:42Z pushed 1 commit to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/1e90aa8208405115e34418d7efee509ba0e48cb6...181d0925f249ce12f2dc28c277629bb11c810ddb) - ":arrow_up: Update @upptime to v1.41.0"
-- 2025-09-05T00:00:41Z pushed 2 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/aaa666b9f8e428e30a67e13106284003ee64ffee...1e90aa8208405115e34418d7efee509ba0e48cb6) - ":pencil: Update summary in README [skip ci] [upptime]"
-- 2025-09-04T23:01:48Z pushed 6 commits to [MohamedElashri/monitor@master](https://github.com/MohamedElashri/monitor/compare/28a2b5342e816e4af66b292ccf34d3577feea85b...aaa666b9f8e428e30a67e13106284003ee64ffee) - "🟩 CERN is up (200 in 836 ms) [skip ci] [upptime]"
+- 2025-09-01T01:30:10Z pushed 1 commit to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/21145daf7c37af1f38cc6fda0f268127eaafd79a...88024a63ec838c16115e0f9277746d1d19dfdeae) - "Update iOS release workflow for Xcode setup and build"
+- 2025-08-31T19:38:36Z pushed 1 commit to [MohamedElashri/iml7-cern-lhcbfinder-poster@main](https://github.com/MohamedElashri/iml7-cern-lhcbfinder-poster/compare/fa2f510fdfb2e7d59caef7e6587a379790cd1ad4...5fdef98084a67277159a4a78772948dcfcdbf17f) - "Update README.md"
+- 2025-08-31T19:38:17Z pushed 1 commit to [MohamedElashri/iml7-cern-lhcbfinder-poster@main](https://github.com/MohamedElashri/iml7-cern-lhcbfinder-poster/compare/ec70ada6aab33870b7495c3c786f1d37c25036fc...fa2f510fdfb2e7d59caef7e6587a379790cd1ad4) - "Initial Overleaf Import"
+- 2025-08-31T19:30:02Z pushed 1 commit to [MohamedElashri/iml7-cern-pvfinder-ml-challenges@main](https://github.com/MohamedElashri/iml7-cern-pvfinder-ml-challenges/compare/9dcd3af89f785212721b25fb36e0cf8ed671fd09...dfdfabad20d6a7e5556ccff343abbd7eeb9e004c) - "Initial Overleaf Import"
+- 2025-08-28T12:18:20Z pushed 20 commits to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/afe4704aa197bd2a1b49f27985738b4f329425f3...3b991e80b8b7a5a3c7fa6d94f5160f1b47c67ce6) - "[main] rootls: add flag to show RNTuple field hierarchy"
+- 2025-08-28T12:16:36Z pushed 1 commit to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/a4b50adf978cc7430af087991cecb3d1429785aa...872183a6159cbe87cab6b319368f83b8cff4ce55) - "refector the code in modular version"
+- 2025-08-26T14:58:53Z pushed 1 commit to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/4c1613f32c801dae20a789059d4307c4f86b3cdd...a4b50adf978cc7430af087991cecb3d1429785aa) - "Add SEO and metadata in index.html"
+- 2025-08-26T14:52:57Z pushed 6 commits to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/713f44cf8eca28e9d44dfd36fafb38299e5680dc...4c1613f32c801dae20a789059d4307c4f86b3cdd) - "Add file limit input with custom limit functionality and update processing logic"
 <!-- ACTIVITY:END -->
 
 ---
