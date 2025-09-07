@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     env:
-      FEED_URL: "https://blog.melashri.net/all-content.xml"
+      FEED_URL: "https://blog.melashri.net/atom.xml"
       MAX_POSTS: "5"
       TARGET_FILE: "README.md"
       START_MARKER: "<!-- BLOG-POST-LIST:START -->"
