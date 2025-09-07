@@ -21,6 +21,7 @@ jobs:
       END_MARKER: "<!-- ACTIVITY:END -->"
       MAX_LOOKBACK_DAYS: "60"   # ignore events older than this window
       BOT_LOGINS: "github-actions[bot],dependabot[bot],renovate[bot]"
+      EXCLUDED_REPOS: "MohamedElashri/MohamedElashri"   # comma-separated list of owner/repo to exclude entirely
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,11 +35,21 @@ jobs:
             const maxItems = parseInt(process.env.MAX_ITEMS || "10", 10);
             const maxLookbackDays = parseInt(process.env.MAX_LOOKBACK_DAYS || "60", 10);
             const cutoff = new Date(Date.now() - maxLookbackDays * 24 * 60 * 60 * 1000);
+
             const knownBotLogins = new Set(
               (process.env.BOT_LOGINS || "")
                 .split(",")
                 .map(s => s.trim())
                 .filter(Boolean)
+                .map(s => s.toLowerCase())
+            );
+
+            const excludedRepos = new Set(
+              (process.env.EXCLUDED_REPOS || "")
+                .split(",")
+                .map(s => s.trim())
+                .filter(Boolean)
+                .map(s => s.toLowerCase())
             );
 
             // Fetch recent public events
@@ -63,11 +74,15 @@ jobs:
             // Helpers
             const looksLikeBot = (login, type) => {
               if (!login && !type) return false;
-              if (type === "Bot") return true;
+              if ((type || "").toLowerCase() === "bot") return true;
               const l = (login || "").toLowerCase();
               if (l.endsWith("[bot]")) return true;
-              if (knownBotLogins.has(login)) return true;
+              if (knownBotLogins.has(l)) return true;
               return false;
+            };
+
+            const isExcludedRepo = (repoFullName) => {
+              return excludedRepos.has((repoFullName || "").toLowerCase());
             };
 
             const truncate = (s, n = 80) => {
@@ -90,6 +105,7 @@ jobs:
               switch (ev.type) {
                 case "PullRequestEvent": {
                   const pr = ev.payload?.pull_request;
+
                   // Exclude PRs initiated by bots
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
@@ -101,6 +117,7 @@ jobs:
                 }
                 case "PullRequestReviewEvent": {
                   const pr = ev.payload?.pull_request;
+
                   // Exclude PR reviews if the PR was initiated by a bot
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
@@ -111,6 +128,7 @@ jobs:
                 }
                 case "PullRequestReviewCommentEvent": {
                   const pr = ev.payload?.pull_request;
+
                   // Exclude PR review comments if the PR was initiated by a bot
                   if (looksLikeBot(pr?.user?.login, pr?.user?.type)) return null;
 
@@ -155,11 +173,15 @@ jobs:
               }
             }
 
-            // Filter, exclude bot actors globally, respect lookback window, then limit
+            // Filter, exclude bot actors globally, exclude selected repos, respect lookback window, then limit
             const lines = [];
             for (const ev of events) {
               // Skip events from bot actors (covers comments, issues, reviews, etc.)
               if (looksLikeBot(ev.actor?.login, ev.actor?.type)) continue;
+
+              // Skip if repo is in the excluded set
+              if (isExcludedRepo(ev.repo?.name)) continue;
+
               if (!allowed.has(ev.type)) continue;
               if (new Date(ev.created_at) < cutoff) continue;
 
