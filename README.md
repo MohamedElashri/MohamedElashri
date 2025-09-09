@@ -56,9 +56,9 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 - [Hardware projects I want to try](https://blog.melashri.net/micro/hardware-projects-list/)
 - [This blog is using zola now](https://blog.melashri.net/micro/zola-blog/)
-- [Footnote Test](https://blog.melashri.net/footnote-test/)
 - [GPUs vs FPGAs in LHCb Trigger: Gains and Losses](https://blog.melashri.net/posts/lhcb-htl1/)
 - [New Academic Website](https://blog.melashri.net/micro/new-academic-website/)
+- [CCCL for HEP Triggers](https://blog.melashri.net/posts/cccl/)
 
 <!-- BLOG-POST-LIST:END -->
 
