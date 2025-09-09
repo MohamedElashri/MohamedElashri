@@ -64,6 +64,7 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 08/09/2025 commented on issue [#19294](https://github.com/root-project/root/issues/19294) in [root-project/root](https://github.com/root-project/root) - "fix: fix progress bar for RDataFrame with Range limits"
 - 08/09/2025 pushed 20 commits to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/2eddf06c7ad1989b7c7a96fc700abd9b40c2bee7...0317a237d3ed77ecf6041442f40f7a5d4b175b42)
 - 08/09/2025 pushed 1 commit to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/3b991e80b8b7a5a3c7fa6d94f5160f1b47c67ce6...2eddf06c7ad1989b7c7a96fc700abd9b40c2bee7)
 - 01/09/2025 pushed 1 commit to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/21145daf7c37af1f38cc6fda0f268127eaafd79a...88024a63ec838c16115e0f9277746d1d19dfdeae)
@@ -73,7 +74,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 - 28/08/2025 pushed 20 commits to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/afe4704aa197bd2a1b49f27985738b4f329425f3...3b991e80b8b7a5a3c7fa6d94f5160f1b47c67ce6)
 - 28/08/2025 pushed 1 commit to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/a4b50adf978cc7430af087991cecb3d1429785aa...872183a6159cbe87cab6b319368f83b8cff4ce55)
 - 26/08/2025 pushed 1 commit to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/4c1613f32c801dae20a789059d4307c4f86b3cdd...a4b50adf978cc7430af087991cecb3d1429785aa)
-- 26/08/2025 pushed 6 commits to [MohamedElashri/grender@main](https://github.com/MohamedElashri/grender/compare/713f44cf8eca28e9d44dfd36fafb38299e5680dc...4c1613f32c801dae20a789059d4307c4f86b3cdd)
 <!-- ACTIVITY:END -->
 
 ---
