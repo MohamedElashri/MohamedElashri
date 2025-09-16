@@ -64,16 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/8ea1d6c0d6992a24096e0dd934a6df44acc70de8...a098d201150e6089a4b4775eed3f57b5d251d1c2)
+- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/1af2f35b9e11f7e12a843d053411aa7ec5aaf7d4...8ea1d6c0d6992a24096e0dd934a6df44acc70de8)
+- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/ca93a1e0528318dc367ff3ca22b3bd0bcc5b684d...1af2f35b9e11f7e12a843d053411aa7ec5aaf7d4)
+- 15/09/2025 pushed 3 commits to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/2fa36498912aa8742f49a45e571603da70842812...ca93a1e0528318dc367ff3ca22b3bd0bcc5b684d)
 - 14/09/2025 pushed 4 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/5e01b3750fe6d881f73cee908f72f2fcdd5ca87e...c138a17c71cfc3ad96e53150e05c9d6e5210986e)
 - 14/09/2025 pushed 3 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/ce13b20432dccbccadbe00dc196ac7854c9651e9...5e01b3750fe6d881f73cee908f72f2fcdd5ca87e)
 - 14/09/2025 pushed 4 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/bf12b13dd9561a10f57da301a423c26a3135c41d...ce13b20432dccbccadbe00dc196ac7854c9651e9)
 - 14/09/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/0c4ce185fda7d956c1dd8c7c9e3e503ba6c7fa8c...bf12b13dd9561a10f57da301a423c26a3135c41d)
 - 12/09/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/b817c70cf1c5128e4c7c6ddf8e406e6c28dac2d7...0c4ce185fda7d956c1dd8c7c9e3e503ba6c7fa8c)
 - 12/09/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/ee117f2eb6e8fa4287308404effac3f3d3b0f025...b817c70cf1c5128e4c7c6ddf8e406e6c28dac2d7)
-- 08/09/2025 commented on issue [#19294](https://github.com/root-project/root/issues/19294) in [root-project/root](https://github.com/root-project/root) - "fix: fix progress bar for RDataFrame with Range limits"
-- 08/09/2025 pushed 20 commits to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/2eddf06c7ad1989b7c7a96fc700abd9b40c2bee7...0317a237d3ed77ecf6041442f40f7a5d4b175b42)
-- 08/09/2025 pushed 1 commit to [MohamedElashri/root-cern@master](https://github.com/MohamedElashri/root-cern/compare/3b991e80b8b7a5a3c7fa6d94f5160f1b47c67ce6...2eddf06c7ad1989b7c7a96fc700abd9b40c2bee7)
-- 01/09/2025 pushed 1 commit to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/21145daf7c37af1f38cc6fda0f268127eaafd79a...88024a63ec838c16115e0f9277746d1d19dfdeae)
 <!-- ACTIVITY:END -->
 
 ---
