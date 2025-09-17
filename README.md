@@ -83,3 +83,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ---
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElashri&layout=compact&hide=jupyter%20notebook,php,html,javascript,css,scss,nsis,less,mathematica&langs_count=8" alt="MohamedElashri" />
+</p>
