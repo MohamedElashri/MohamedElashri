@@ -64,16 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 19/09/2025 pushed 1 commit to [MohamedElashri/QuarkLauncher@refactor-settings](https://github.com/MohamedElashri/QuarkLauncher/compare/a462e819feca5fbf980ded7e858568d2599e91c0...9c2d4668b5bcc3660e7dcc939b739707c3b1ceb0)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/5e424231f6c7048aa50830729a344e5d1d9aba42...22c0787c6111fad31a48652b5b2b6a7eca90383b)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/cdcb3fb35f5af46cb93b9047c4a1406c121e845f...5e424231f6c7048aa50830729a344e5d1d9aba42)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/da064e1e1bbd105ee6b4d16bebb6261fad43f094...cdcb3fb35f5af46cb93b9047c4a1406c121e845f)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/f04bb17dd51b6482446278d9dad86e9991f03057...da064e1e1bbd105ee6b4d16bebb6261fad43f094)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/d646712f62e38add8a0c2eec24abc2d3fcea83ff...f04bb17dd51b6482446278d9dad86e9991f03057)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/096ba04b812b8efb1469d31d21c05e2c9056f38d...d646712f62e38add8a0c2eec24abc2d3fcea83ff)
+- 19/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/4267614c4ba9f0d962b4e02e7e8523a99a5be1b5...6257f18d35e8127be32dd3963bbc596f0d5096fe)
 - 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/90b4b32edad3096dfbbcc8cba072344fbe19e45b...4267614c4ba9f0d962b4e02e7e8523a99a5be1b5)
 - 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/6c5e46deaac1fe73afeb9b46a6f5bf5222dd1334...90b4b32edad3096dfbbcc8cba072344fbe19e45b)
-- 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/9aa496b6c0f8a70942ffaacd5d788d515c34979e...6c5e46deaac1fe73afeb9b46a6f5bf5222dd1334)
-- 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/59e81f81aac496a637c601d8df6ae071445e9545...9aa496b6c0f8a70942ffaacd5d788d515c34979e)
-- 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/f15448df37877bff568671116effb489fbe1b3b9...59e81f81aac496a637c601d8df6ae071445e9545)
-- 18/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/e4fd38aff30eb264550528f6e420e279965b776c...f15448df37877bff568671116effb489fbe1b3b9)
-- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/a098d201150e6089a4b4775eed3f57b5d251d1c2...e4fd38aff30eb264550528f6e420e279965b776c)
-- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/8ea1d6c0d6992a24096e0dd934a6df44acc70de8...a098d201150e6089a4b4775eed3f57b5d251d1c2)
-- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/1af2f35b9e11f7e12a843d053411aa7ec5aaf7d4...8ea1d6c0d6992a24096e0dd934a6df44acc70de8)
-- 15/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/ca93a1e0528318dc367ff3ca22b3bd0bcc5b684d...1af2f35b9e11f7e12a843d053411aa7ec5aaf7d4)
 <!-- ACTIVITY:END -->
 
 ---
