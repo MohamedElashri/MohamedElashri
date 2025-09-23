@@ -54,7 +54,7 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-- [I created my first MacOS app](https://blog.melashri.net/micro/quark-launcher/)
+- [My first macOS app](https://blog.melashri.net/micro/quark-launcher/)
 - [Hardware projects I want to try](https://blog.melashri.net/micro/hardware-projects-list/)
 - [This blog is using zola now](https://blog.melashri.net/micro/zola-blog/)
 - [GPUs vs FPGAs in LHCb Trigger: Gains and Losses](https://blog.melashri.net/posts/lhcb-htl1/)
