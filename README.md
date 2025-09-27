@@ -64,16 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/c5ffc80da30ab64a1876253de3f96dff72ede0e7...2d38bcf8f94722ec359b62ab795bd6c7d6450780)
+- 27/09/2025 opened PR [#1](https://github.com/ahmgam/stock-data-crowler/pull/1) in [ahmgam/stock-data-crowler](https://github.com/ahmgam/stock-data-crowler) - "add all countries to the list"
+- 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/b143ab50537f5ce62d4e13b62efb950312e4adde...7ef36c37e86453f9195fbcf3bba78c9283f19fe9)
+- 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/0afc0e9384b18520dd1ccfc7ee28fe4fcef0ff65...b143ab50537f5ce62d4e13b62efb950312e4adde)
+- 27/09/2025 pushed 2 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/500c6d921e7a74892b9eb572a1dbbff102a839a7...5e5bc91af28c5bdf96b4874b573155e3d95b4fb4)
 - 24/09/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/016336866140c2f59c2346d879b01a0303cf8238...17c9f45de12cbb62fd6805a851363969cdecc1d9)
 - 22/09/2025 pushed 2 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0...f62d5fd84dd45277805ed5320eda5a59e0a8972c)
 - 22/09/2025 pushed 4 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/71059900cc65754affd1dee1c48af41c8c840985...23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0)
 - 22/09/2025 merged PR [#4](https://github.com/MohamedElashri/QuarkLauncher/pull/4) in [MohamedElashri/QuarkLauncher](https://github.com/MohamedElashri/QuarkLauncher) - "Redesign settings view with improved layout and consistent appearance"
 - 22/09/2025 opened PR [#4](https://github.com/MohamedElashri/QuarkLauncher/pull/4) in [MohamedElashri/QuarkLauncher](https://github.com/MohamedElashri/QuarkLauncher) - "Redesign settings view with improved layout and consistent appearance"
-- 19/09/2025 pushed 1 commit to [MohamedElashri/QuarkLauncher@refactor-settings](https://github.com/MohamedElashri/QuarkLauncher/compare/a462e819feca5fbf980ded7e858568d2599e91c0...9c2d4668b5bcc3660e7dcc939b739707c3b1ceb0)
-- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/5e424231f6c7048aa50830729a344e5d1d9aba42...22c0787c6111fad31a48652b5b2b6a7eca90383b)
-- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/cdcb3fb35f5af46cb93b9047c4a1406c121e845f...5e424231f6c7048aa50830729a344e5d1d9aba42)
-- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/da064e1e1bbd105ee6b4d16bebb6261fad43f094...cdcb3fb35f5af46cb93b9047c4a1406c121e845f)
-- 19/09/2025 pushed 1 commit to [MohamedElashri/github2forgejo@main](https://github.com/MohamedElashri/github2forgejo/compare/f04bb17dd51b6482446278d9dad86e9991f03057...da064e1e1bbd105ee6b4d16bebb6261fad43f094)
 <!-- ACTIVITY:END -->
 
 ---
