@@ -64,6 +64,7 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 28/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/6257f18d35e8127be32dd3963bbc596f0d5096fe...205f19e7bb372c8b843023e3ea0026426f82774a)
 - 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/c5ffc80da30ab64a1876253de3f96dff72ede0e7...2d38bcf8f94722ec359b62ab795bd6c7d6450780)
 - 27/09/2025 opened PR [#1](https://github.com/ahmgam/stock-data-crowler/pull/1) in [ahmgam/stock-data-crowler](https://github.com/ahmgam/stock-data-crowler) - "add all countries to the list"
 - 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/b143ab50537f5ce62d4e13b62efb950312e4adde...7ef36c37e86453f9195fbcf3bba78c9283f19fe9)
@@ -73,7 +74,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 - 22/09/2025 pushed 2 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0...f62d5fd84dd45277805ed5320eda5a59e0a8972c)
 - 22/09/2025 pushed 4 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/71059900cc65754affd1dee1c48af41c8c840985...23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0)
 - 22/09/2025 merged PR [#4](https://github.com/MohamedElashri/QuarkLauncher/pull/4) in [MohamedElashri/QuarkLauncher](https://github.com/MohamedElashri/QuarkLauncher) - "Redesign settings view with improved layout and consistent appearance"
-- 22/09/2025 opened PR [#4](https://github.com/MohamedElashri/QuarkLauncher/pull/4) in [MohamedElashri/QuarkLauncher](https://github.com/MohamedElashri/QuarkLauncher) - "Redesign settings view with improved layout and consistent appearance"
 <!-- ACTIVITY:END -->
 
 ---
