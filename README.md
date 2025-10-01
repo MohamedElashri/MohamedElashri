@@ -64,16 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/bc787e60ce5bd8115cfcab6c4012f71fed470658...a02d6d070093a89fcbe5976850d2993d40d28a4e)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/c507b7f28f72dd785a544abcf216b0ccae7ff8e9...bc787e60ce5bd8115cfcab6c4012f71fed470658)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/bcb7a86c40964766ab75e700fa871b691aaa1664...c507b7f28f72dd785a544abcf216b0ccae7ff8e9)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/6326e593cb0061d18e672abe344f8b665ea6767c...bcb7a86c40964766ab75e700fa871b691aaa1664)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/jet_tagging_lhcb@main](https://github.com/MohamedElashri/jet_tagging_lhcb/compare/1b81cd21a83cb6eb95630338b8a1ae5a1bbc5f7f...eea5722233a3b16283f8210468c85343e4e76804)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/5453545c5aaab993f48aabb7c31e7753f3782fbb...6326e593cb0061d18e672abe344f8b665ea6767c)
+- 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/17c9f45de12cbb62fd6805a851363969cdecc1d9...5453545c5aaab993f48aabb7c31e7753f3782fbb)
 - 29/09/2025 pushed 1 commit to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/5e5bc91af28c5bdf96b4874b573155e3d95b4fb4...d1adb90118b908b6f83db7196e877460610b742e)
 - 28/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/6257f18d35e8127be32dd3963bbc596f0d5096fe...205f19e7bb372c8b843023e3ea0026426f82774a)
 - 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/c5ffc80da30ab64a1876253de3f96dff72ede0e7...2d38bcf8f94722ec359b62ab795bd6c7d6450780)
-- 27/09/2025 opened PR [#1](https://github.com/ahmgam/stock-data-crowler/pull/1) in [ahmgam/stock-data-crowler](https://github.com/ahmgam/stock-data-crowler) - "add all countries to the list"
-- 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/b143ab50537f5ce62d4e13b62efb950312e4adde...7ef36c37e86453f9195fbcf3bba78c9283f19fe9)
-- 27/09/2025 pushed 1 commit to [MohamedElashri/stock-data-crowler@main](https://github.com/MohamedElashri/stock-data-crowler/compare/0afc0e9384b18520dd1ccfc7ee28fe4fcef0ff65...b143ab50537f5ce62d4e13b62efb950312e4adde)
-- 27/09/2025 pushed 2 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/500c6d921e7a74892b9eb572a1dbbff102a839a7...5e5bc91af28c5bdf96b4874b573155e3d95b4fb4)
-- 24/09/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/016336866140c2f59c2346d879b01a0303cf8238...17c9f45de12cbb62fd6805a851363969cdecc1d9)
-- 22/09/2025 pushed 2 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0...f62d5fd84dd45277805ed5320eda5a59e0a8972c)
-- 22/09/2025 pushed 4 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/71059900cc65754affd1dee1c48af41c8c840985...23945f7fe5dda3a005dba9c4d4c36f3e9947d3e0)
 <!-- ACTIVITY:END -->
 
 ---
