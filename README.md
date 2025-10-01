@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [How to read arXiv daily](https://blog.melashri.net/micro/arxiv-dainly/)
 - [My first macOS app](https://blog.melashri.net/micro/quark-launcher/)
 - [Hardware projects I want to try](https://blog.melashri.net/micro/hardware-projects-list/)
 - [This blog is using zola now](https://blog.melashri.net/micro/zola-blog/)
 - [GPUs vs FPGAs in LHCb Trigger: Gains and Losses](https://blog.melashri.net/posts/lhcb-htl1/)
-- [New Academic Website](https://blog.melashri.net/micro/new-academic-website/)
 
 <!-- BLOG-POST-LIST:END -->
 
