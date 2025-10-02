@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-- [How to read arXiv daily](https://blog.melashri.net/micro/arxiv-dainly/)
+- [Electron apps macOS system lag bug](https://blog.melashri.net/micro/electon-apps-bug/)
+- [Optional vs Optional-Ref: The Lunchbox vs The Post-it](https://blog.melashri.net/micro/std-optional-vs-optional-ref/)
+- [ITerm2 RTL Support](https://blog.melashri.net/micro/iterm2-rtl-support/)
+- [How to read arXiv daily](https://blog.melashri.net/micro/how-to-read-arxiv-daily/)
 - [My first macOS app](https://blog.melashri.net/micro/quark-launcher/)
-- [Hardware projects I want to try](https://blog.melashri.net/micro/hardware-projects-list/)
-- [This blog is using zola now](https://blog.melashri.net/micro/zola-blog/)
-- [GPUs vs FPGAs in LHCb Trigger: Gains and Losses](https://blog.melashri.net/posts/lhcb-htl1/)
 
 <!-- BLOG-POST-LIST:END -->
 
