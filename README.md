@@ -64,6 +64,7 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 06/10/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/393e85b1bcfbc6d3f149dedfd96852316751722e...d8616e4f762e8f377750d174480c442c7a2370a8)
 - 06/10/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/172b120bcffce9b85c0b030dd5e9966b75933e05...393e85b1bcfbc6d3f149dedfd96852316751722e)
 - 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/bc787e60ce5bd8115cfcab6c4012f71fed470658...a02d6d070093a89fcbe5976850d2993d40d28a4e)
 - 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/c507b7f28f72dd785a544abcf216b0ccae7ff8e9...bc787e60ce5bd8115cfcab6c4012f71fed470658)
@@ -73,7 +74,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 - 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/5453545c5aaab993f48aabb7c31e7753f3782fbb...6326e593cb0061d18e672abe344f8b665ea6767c)
 - 01/10/2025 pushed 1 commit to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/17c9f45de12cbb62fd6805a851363969cdecc1d9...5453545c5aaab993f48aabb7c31e7753f3782fbb)
 - 29/09/2025 pushed 1 commit to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/5e5bc91af28c5bdf96b4874b573155e3d95b4fb4...d1adb90118b908b6f83db7196e877460610b742e)
-- 28/09/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/6257f18d35e8127be32dd3963bbc596f0d5096fe...205f19e7bb372c8b843023e3ea0026426f82774a)
 <!-- ACTIVITY:END -->
 
 ---
