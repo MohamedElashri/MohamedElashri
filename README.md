@@ -64,16 +64,16 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/8e920d1c49bbf0611943f79c1dfa90eada8f2c3a...e5ed22821ff67ba3cfea5526a0c7d62a752106ad)
+- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/dc6816164293106a0904287748170808b569e63f...43efb19a552cf605c81e5fc5fe9350064d7d6669)
+- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/67f63333681d35945f7de937faea94e7a57a6864...dc6816164293106a0904287748170808b569e63f)
+- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/625f04af5c006a8394e51513ac1b5268a1173272...67f63333681d35945f7de937faea94e7a57a6864)
+- 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/40c167417fc4ee755d4592127d0f89906a13e46a...cb9c1d551f7fb422e94e6d2861dcb0fe89af7c9e)
 - 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/a488ddc1d9c5a852cc612ada837e623c878f231c...40c167417fc4ee755d4592127d0f89906a13e46a)
 - 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/af7de79ef6b0b3a00835143c6963fb0fe763c1be...a488ddc1d9c5a852cc612ada837e623c878f231c)
 - 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/e5bf3a8beaf686f8994a7ccdd495a3117ccc8ae0...af7de79ef6b0b3a00835143c6963fb0fe763c1be)
 - 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/652adadd975087be331841e0dda0450d7dd1fd11...e5bf3a8beaf686f8994a7ccdd495a3117ccc8ae0)
 - 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/af530c5d302fd4f29225ee61d2c6e104ed71b314...652adadd975087be331841e0dda0450d7dd1fd11)
-- 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/f1c707b96d2377c1789891402a0742c6875e22f2...af530c5d302fd4f29225ee61d2c6e104ed71b314)
-- 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/eb4e8a12c2a57291c94e844e55f0a5a79ab6fea4...f1c707b96d2377c1789891402a0742c6875e22f2)
-- 08/10/2025 pushed 4 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/c138a17c71cfc3ad96e53150e05c9d6e5210986e...eb4e8a12c2a57291c94e844e55f0a5a79ab6fea4)
-- 06/10/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/393e85b1bcfbc6d3f149dedfd96852316751722e...d8616e4f762e8f377750d174480c442c7a2370a8)
-- 06/10/2025 pushed 1 commit to [MohamedElashri/build-ghostty@main](https://github.com/MohamedElashri/build-ghostty/compare/172b120bcffce9b85c0b030dd5e9966b75933e05...393e85b1bcfbc6d3f149dedfd96852316751722e)
 <!-- ACTIVITY:END -->
 
 ---
