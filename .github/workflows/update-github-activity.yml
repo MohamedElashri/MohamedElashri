@@ -15,11 +15,11 @@ jobs:
       contents: write
     env:
       USERNAME: "MohamedElashri"
-      MAX_ITEMS: "10"
+      MAX_ITEMS: "5"
       TARGET_FILE: "README.md"
       START_MARKER: "<!-- ACTIVITY:START -->"
       END_MARKER: "<!-- ACTIVITY:END -->"
-      MAX_LOOKBACK_DAYS: "60"   # ignore events older than this window
+      MAX_LOOKBACK_DAYS: "30"   # ignore events older than this window
 
       # Exclusions
       BOT_LOGINS: "github-actions[bot],dependabot[bot],renovate[bot],upptime-bot[bot]"
