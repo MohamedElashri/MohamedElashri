@@ -69,11 +69,6 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 - 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/dc6816164293106a0904287748170808b569e63f...43efb19a552cf605c81e5fc5fe9350064d7d6669)
 - 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/67f63333681d35945f7de937faea94e7a57a6864...dc6816164293106a0904287748170808b569e63f)
 - 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/625f04af5c006a8394e51513ac1b5268a1173272...67f63333681d35945f7de937faea94e7a57a6864)
-- 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/40c167417fc4ee755d4592127d0f89906a13e46a...cb9c1d551f7fb422e94e6d2861dcb0fe89af7c9e)
-- 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/a488ddc1d9c5a852cc612ada837e623c878f231c...40c167417fc4ee755d4592127d0f89906a13e46a)
-- 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/af7de79ef6b0b3a00835143c6963fb0fe763c1be...a488ddc1d9c5a852cc612ada837e623c878f231c)
-- 08/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/e5bf3a8beaf686f8994a7ccdd495a3117ccc8ae0...af7de79ef6b0b3a00835143c6963fb0fe763c1be)
-- 08/10/2025 pushed 2 commits to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/652adadd975087be331841e0dda0450d7dd1fd11...e5bf3a8beaf686f8994a7ccdd495a3117ccc8ae0)
 <!-- ACTIVITY:END -->
 
 ---
