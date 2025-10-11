@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 11/10/2025 pushed 3 commits to [MohamedElashri/nova-external_terminal.novaextension@main](https://github.com/MohamedElashri/nova-external_terminal.novaextension/compare/214ef37d223c4c67bd332f3308239aae87f94bd0...4664c8b5648436fd2efa4c1f8926e051616215ed)
+- 11/10/2025 merged PR [#2](https://github.com/MohamedElashri/nova-external_terminal.novaextension/pull/2) in [MohamedElashri/nova-external_terminal.novaextension](https://github.com/MohamedElashri/nova-external_terminal.novaextension) - "fix typo: Wrap -> Warp"
 - 09/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/15ed50c76006a36846e18530dcfa548d29c3d1f9...3e8c83aa93dc65db1fe0e6b96c1dbab3007bcb8e)
 - 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/8e920d1c49bbf0611943f79c1dfa90eada8f2c3a...e5ed22821ff67ba3cfea5526a0c7d62a752106ad)
 - 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/dc6816164293106a0904287748170808b569e63f...43efb19a552cf605c81e5fc5fe9350064d7d6669)
-- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/67f63333681d35945f7de937faea94e7a57a6864...dc6816164293106a0904287748170808b569e63f)
-- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/625f04af5c006a8394e51513ac1b5268a1173272...67f63333681d35945f7de937faea94e7a57a6864)
 <!-- ACTIVITY:END -->
 
 ---
