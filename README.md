@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/7bdf0f3d0258d9ddbb1dbc4a7d6026b9dbcab173...5f229113b5faebb50ab0b57d8217bea0778494bc)
+- 12/10/2025 pushed 3 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/e700baa1843a5885b64dbcf8742520fd2d39d17b...d28041370d514195c4489757266a0a471460df9e)
+- 12/10/2025 commented on issue [#6](https://github.com/MohamedElashri/free-mac/issues/6) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Bad calculation of available"
+- 12/10/2025 opened PR [#7](https://github.com/MohamedElashri/free-mac/pull/7) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Correct Memory Calculations"
 - 11/10/2025 pushed 3 commits to [MohamedElashri/nova-external_terminal.novaextension@main](https://github.com/MohamedElashri/nova-external_terminal.novaextension/compare/214ef37d223c4c67bd332f3308239aae87f94bd0...4664c8b5648436fd2efa4c1f8926e051616215ed)
-- 11/10/2025 merged PR [#2](https://github.com/MohamedElashri/nova-external_terminal.novaextension/pull/2) in [MohamedElashri/nova-external_terminal.novaextension](https://github.com/MohamedElashri/nova-external_terminal.novaextension) - "fix typo: Wrap -> Warp"
-- 09/10/2025 pushed 1 commit to [MohamedElashri/HEPilot@main](https://github.com/MohamedElashri/HEPilot/compare/15ed50c76006a36846e18530dcfa548d29c3d1f9...3e8c83aa93dc65db1fe0e6b96c1dbab3007bcb8e)
-- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/8e920d1c49bbf0611943f79c1dfa90eada8f2c3a...e5ed22821ff67ba3cfea5526a0c7d62a752106ad)
-- 09/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/dc6816164293106a0904287748170808b569e63f...43efb19a552cf605c81e5fc5fe9350064d7d6669)
 <!-- ACTIVITY:END -->
 
 ---
