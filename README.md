@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/7bdf0f3d0258d9ddbb1dbc4a7d6026b9dbcab173...5f229113b5faebb50ab0b57d8217bea0778494bc)
-- 12/10/2025 pushed 3 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/e700baa1843a5885b64dbcf8742520fd2d39d17b...d28041370d514195c4489757266a0a471460df9e)
-- 12/10/2025 commented on issue [#6](https://github.com/MohamedElashri/free-mac/issues/6) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Bad calculation of available"
-- 12/10/2025 opened PR [#7](https://github.com/MohamedElashri/free-mac/pull/7) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Correct Memory Calculations"
-- 11/10/2025 pushed 3 commits to [MohamedElashri/nova-external_terminal.novaextension@main](https://github.com/MohamedElashri/nova-external_terminal.novaextension/compare/214ef37d223c4c67bd332f3308239aae87f94bd0...4664c8b5648436fd2efa4c1f8926e051616215ed)
+- 13/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/91f848ebcd3bafce42f001b9035ce954bed6dd97...b46717526f90ddd73833b505a21f100a8ed05765)
+- 13/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/9f550474831372ae26bcb7cfdc1a712a8cbf0728...a93af8909676e7cdfc618438e830e9bcebbb7c8b)
+- 13/10/2025 pushed 2 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/e66a26a4a9a5a37b9edc88f2fb52e6f173b8024e...2f72a5dbafa0a8fe91ddf3fa79e7e3d09d68e8f4)
+- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/18ec5f68aeab90abf28cba63eb10131884d6c796...bb0b063cd6cacc23ca4b47785f86b9c2dfc25b3e)
+- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/4480d00c337024b7e5334f04713360b4923bec78...a31de2d8878a20e3a1f7f9f03fc9b6e38edc568b)
 <!-- ACTIVITY:END -->
 
 ---
