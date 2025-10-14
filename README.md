@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 13/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/91f848ebcd3bafce42f001b9035ce954bed6dd97...b46717526f90ddd73833b505a21f100a8ed05765)
-- 13/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/9f550474831372ae26bcb7cfdc1a712a8cbf0728...a93af8909676e7cdfc618438e830e9bcebbb7c8b)
-- 13/10/2025 pushed 2 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/e66a26a4a9a5a37b9edc88f2fb52e6f173b8024e...2f72a5dbafa0a8fe91ddf3fa79e7e3d09d68e8f4)
-- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/18ec5f68aeab90abf28cba63eb10131884d6c796...bb0b063cd6cacc23ca4b47785f86b9c2dfc25b3e)
-- 12/10/2025 pushed 1 commit to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/4480d00c337024b7e5334f04713360b4923bec78...a31de2d8878a20e3a1f7f9f03fc9b6e38edc568b)
+- 14/10/2025 pushed 0 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/f8d201cf1d9053922344ae6b87fae4f0842b623e...07748e7ab86c02e4121524baa3f9e202bba654aa)
+- 14/10/2025 pushed 0 commits to [MohamedElashri/QuarkLauncher@main](https://github.com/MohamedElashri/QuarkLauncher/compare/d1adb90118b908b6f83db7196e877460610b742e...f8d201cf1d9053922344ae6b87fae4f0842b623e)
+- 14/10/2025 pushed 0 commits to [MohamedElashri/imgblock@main](https://github.com/MohamedElashri/imgblock/compare/8387c35f7294a574dbbcdfdda8baab0364662555...14ad23e1c1afaaf6f830c8fad07b426f9cca0c35)
+- 14/10/2025 pushed 0 commits to [MohamedElashri/imgblock@main](https://github.com/MohamedElashri/imgblock/compare/1d4b721e13b658d3a434ed927a30816c821a83a3...8387c35f7294a574dbbcdfdda8baab0364662555)
+- 14/10/2025 pushed 0 commits to [MohamedElashri/imgblock@main](https://github.com/MohamedElashri/imgblock/compare/5b9993112944ba68a0fd12c08a59c7c0683bc0a2...1d4b721e13b658d3a434ed927a30816c821a83a3)
 <!-- ACTIVITY:END -->
 
 ---
