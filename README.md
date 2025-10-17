@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [My First Firefox Extension: ImgBlock](https://blog.melashri.net/micro/imgblock-extension/)
 - [UC 2FA policy is not good](https://blog.melashri.net/micro/uc-2fa-policy-is-not-good/)
 - [Windsurf terminal exit with code 130](https://blog.melashri.net/micro/windsruf-exit-130/)
 - [My Lazy DNS Auto-Switch on macOS (Home vs CERN)](https://blog.melashri.net/micro/macos-dns-auto-switch-cern/)
 - [GNN Acceleration on FPGAs for Fast Inference in Future Muon Triggers at HL-LHC](https://blog.melashri.net/links/gnn-fpga-hl-lhc/)
-- [Curiosity About CERN's Budget](https://blog.melashri.net/posts/cern-budget-trends/)
 
 <!-- BLOG-POST-LIST:END -->
 
