@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 17/10/2025 pushed 0 commits to [MohamedElashri/fastml_pvfinder_2025@main](https://github.com/MohamedElashri/fastml_pvfinder_2025/compare/fc754c7fc67c48c5437d7020cc49ababbe885c8c...c24f8cf23743c8be0948cc2ec2e1e9b372d43fe1)
+- 17/10/2025 pushed 0 commits to [MohamedElashri/me_beamer@main](https://github.com/MohamedElashri/me_beamer/compare/0782f4c82138834b1e1acb26571d3dbf67f251de...8128b5c13b85bfa70efabb2ddf77a7221fc40270)
+- 17/10/2025 pushed 0 commits to [MohamedElashri/me_beamer@main](https://github.com/MohamedElashri/me_beamer/compare/7ebd7f1c7186dc9df57a355ade5b6ea62dd46d4e...0782f4c82138834b1e1acb26571d3dbf67f251de)
 - 17/10/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/1efea63cb6fd1cf356950693232b3e6b62971c73...96da49a45c70a20cb378da7a8d426bbacd7fe15c)
 - 17/10/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/8474f94032f28ef6f46c597d56acd9fc7078f349...1efea63cb6fd1cf356950693232b3e6b62971c73)
-- 16/10/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/a02d6d070093a89fcbe5976850d2993d40d28a4e...8474f94032f28ef6f46c597d56acd9fc7078f349)
-- 15/10/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/9aa3773568bd94b37bf4d7b98b67818ad7aca4ec...abdd9c701a9552fca3fc0bc96c1b1e5d05a7e1ce)
-- 15/10/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/006a9abe533892411cd5a2368667b9ce566c929d...9aa3773568bd94b37bf4d7b98b67818ad7aca4ec)
 <!-- ACTIVITY:END -->
 
 ---
