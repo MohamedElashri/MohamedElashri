@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 17/10/2025 pushed 0 commits to [MohamedElashri/fastml_pvfinder_2025@main](https://github.com/MohamedElashri/fastml_pvfinder_2025/compare/fc754c7fc67c48c5437d7020cc49ababbe885c8c...c24f8cf23743c8be0948cc2ec2e1e9b372d43fe1)
-- 17/10/2025 pushed 0 commits to [MohamedElashri/me_beamer@main](https://github.com/MohamedElashri/me_beamer/compare/0782f4c82138834b1e1acb26571d3dbf67f251de...8128b5c13b85bfa70efabb2ddf77a7221fc40270)
-- 17/10/2025 pushed 0 commits to [MohamedElashri/me_beamer@main](https://github.com/MohamedElashri/me_beamer/compare/7ebd7f1c7186dc9df57a355ade5b6ea62dd46d4e...0782f4c82138834b1e1acb26571d3dbf67f251de)
-- 17/10/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/1efea63cb6fd1cf356950693232b3e6b62971c73...96da49a45c70a20cb378da7a8d426bbacd7fe15c)
-- 17/10/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/8474f94032f28ef6f46c597d56acd9fc7078f349...1efea63cb6fd1cf356950693232b3e6b62971c73)
+- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/d305e04901fea1cae5acee21d0d331d8c2edee90...672de5b7abc59980c2cbd1eb26ae3e693184e66a)
+- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/df6f34e6c8fa14037255e5434b083aa69246e4dd...d305e04901fea1cae5acee21d0d331d8c2edee90)
+- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/0d6ee6cc94722cc4deddc02db4a8e7d64f17f739...df6f34e6c8fa14037255e5434b083aa69246e4dd)
+- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/1a70753b5ed69b0d2a145f0f8b0a0720841afcfc...0d6ee6cc94722cc4deddc02db4a8e7d64f17f739)
+- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/d48b08e439064e2d279da176c846b0e82be4ebc9...1a70753b5ed69b0d2a145f0f8b0a0720841afcfc)
 <!-- ACTIVITY:END -->
 
 ---
