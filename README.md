@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 18/10/2025 commented on issue [#1692](https://github.com/fosrl/pangolin/issues/1692) in [fosrl/pangolin](https://github.com/fosrl/pangolin) - "Newt tunnel stopped working for me"
-- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/d305e04901fea1cae5acee21d0d331d8c2edee90...672de5b7abc59980c2cbd1eb26ae3e693184e66a)
-- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/df6f34e6c8fa14037255e5434b083aa69246e4dd...d305e04901fea1cae5acee21d0d331d8c2edee90)
-- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/0d6ee6cc94722cc4deddc02db4a8e7d64f17f739...df6f34e6c8fa14037255e5434b083aa69246e4dd)
-- 18/10/2025 pushed 0 commits to [MohamedElashri/edit@main](https://github.com/MohamedElashri/edit/compare/1a70753b5ed69b0d2a145f0f8b0a0720841afcfc...0d6ee6cc94722cc4deddc02db4a8e7d64f17f739)
+- 20/10/2025 pushed 0 commits to [MohamedElashri/HEPilot@embedding-dev](https://github.com/MohamedElashri/HEPilot/compare/4eb99fc95192360185b602eb2c72544680945f3a...49089c7ff4af78467afe0132b319dc60f139b413)
+- 20/10/2025 pushed 0 commits to [MohamedElashri/HEPilot@embedding-dev](https://github.com/MohamedElashri/HEPilot/compare/4b0a23a170c3561db2f8c156e28ece2627dfd93b...4eb99fc95192360185b602eb2c72544680945f3a)
+- 20/10/2025 pushed 0 commits to [MohamedElashri/HEPilot@embedding-dev](https://github.com/MohamedElashri/HEPilot/compare/9534a5129333f7bce5047df71014b634717d71fa...4b0a23a170c3561db2f8c156e28ece2627dfd93b)
+- 20/10/2025 opened PR [#3662](https://github.com/umami-software/umami/pull/3662) in [umami-software/umami](https://github.com/umami-software/umami)
+- 20/10/2025 pushed 0 commits to [MohamedElashri/umami@patch-1](https://github.com/MohamedElashri/umami/compare/74e4cb5420b5c46449ac668c93756501746f25eb...d60dd38f7c80cc4a2bf674e11192baf0a8201657)
 <!-- ACTIVITY:END -->
 
 ---
