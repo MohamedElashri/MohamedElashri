@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 23/10/2025 closed PR [#2](https://github.com/MohamedElashri/HEPilot/pull/2) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
-- 23/10/2025 pushed 0 commits to [MohamedElashri/snibox-old@master](https://github.com/MohamedElashri/snibox-old/compare/68858014a38ab864f2ea0f7cf889dcdc3e4ad909...76a58239a8e30fbe204ac0abd8f5b98e71dbf9c8)
-- 23/10/2025 assigned PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
-- 21/10/2025 pushed 0 commits to [MohamedElashri/HEPilot@embedding-dev](https://github.com/MohamedElashri/HEPilot/compare/d022d1f6f17c0cbb73cb5fe75b1f14664d569e2f...c5d52ec963851931b0abf1f2d5d9e0d5955f638b)
-- 21/10/2025 pushed 0 commits to [MohamedElashri/HEPilot@embedding-dev](https://github.com/MohamedElashri/HEPilot/compare/bce178a165f10eb9160a9550b0e1edfedb415b61...d022d1f6f17c0cbb73cb5fe75b1f14664d569e2f)
+- 24/10/2025 pushed 0 commits to [MohamedElashri/Overleaf-Full@renovate/mongo-8.x](https://github.com/MohamedElashri/Overleaf-Full/compare/e59ab9455abc23675ec35f11bcb8e30ba85dd1d1...5a824458e197205640e69e7e227b1031bb3dd16a)
+- 24/10/2025 pushed 0 commits to [MohamedElashri/Overleaf-Full@main](https://github.com/MohamedElashri/Overleaf-Full/compare/09f7e3707dc1c01e310c99e784ab742566a1b390...5e61e5fa4a836f669133638f667c049828414d16)
+- 24/10/2025 pushed 0 commits to [MohamedElashri/Overleaf-Full@renovate/mongo-8.x](https://github.com/MohamedElashri/Overleaf-Full/compare/77ec1defa2ac63e0810c02e9b36377e7f2a32d17...e59ab9455abc23675ec35f11bcb8e30ba85dd1d1)
+- 24/10/2025 pushed 0 commits to [MohamedElashri/Overleaf-Full@main](https://github.com/MohamedElashri/Overleaf-Full/compare/93f5a6d08fe20bdd4452cabf7072862db12edb64...09f7e3707dc1c01e310c99e784ab742566a1b390)
+- 24/10/2025 pushed 0 commits to [MohamedElashri/Overleaf-Full@main](https://github.com/MohamedElashri/Overleaf-Full/compare/3a6b9580a902df6b14e8cdb8420fed900b235e61...93f5a6d08fe20bdd4452cabf7072862db12edb64)
 <!-- ACTIVITY:END -->
 
 ---
