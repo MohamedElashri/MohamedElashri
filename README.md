@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [AFS Permission Denied on lxplus Login](https://blog.melashri.net/micro/afs-permission-denied-lxplus/)
+- [Setup CERN Kerberos for SSH Authentication](https://blog.melashri.net/posts/cern-kerberos/)
 - [There is a comment section here](https://blog.melashri.net/posts/comment-section/)
 - [Introducing Moments](https://blog.melashri.net/posts/introducing-moments/)
 - [My aggressive site blocking](https://blog.melashri.net/micro/blue-block-md/)
-- [My First Firefox Extension: ImgBlock](https://blog.melashri.net/micro/imgblock-extension/)
-- [UC 2FA policy is not good](https://blog.melashri.net/micro/uc-2fa-policy-is-not-good/)
 
 <!-- BLOG-POST-LIST:END -->
 
