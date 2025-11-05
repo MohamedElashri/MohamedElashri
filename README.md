@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 04/11/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/ee08c12d3a0710cf9c83178ea78d1ca585fdfe25...ee992209eb461f50da2794cbbb6bb91404b09405)
-- 04/11/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/e7579f0f7c7bf519f3197dc15c9fb96e7f9b23fc...ee08c12d3a0710cf9c83178ea78d1ca585fdfe25)
-- 01/11/2025 pushed 0 commits to [MohamedElashri/dotfiles-mac@main](https://github.com/MohamedElashri/dotfiles-mac/compare/96da49a45c70a20cb378da7a8d426bbacd7fe15c...e7579f0f7c7bf519f3197dc15c9fb96e7f9b23fc)
-- 31/10/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/ad5f5f6ccaa5ec6fbe1c4090b91b1c38300810e2...27449f9011db5ee17ab3d1263e69cd7021e053cd)
-- 30/10/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/b3e8ae6fecf9b93c5a9a7d0d6d51e3d49062c1cc...ad5f5f6ccaa5ec6fbe1c4090b91b1c38300810e2)
+- 05/11/2025 commented PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
+- 05/11/2025 commented on PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
+- 05/11/2025 changes_requested PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
+- 05/11/2025 changes_requested PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
+- 05/11/2025 commented on PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 <!-- ACTIVITY:END -->
 
 ---
