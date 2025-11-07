@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 07/11/2025 opened PR [#3](https://github.com/MohamedElashri/HEPilot/pull/3) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 - 05/11/2025 commented PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 - 05/11/2025 commented on PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 - 05/11/2025 changes_requested PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 - 05/11/2025 changes_requested PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
-- 05/11/2025 commented on PR [#1](https://github.com/MohamedElashri/HEPilot/pull/1) in [MohamedElashri/HEPilot](https://github.com/MohamedElashri/HEPilot)
 <!-- ACTIVITY:END -->
 
 ---
