@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 11/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/4092e085024fbf8ee202150aa42b5e07d718682d...40d5cbeda47d6a66aa97893eea543d06d001457c)
-- 11/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/05d49b1a6f1aeb254c039a51a7f6b1df7eb90ec2...7188a9052365f24e8e45c79c54d46aa1323bce40)
-- 11/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/02155ad28222000ffa0651fe83e33d52faa1696d...46d8aaee344f86ff1d56334dea6d0a50cd1aa2ae)
-- 11/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/24c57158ac3487c3f2c2880e83a795f2eab513a4...02155ad28222000ffa0651fe83e33d52faa1696d)
-- 11/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/83b32b30211dda11b7bd6a7b3188ba4fce336a0c...314cf0da726120a69b0ba8a5a1429810b3e6d6e7)
+- 12/11/2025 pushed 0 commits to [MohamedElashri/lhcbfinder@main](https://github.com/MohamedElashri/lhcbfinder/compare/ead5806695747ad1afd46790b17b10c0b6329036...e861cf2f2ee562b3d5ae5e40e3f5d7c21ee3c419)
+- 12/11/2025 opened PR [#15](https://github.com/MohamedElashri/lhcbfinder/pull/15) in [MohamedElashri/lhcbfinder](https://github.com/MohamedElashri/lhcbfinder)
+- 12/11/2025 pushed 0 commits to [MohamedElashri/lhcbfinder@main](https://github.com/MohamedElashri/lhcbfinder/compare/a33a0077f7b5485b160ac9eb3ca28d4a4dfa4232...ead5806695747ad1afd46790b17b10c0b6329036)
+- 12/11/2025 opened PR [#14](https://github.com/MohamedElashri/lhcbfinder/pull/14) in [MohamedElashri/lhcbfinder](https://github.com/MohamedElashri/lhcbfinder)
+- 12/11/2025 pushed 0 commits to [MohamedElashri/lhcbfinder@main](https://github.com/MohamedElashri/lhcbfinder/compare/c7f87b6ea2894cd79e644f1870442f561a62438d...a33a0077f7b5485b160ac9eb3ca28d4a4dfa4232)
 <!-- ACTIVITY:END -->
 
 ---
