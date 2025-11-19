@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 19/11/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/27449f9011db5ee17ab3d1263e69cd7021e053cd...66304617c420612832de6b53acbb262a6d9aa60e)
-- 13/11/2025 assigned issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
-- 13/11/2025 labeled issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
-- 13/11/2025 opened issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
-- 12/11/2025 pushed 0 commits to [MohamedElashri/lhcbfinder@main](https://github.com/MohamedElashri/lhcbfinder/compare/ead5806695747ad1afd46790b17b10c0b6329036...e861cf2f2ee562b3d5ae5e40e3f5d7c21ee3c419)
+- 19/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/f54fcc37351991e9326e2209fac4a152664ca345...2dd77bb777ea4780afaabe193ae931fedf7ff416)
+- 19/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/8f092877d1f70550289e361475c20745494a5210...f54fcc37351991e9326e2209fac4a152664ca345)
+- 19/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/9cce5459c10c47dff9d11396a6e1e00f96b2c118...8f092877d1f70550289e361475c20745494a5210)
+- 19/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/e35758d34a84854536bb763be443939e1ff55b65...9cce5459c10c47dff9d11396a6e1e00f96b2c118)
+- 19/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/c6743f15035517b0202c55d9734f0c92b138d7e4...e35758d34a84854536bb763be443939e1ff55b65)
 <!-- ACTIVITY:END -->
 
 ---
