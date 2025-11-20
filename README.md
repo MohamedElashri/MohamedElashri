@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/07c7496f195091487ebd547f38c85f899a38d4b9...5d3263ddbffb0631a45a0752b19ec868a7068ae0)
-- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/3e3483b185b3e29f41d04e6fa4e2cc8a756e0e96...07c7496f195091487ebd547f38c85f899a38d4b9)
-- 20/11/2025 pushed 0 commits to [MohamedElashri/hep-jobs@main](https://github.com/MohamedElashri/hep-jobs/compare/9483712c58a4851e6c4569fbfaf7b1dc94456b2c...712c86ed01e77835d1df8863d8de6ee2b0b5a1f5)
-- 20/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/0f61a82f9590de15485c1655538b06bdbd354527...bdc3edec6f9cebd9453a794e99f34a67f5d597fc)
-- 20/11/2025 pushed 0 commits to [MohamedElashri/tex2math@main](https://github.com/MohamedElashri/tex2math/compare/080ca07d46a4900fd244ac88c2aff441049591ba...0f61a82f9590de15485c1655538b06bdbd354527)
+- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/89fedea2b88d38e4f9ab22901e7a8ea1a9b3286a...e2ff155e29a8472fa3a6423f3e0440282bd4b87c)
+- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/f61862f19e412786452fb79b412133674deaa5f8...89fedea2b88d38e4f9ab22901e7a8ea1a9b3286a)
+- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/0f95023f8c375c9d3790ae5d77856c3111ed1e1d...f61862f19e412786452fb79b412133674deaa5f8)
+- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/63172df5f8cd6f1b650ed2098115df225a3fd0ca...0f95023f8c375c9d3790ae5d77856c3111ed1e1d)
+- 20/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/5d3263ddbffb0631a45a0752b19ec868a7068ae0...63172df5f8cd6f1b650ed2098115df225a3fd0ca)
 <!-- ACTIVITY:END -->
 
 ---
