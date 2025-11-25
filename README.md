@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 24/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/77dccd0572e61fb1b46453019b956cca6f63d7b5...82de57a7787926ed1ad04a2624aae1a5373363e4)
-- 24/11/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/eb777efb484c833a9dfd8ca22fa8cb0f46fcc9ee...4ab69b8e9033f7adf5a9e1fdf26e372187d78710)
-- 24/11/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/4789772cbaa992db5f17ef2847c4d300c44faf85...eb777efb484c833a9dfd8ca22fa8cb0f46fcc9ee)
-- 23/11/2025 pushed 0 commits to [MohamedElashri/siyuan-patch@main](https://github.com/MohamedElashri/siyuan-patch/compare/66304617c420612832de6b53acbb262a6d9aa60e...4789772cbaa992db5f17ef2847c4d300c44faf85)
-- 21/11/2025 pushed 0 commits to [MohamedElashri/bu2lambdapKK@master](https://github.com/MohamedElashri/bu2lambdapKK/compare/51862dc0e64e1a2e0db59299156f33acdecf5a31...77dccd0572e61fb1b46453019b956cca6f63d7b5)
+- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/f3bd8f01da9eafe22119c042563f00ccecff6ff9...f6de3f60995c486162684be09202f033106cd32b)
+- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/0d7a94ce49185125aa21beef65e23b7429c2bffb...f3bd8f01da9eafe22119c042563f00ccecff6ff9)
+- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/5790186f5454eef988aa72ef165060f8114d28fd...0d7a94ce49185125aa21beef65e23b7429c2bffb)
+- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/55ebd24b9912bf1725cb8a6ffbe23eaf0bc3555a...5790186f5454eef988aa72ef165060f8114d28fd)
+- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/24bdaaf1bd91e42a0048b6fa952a9c0896f5f2be...55ebd24b9912bf1725cb8a6ffbe23eaf0bc3555a)
 <!-- ACTIVITY:END -->
 
 ---
