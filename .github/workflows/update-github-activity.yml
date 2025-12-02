@@ -184,15 +184,18 @@ jobs:
                 case "PushEvent": {
                   // Exclude automated-looking pushes
                   if (pushLooksAutomated(ev)) return null;
-
+                
+                  // Use payload.size (actual commit count) instead of commits.length
+                  const count = ev.payload?.size || 0;
+                  // Skip if no commits
+                  if (count === 0) return null;
+                
                   const branch = (ev.payload?.ref || "").replace("refs/heads/", "");
-                  const count = ev.payload?.commits?.length || 0;
                   const before = ev.payload?.before;
                   const head = ev.payload?.head;
                   const compareUrl = (before && head) ? `${rurl}/compare/${before}...${head}` : rurl;
-                  // No commit messages included
                   return `- ${when} pushed ${count} commit${count === 1 ? "" : "s"} to [${repo}@${branch}](${compareUrl})`;
-                }
+                }                
                 default:
                   return null;
               }
@@ -200,6 +203,8 @@ jobs:
 
             // Filter: exclude bot actors, excluded repos, lookback, then limit
             const lines = [];
+            const seen = new Set(); // Track unique events
+
             for (const ev of events) {
               if (looksLikeBot(ev.actor?.login, ev.actor?.type)) continue;
               if (isExcludedRepo(ev.repo?.name)) continue;
@@ -207,7 +212,14 @@ jobs:
               if (new Date(ev.created_at) < cutoff) continue;
 
               const line = lineFor(ev);
-              if (line) lines.push(line);
+              if (!line) continue;
+
+              // Deduplicate using event ID
+              const dedupKey = ev.id;
+              if (seen.has(dedupKey)) continue;
+              seen.add(dedupKey);
+
+              lines.push(line);
               if (lines.length >= maxItems) break;
             }
 
