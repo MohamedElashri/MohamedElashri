@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/f3bd8f01da9eafe22119c042563f00ccecff6ff9...f6de3f60995c486162684be09202f033106cd32b)
-- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/0d7a94ce49185125aa21beef65e23b7429c2bffb...f3bd8f01da9eafe22119c042563f00ccecff6ff9)
-- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/5790186f5454eef988aa72ef165060f8114d28fd...0d7a94ce49185125aa21beef65e23b7429c2bffb)
-- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/55ebd24b9912bf1725cb8a6ffbe23eaf0bc3555a...5790186f5454eef988aa72ef165060f8114d28fd)
-- 25/11/2025 pushed 0 commits to [MohamedElashri/newt_service@main](https://github.com/MohamedElashri/newt_service/compare/24bdaaf1bd91e42a0048b6fa952a9c0896f5f2be...55ebd24b9912bf1725cb8a6ffbe23eaf0bc3555a)
+- 13/11/2025 assigned issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
+- 13/11/2025 labeled issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
+- 13/11/2025 opened issue [#7999](https://github.com/hagezi/dns-blocklists/issues/7999) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - "Unblock `indico.cern.ch`"
+- 12/11/2025 opened PR [#15](https://github.com/MohamedElashri/lhcbfinder/pull/15) in [MohamedElashri/lhcbfinder](https://github.com/MohamedElashri/lhcbfinder)
+- 12/11/2025 opened PR [#14](https://github.com/MohamedElashri/lhcbfinder/pull/14) in [MohamedElashri/lhcbfinder](https://github.com/MohamedElashri/lhcbfinder)
 <!-- ACTIVITY:END -->
 
 ---
