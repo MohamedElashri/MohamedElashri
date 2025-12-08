@@ -54,11 +54,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [ROOT CERN Colab Page](https://blog.melashri.net/micro/root-cern-colab-page/)
 - [The Quiet Progress of Particle Physics](https://blog.melashri.net/posts/hep-progress/)
 - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
 - [Docker v29 API Mismatch](https://blog.melashri.net/micro/docker-api-mismatch/)
 - [How much data does LHCb collect?](https://blog.melashri.net/micro/lhcb-data-rate/)
-- [AFS Permission Denied on lxplus Login](https://blog.melashri.net/micro/afs-permission-denied-lxplus/)
 
 <!-- BLOG-POST-LIST:END -->
 
