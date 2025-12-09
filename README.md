@@ -64,11 +64,11 @@ I’m passionate about exploring the fundamental nature of matter and applying *
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 09/12/2025 closed PR [#2](https://github.com/MohamedElashri/snipo/pull/2) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 07/12/2025 merged PR [#4](https://github.com/MohamedElashri/resume/pull/4) in [MohamedElashri/resume](https://github.com/MohamedElashri/resume)
 - 07/12/2025 merged PR [#5](https://github.com/MohamedElashri/resume/pull/5) in [MohamedElashri/resume](https://github.com/MohamedElashri/resume)
 - 07/12/2025 opened PR [#5](https://github.com/MohamedElashri/resume/pull/5) in [MohamedElashri/resume](https://github.com/MohamedElashri/resume)
 - 07/12/2025 opened PR [#4](https://github.com/MohamedElashri/resume/pull/4) in [MohamedElashri/resume](https://github.com/MohamedElashri/resume)
-- 03/12/2025 merged PR [#37](https://github.com/MohamedElashri/awesome-zotero/pull/37) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
