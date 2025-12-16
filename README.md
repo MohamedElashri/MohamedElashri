@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 16/12/2025 merged PR [#4](https://github.com/MohamedElashri/snipo/pull/4) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 16/12/2025 opened PR [#4](https://github.com/MohamedElashri/snipo/pull/4) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/12/2025 closed issue [#6](https://github.com/MohamedElashri/free-mac/issues/6) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Bad calculation of available"
 - 09/12/2025 commented on issue [#6](https://github.com/MohamedElashri/free-mac/issues/6) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Bad calculation of available"
 - 09/12/2025 published release [v0.4](https://github.com/MohamedElashri/free-mac/releases/tag/v0.4) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "version 0.4"
-- 09/12/2025 merged PR [#9](https://github.com/MohamedElashri/free-mac/pull/9) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac)
-- 09/12/2025 opened PR [#9](https://github.com/MohamedElashri/free-mac/pull/9) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac)
 <!-- ACTIVITY:END -->
 
 ---
