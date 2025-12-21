@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 21/12/2025 closed issue [#5](https://github.com/MohamedElashri/snibox-docker/issues/5) in [MohamedElashri/snibox-docker](https://github.com/MohamedElashri/snibox-docker) - "ARM64 Build"
 - 21/12/2025 labeled issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
 - 21/12/2025 opened issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
 - 21/12/2025 assigned issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
 - 21/12/2025 closed issue [#14](https://github.com/MohamedElashri/snipo/issues/14) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add archive system"
-- 21/12/2025 commented on issue [#14](https://github.com/MohamedElashri/snipo/issues/14) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add archive system"
 <!-- ACTIVITY:END -->
 
 ---
