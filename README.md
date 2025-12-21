@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 21/12/2025 merged PR [#5](https://github.com/MohamedElashri/snipo/pull/5) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 21/12/2025 opened PR [#5](https://github.com/MohamedElashri/snipo/pull/5) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/12/2025 merged PR [#4](https://github.com/MohamedElashri/snipo/pull/4) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/12/2025 opened PR [#4](https://github.com/MohamedElashri/snipo/pull/4) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/12/2025 closed issue [#6](https://github.com/MohamedElashri/free-mac/issues/6) in [MohamedElashri/free-mac](https://github.com/MohamedElashri/free-mac) - "Bad calculation of available"
+- 21/12/2025 labeled issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
+- 21/12/2025 opened issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
+- 21/12/2025 assigned issue [#15](https://github.com/MohamedElashri/snipo/issues/15) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add stable API"
+- 21/12/2025 closed issue [#14](https://github.com/MohamedElashri/snipo/issues/14) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add archive system"
+- 21/12/2025 commented on issue [#14](https://github.com/MohamedElashri/snipo/issues/14) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add archive system"
 <!-- ACTIVITY:END -->
 
 ---
