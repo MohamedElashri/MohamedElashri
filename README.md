@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 21/12/2025 labeled issue [#18](https://github.com/MohamedElashri/snipo/issues/18) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add snippets view sort"
-- 21/12/2025 assigned issue [#18](https://github.com/MohamedElashri/snipo/issues/18) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add snippets view sort"
-- 21/12/2025 opened issue [#18](https://github.com/MohamedElashri/snipo/issues/18) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add snippets view sort"
-- 21/12/2025 commented on issue [#17](https://github.com/MohamedElashri/snipo/issues/17) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add Snippet Modification History with Restore Capability"
-- 21/12/2025 merged PR [#17](https://github.com/MohamedElashri/snipo/pull/17) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/12/2025 labeled issue [#21](https://github.com/MohamedElashri/snipo/issues/21) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Refactor frontend code to modular design"
+- 22/12/2025 assigned issue [#21](https://github.com/MohamedElashri/snipo/issues/21) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Refactor frontend code to modular design"
+- 22/12/2025 opened issue [#21](https://github.com/MohamedElashri/snipo/issues/21) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Refactor frontend code to modular design"
+- 22/12/2025 assigned issue [#20](https://github.com/MohamedElashri/snipo/issues/20) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add TeX and BibTex Ace modes"
+- 22/12/2025 opened issue [#20](https://github.com/MohamedElashri/snipo/issues/20) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add TeX and BibTex Ace modes"
 <!-- ACTIVITY:END -->
 
 ---
