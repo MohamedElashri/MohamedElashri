@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 23/12/2025 labeled PR [#27](https://github.com/MohamedElashri/snipo/pull/27) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 23/12/2025 opened PR [#27](https://github.com/MohamedElashri/snipo/pull/27) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 23/12/2025 assigned PR [#27](https://github.com/MohamedElashri/snipo/pull/27) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 23/12/2025 merged PR [#26](https://github.com/MohamedElashri/snipo/pull/26) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 23/12/2025 closed issue [#20](https://github.com/MohamedElashri/snipo/issues/20) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add TeX and BibTex Ace modes"
-- 23/12/2025 labeled PR [#26](https://github.com/MohamedElashri/snipo/pull/26) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 23/12/2025 assigned PR [#26](https://github.com/MohamedElashri/snipo/pull/26) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 23/12/2025 opened PR [#26](https://github.com/MohamedElashri/snipo/pull/26) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
