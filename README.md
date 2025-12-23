@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 22/12/2025 labeled PR [#24](https://github.com/MohamedElashri/snipo/pull/24) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/12/2025 assigned PR [#24](https://github.com/MohamedElashri/snipo/pull/24) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/12/2025 opened PR [#24](https://github.com/MohamedElashri/snipo/pull/24) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/12/2025 merged PR [#23](https://github.com/MohamedElashri/snipo/pull/23) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/12/2025 closed issue [#18](https://github.com/MohamedElashri/snipo/issues/18) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add snippets view sort"
+- 22/12/2025 labeled PR [#25](https://github.com/MohamedElashri/snipo/pull/25) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/12/2025 opened PR [#25](https://github.com/MohamedElashri/snipo/pull/25) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/12/2025 assigned PR [#25](https://github.com/MohamedElashri/snipo/pull/25) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/12/2025 closed issue [#19](https://github.com/MohamedElashri/snipo/issues/19) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add ace editor options Customization"
+- 22/12/2025 merged PR [#24](https://github.com/MohamedElashri/snipo/pull/24) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
