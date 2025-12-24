@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 24/12/2025 merged PR [#30](https://github.com/MohamedElashri/snipo/pull/30) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/12/2025 labeled PR [#30](https://github.com/MohamedElashri/snipo/pull/30) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/12/2025 opened PR [#30](https://github.com/MohamedElashri/snipo/pull/30) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/12/2025 assigned PR [#30](https://github.com/MohamedElashri/snipo/pull/30) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/12/2025 closed issue [#9](https://github.com/MohamedElashri/snipo/issues/9) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add custom css"
+- 24/12/2025 merged PR [#32](https://github.com/MohamedElashri/snipo/pull/32) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 24/12/2025 labeled PR [#32](https://github.com/MohamedElashri/snipo/pull/32) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 24/12/2025 assigned PR [#32](https://github.com/MohamedElashri/snipo/pull/32) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 24/12/2025 opened PR [#32](https://github.com/MohamedElashri/snipo/pull/32) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 24/12/2025 merged PR [#31](https://github.com/MohamedElashri/snipo/pull/31) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
