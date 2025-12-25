@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 25/12/2025 opened issue [#37](https://github.com/MohamedElashri/snipo/issues/37) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add deleted snippets folder (hidden)"
-- 25/12/2025 opened issue [#36](https://github.com/MohamedElashri/snipo/issues/36) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Drag and Drop tags"
-- 25/12/2025 opened issue [#35](https://github.com/MohamedElashri/snipo/issues/35) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Handle markdown type"
-- 25/12/2025 opened issue [#34](https://github.com/MohamedElashri/snipo/issues/34) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add regex and fuzzy Search"
-- 24/12/2025 opened issue [#33](https://github.com/MohamedElashri/snipo/issues/33) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add GitHub Gist Integration"
+- 25/12/2025 commented on issue [#38](https://github.com/MohamedElashri/snipo/issues/38) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "arm64 docker image gives exec format error in logs and shuts down"
+- 25/12/2025 labeled issue [#38](https://github.com/MohamedElashri/snipo/issues/38) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "arm64 docker image gives exec format error in logs and shuts down"
+- 25/12/2025 merged PR [#39](https://github.com/MohamedElashri/snipo/pull/39) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 25/12/2025 labeled PR [#39](https://github.com/MohamedElashri/snipo/pull/39) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 25/12/2025 opened PR [#39](https://github.com/MohamedElashri/snipo/pull/39) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
