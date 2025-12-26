@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 26/12/2025 merged PR [#48](https://github.com/MohamedElashri/snipo/pull/48) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/12/2025 closed issue [#45](https://github.com/MohamedElashri/snipo/issues/45) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add option to access individual files when shared publicly"
-- 26/12/2025 labeled PR [#48](https://github.com/MohamedElashri/snipo/pull/48) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/12/2025 assigned PR [#48](https://github.com/MohamedElashri/snipo/pull/48) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/12/2025 opened PR [#48](https://github.com/MohamedElashri/snipo/pull/48) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 26/12/2025 labeled issue [#50](https://github.com/MohamedElashri/snipo/issues/50) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "back button and snippet title spacing is broken"
+- 26/12/2025 merged PR [#54](https://github.com/MohamedElashri/snipo/pull/54) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 26/12/2025 closed issue [#50](https://github.com/MohamedElashri/snipo/issues/50) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "back button and snippet title spacing is broken"
+- 26/12/2025 assigned issue [#50](https://github.com/MohamedElashri/snipo/issues/50) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "back button and snippet title spacing is broken"
+- 26/12/2025 labeled PR [#54](https://github.com/MohamedElashri/snipo/pull/54) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
