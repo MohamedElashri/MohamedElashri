@@ -53,11 +53,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Tools I Developed in 2025](https://blog.melashri.net/posts/2025-tools/)
 - [GitHub gh Copilot is dead](https://blog.melashri.net/micro/gh-copilot-dead/)
 - [ROOT CERN Colab Page](https://blog.melashri.net/micro/root-cern-colab-page/)
 - [The Quiet Progress of Particle Physics](https://blog.melashri.net/posts/hep-progress/)
 - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
-- [Docker v29 API Mismatch](https://blog.melashri.net/micro/docker-api-mismatch/)
 
 <!-- BLOG-POST-LIST:END -->
 
