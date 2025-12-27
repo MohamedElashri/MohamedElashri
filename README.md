@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 26/12/2025 closed issue [#52](https://github.com/MohamedElashri/snipo/issues/52) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "HTML Language adds spaces"
-- 26/12/2025 merged PR [#57](https://github.com/MohamedElashri/snipo/pull/57) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/12/2025 commented on issue [#52](https://github.com/MohamedElashri/snipo/issues/52) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "HTML Language adds spaces"
-- 26/12/2025 labeled PR [#57](https://github.com/MohamedElashri/snipo/pull/57) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/12/2025 opened PR [#57](https://github.com/MohamedElashri/snipo/pull/57) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 27/12/2025 merged PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 27/12/2025 labeled PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 27/12/2025 assigned PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 27/12/2025 opened PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 27/12/2025 merged PR [#67](https://github.com/MohamedElashri/snipo/pull/67) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
