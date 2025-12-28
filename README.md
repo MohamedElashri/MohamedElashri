@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 27/12/2025 merged PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/12/2025 labeled PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/12/2025 assigned PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/12/2025 opened PR [#68](https://github.com/MohamedElashri/snipo/pull/68) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/12/2025 merged PR [#67](https://github.com/MohamedElashri/snipo/pull/67) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 28/12/2025 commented on issue [#61](https://github.com/MohamedElashri/snipo/issues/61) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.3 to 1.32.6"
+- 26/12/2025 assigned PR [#59](https://github.com/MohamedElashri/snipo/pull/59) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 28/12/2025 commented on issue [#59](https://github.com/MohamedElashri/snipo/issues/59) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump alpine from 3.20 to 3.23"
+- 28/12/2025 commented on issue [#69](https://github.com/MohamedElashri/snipo/issues/69) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump modernc.org/sqlite from 1.33.1 to 1.42.1"
+- 28/12/2025 commented on issue [#62](https://github.com/MohamedElashri/snipo/issues/62) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump golang.org/x/crypto from 0.45.0 to 0.46.0"
 <!-- ACTIVITY:END -->
 
 ---
