@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 29/12/2025 merged PR [#76](https://github.com/MohamedElashri/snipo/pull/76) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 28/12/2025 labeled PR [#71](https://github.com/MohamedElashri/snipo/pull/71) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 29/12/2025 labeled PR [#76](https://github.com/MohamedElashri/snipo/pull/76) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 29/12/2025 labeled PR [#76](https://github.com/MohamedElashri/snipo/pull/76) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 29/12/2025 opened PR [#76](https://github.com/MohamedElashri/snipo/pull/76) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 29/12/2025 merged PR [#78](https://github.com/MohamedElashri/snipo/pull/78) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 29/12/2025 closed issue [#75](https://github.com/MohamedElashri/snipo/issues/75) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add snippy"
+- 29/12/2025 labeled PR [#78](https://github.com/MohamedElashri/snipo/pull/78) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 29/12/2025 opened PR [#78](https://github.com/MohamedElashri/snipo/pull/78) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 29/12/2025 assigned PR [#78](https://github.com/MohamedElashri/snipo/pull/78) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
