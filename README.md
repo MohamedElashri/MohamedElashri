@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 30/12/2025 commented on issue [#79](https://github.com/MohamedElashri/snipo/issues/79) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Editor font size doesn't change"
-- 30/12/2025 merged PR [#80](https://github.com/MohamedElashri/snipo/pull/80) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 30/12/2025 closed issue [#81](https://github.com/MohamedElashri/snipo/issues/81) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add browser extension"
-- 30/12/2025 labeled issue [#81](https://github.com/MohamedElashri/snipo/issues/81) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add browser extension"
-- 30/12/2025 opened issue [#81](https://github.com/MohamedElashri/snipo/issues/81) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add browser extension"
+- 02/01/2026 merged PR [#82](https://github.com/MohamedElashri/snipo/pull/82) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/01/2026 commented on issue [#79](https://github.com/MohamedElashri/snipo/issues/79) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Editor font size doesn't change"
+- 02/01/2026 labeled PR [#82](https://github.com/MohamedElashri/snipo/pull/82) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/01/2026 assigned PR [#82](https://github.com/MohamedElashri/snipo/pull/82) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/01/2026 opened PR [#82](https://github.com/MohamedElashri/snipo/pull/82) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
