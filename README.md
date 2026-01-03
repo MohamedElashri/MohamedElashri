@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 03/01/2026 closed issue [#79](https://github.com/MohamedElashri/snipo/issues/79) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Editor font size doesn't change"
+- 03/01/2026 commented on issue [#79](https://github.com/MohamedElashri/snipo/issues/79) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Editor font size doesn't change"
+- 03/01/2026 merged PR [#84](https://github.com/MohamedElashri/snipo/pull/84) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 03/01/2026 opened PR [#84](https://github.com/MohamedElashri/snipo/pull/84) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 03/01/2026 merged PR [#83](https://github.com/MohamedElashri/snipo/pull/83) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 03/01/2026 opened PR [#83](https://github.com/MohamedElashri/snipo/pull/83) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/01/2026 merged PR [#82](https://github.com/MohamedElashri/snipo/pull/82) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/01/2026 commented on issue [#79](https://github.com/MohamedElashri/snipo/issues/79) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Editor font size doesn't change"
 <!-- ACTIVITY:END -->
 
 ---
