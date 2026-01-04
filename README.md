@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 04/01/2026 commented on issue [#87](https://github.com/MohamedElashri/snipo/issues/87) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add syntax highlighting and a copy button per snippet on the overview page"
-- 04/01/2026 closed issue [#87](https://github.com/MohamedElashri/snipo/issues/87) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add syntax highlighting and a copy button per snippet on the overview page"
-- 04/01/2026 closed issue [#94](https://github.com/MohamedElashri/snipo/issues/94) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Sort by title (A-Z) not working correctly"
-- 04/01/2026 commented on issue [#94](https://github.com/MohamedElashri/snipo/issues/94) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Sort by title (A-Z) not working correctly"
-- 04/01/2026 merged PR [#97](https://github.com/MohamedElashri/snipo/pull/97) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 04/01/2026 merged PR [#98](https://github.com/MohamedElashri/snipo/pull/98) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 04/01/2026 labeled PR [#98](https://github.com/MohamedElashri/snipo/pull/98) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 04/01/2026 labeled PR [#98](https://github.com/MohamedElashri/snipo/pull/98) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 04/01/2026 opened PR [#98](https://github.com/MohamedElashri/snipo/pull/98) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 04/01/2026 assigned PR [#98](https://github.com/MohamedElashri/snipo/pull/98) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
