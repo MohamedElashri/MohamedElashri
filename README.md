@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 05/01/2026 labeled issue [#1](https://github.com/MohamedElashri/homebrew-free-mac/issues/1) in [MohamedElashri/homebrew-free-mac](https://github.com/MohamedElashri/homebrew-free-mac) - "Free-mac reporting too much memory usage, no cache"
-- 05/01/2026 assigned issue [#1](https://github.com/MohamedElashri/homebrew-free-mac/issues/1) in [MohamedElashri/homebrew-free-mac](https://github.com/MohamedElashri/homebrew-free-mac) - "Free-mac reporting too much memory usage, no cache"
-- 04/01/2026 merged PR [#99](https://github.com/MohamedElashri/snipo/pull/99) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 04/01/2026 labeled PR [#99](https://github.com/MohamedElashri/snipo/pull/99) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 04/01/2026 opened PR [#99](https://github.com/MohamedElashri/snipo/pull/99) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/01/2026 commented on issue [#100](https://github.com/MohamedElashri/snipo/issues/100) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "support subpaths for reverse proxy"
+- 06/01/2026 merged PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/01/2026 labeled PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/01/2026 opened PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/01/2026 assigned PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
