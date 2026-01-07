@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 06/01/2026 closed issue [#100](https://github.com/MohamedElashri/snipo/issues/100) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "support subpaths for reverse proxy"
-- 06/01/2026 commented on issue [#100](https://github.com/MohamedElashri/snipo/issues/100) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "support subpaths for reverse proxy"
-- 06/01/2026 merged PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 06/01/2026 labeled PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 06/01/2026 opened PR [#101](https://github.com/MohamedElashri/snipo/pull/101) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 07/01/2026 merged PR [#104](https://github.com/MohamedElashri/snipo/pull/104) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 07/01/2026 assigned PR [#104](https://github.com/MohamedElashri/snipo/pull/104) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 07/01/2026 opened PR [#104](https://github.com/MohamedElashri/snipo/pull/104) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 07/01/2026 commented on issue [#100](https://github.com/MohamedElashri/snipo/issues/100) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "support subpaths for reverse proxy"
+- 07/01/2026 merged PR [#103](https://github.com/MohamedElashri/snipo/pull/103) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
