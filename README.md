@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 11/01/2026 commented on issue [#117](https://github.com/MohamedElashri/snipo/issues/117) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.6 to 1.32.7"
+- 11/01/2026 merged PR [#114](https://github.com/MohamedElashri/snipo/pull/114) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/01/2026 labeled PR [#114](https://github.com/MohamedElashri/snipo/pull/114) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/01/2026 labeled PR [#114](https://github.com/MohamedElashri/snipo/pull/114) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/01/2026 opened PR [#114](https://github.com/MohamedElashri/snipo/pull/114) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/01/2026 assigned PR [#114](https://github.com/MohamedElashri/snipo/pull/114) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/01/2026 merged PR [#113](https://github.com/MohamedElashri/snipo/pull/113) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
