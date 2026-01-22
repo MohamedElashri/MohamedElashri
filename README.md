@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 22/01/2026 commented on issue [#110](https://github.com/MohamedElashri/snipo/issues/110) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Can't get this to run - database error"
+- 22/01/2026 closed issue [#110](https://github.com/MohamedElashri/snipo/issues/110) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Can't get this to run - database error"
 - 22/01/2026 merged PR [#123](https://github.com/MohamedElashri/snipo/pull/123) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 20/01/2026 opened PR [#123](https://github.com/MohamedElashri/snipo/pull/123) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 19/01/2026 opened issue [#19](https://github.com/ZhFahim/anchor/issues/19) in [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - "[Feature request] Add RTL"
-- 16/01/2026 commented on issue [#110](https://github.com/MohamedElashri/snipo/issues/110) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Can't get this to run - database error"
-- 16/01/2026 commented on issue [#118](https://github.com/MohamedElashri/snipo/issues/118) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.6 to 1.19.7"
 <!-- ACTIVITY:END -->
 
 ---
