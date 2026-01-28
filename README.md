@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 28/01/2026 labeled issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
+- 28/01/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
 - 26/01/2026 merged PR [#2769](https://github.com/iris-hep/iris-hep.github.io/pull/2769) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
 - 26/01/2026 opened PR [#2769](https://github.com/iris-hep/iris-hep.github.io/pull/2769) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
 - 19/01/2026 closed PR [#118](https://github.com/MohamedElashri/snipo/pull/118) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 19/01/2026 closed PR [#117](https://github.com/MohamedElashri/snipo/pull/117) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/01/2026 commented on issue [#110](https://github.com/MohamedElashri/snipo/issues/110) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Can't get this to run - database error"
 <!-- ACTIVITY:END -->
 
 ---
