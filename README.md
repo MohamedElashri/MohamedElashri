@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 01/02/2026 labeled issue [#131](https://github.com/MohamedElashri/snipo/issues/131) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Use harden Go image"
-- 01/02/2026 assigned issue [#131](https://github.com/MohamedElashri/snipo/issues/131) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Use harden Go image"
-- 01/02/2026 opened issue [#131](https://github.com/MohamedElashri/snipo/issues/131) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Use harden Go image"
-- 31/01/2026 merged PR [#129](https://github.com/MohamedElashri/snipo/pull/129) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 29/01/2026 opened PR [#129](https://github.com/MohamedElashri/snipo/pull/129) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/02/2026 merged PR [#132](https://github.com/MohamedElashri/snipo/pull/132) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/02/2026 labeled PR [#132](https://github.com/MohamedElashri/snipo/pull/132) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/02/2026 opened PR [#132](https://github.com/MohamedElashri/snipo/pull/132) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/02/2026 assigned PR [#132](https://github.com/MohamedElashri/snipo/pull/132) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/02/2026 assigned PR [#130](https://github.com/MohamedElashri/snipo/pull/130) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
