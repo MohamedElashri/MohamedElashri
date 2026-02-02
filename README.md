@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 02/02/2026 merged PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/02/2026 closed issue [#37](https://github.com/MohamedElashri/snipo/issues/37) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add deleted snippets folder (hidden)"
 - 02/02/2026 labeled PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 02/02/2026 opened PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 02/02/2026 assigned PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/02/2026 closed issue [#36](https://github.com/MohamedElashri/snipo/issues/36) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Drag and Drop tags"
-- 02/02/2026 merged PR [#134](https://github.com/MohamedElashri/snipo/pull/134) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
