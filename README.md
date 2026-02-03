@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 02/02/2026 merged PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/02/2026 closed issue [#37](https://github.com/MohamedElashri/snipo/issues/37) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Add deleted snippets folder (hidden)"
-- 02/02/2026 labeled PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/02/2026 opened PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 02/02/2026 assigned PR [#135](https://github.com/MohamedElashri/snipo/pull/135) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/02/2026 commented on issue [#133](https://github.com/MohamedElashri/snipo/issues/133) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Can't access settings in fresh install"
+- 02/02/2026 merged PR [#138](https://github.com/MohamedElashri/snipo/pull/138) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/02/2026 labeled PR [#138](https://github.com/MohamedElashri/snipo/pull/138) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/02/2026 opened PR [#138](https://github.com/MohamedElashri/snipo/pull/138) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/02/2026 assigned PR [#138](https://github.com/MohamedElashri/snipo/pull/138) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
