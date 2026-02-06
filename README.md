@@ -53,11 +53,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Seafile WebDAV with Docker and Nginx Proxy Manager](https://blog.melashri.net/posts/seafile-webdav/)
 - [The Physics of 2+2 universe](https://blog.melashri.net/posts/physics-universe/)
 - [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/)
 - [The Mystery of the Missing Backtick](https://blog.melashri.net/micro/karabiner-backtick-mystery/)
 - [Goodbye Kagi](https://blog.melashri.net/posts/goodbye-kagi/)
-- [I don't take photos, and it is fine](https://blog.melashri.net/micro/taking-photos/)
 
 <!-- BLOG-POST-LIST:END -->
 
