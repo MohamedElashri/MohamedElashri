@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 06/02/2026 assigned issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
-- 04/02/2026 merged PR [#142](https://github.com/MohamedElashri/snipo/pull/142) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 04/02/2026 labeled PR [#142](https://github.com/MohamedElashri/snipo/pull/142) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 04/02/2026 opened PR [#142](https://github.com/MohamedElashri/snipo/pull/142) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 04/02/2026 assigned PR [#142](https://github.com/MohamedElashri/snipo/pull/142) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 07/02/2026 assigned issue [#147](https://github.com/MohamedElashri/snipo/issues/147) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Disable login should prompt for password"
+- 07/02/2026 labeled issue [#147](https://github.com/MohamedElashri/snipo/issues/147) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Disable login should prompt for password"
+- 07/02/2026 opened issue [#147](https://github.com/MohamedElashri/snipo/issues/147) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Disable login should prompt for password"
+- 07/02/2026 commented on issue [#143](https://github.com/MohamedElashri/snipo/issues/143) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Unable to hide sidebar on mobile"
+- 07/02/2026 labeled PR [#146](https://github.com/MohamedElashri/snipo/pull/146) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
