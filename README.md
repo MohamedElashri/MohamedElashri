@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 10/02/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
 - 07/02/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
 - 07/02/2026 labeled PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 07/02/2026 opened PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 07/02/2026 assigned PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 07/02/2026 closed issue [#147](https://github.com/MohamedElashri/snipo/issues/147) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Disable login should prompt for password"
 <!-- ACTIVITY:END -->
 
 ---
