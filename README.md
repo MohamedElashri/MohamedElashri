@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 14/02/2026 commented on issue [#38](https://github.com/MohamedElashri/awesome-zotero/issues/38) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Beaver"
+- 14/02/2026 merged PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 12/02/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
 - 10/02/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
 - 07/02/2026 commented on issue [#125](https://github.com/MohamedElashri/snipo/issues/125) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "github gist sync per snippet"
-- 07/02/2026 labeled PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 07/02/2026 opened PR [#149](https://github.com/MohamedElashri/snipo/pull/149) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
