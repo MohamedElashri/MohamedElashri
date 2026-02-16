@@ -53,11 +53,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [The CUDA Metric That Gaslights You](https://blog.melashri.net/posts/cuda-occupancy/)
 - [The Synchronous Call Hiding in Plain Sight](https://blog.melashri.net/posts/cudamemcpy/)
 - [The Infuriating Reality of CUDA Warp Divergence](https://blog.melashri.net/posts/cuda-warp-divergence/)
 - [Domain Knowledge Is the New Syntax](https://blog.melashri.net/posts/specs-focus/)
 - [The devil inside GitHub](https://blog.melashri.net/micro/github-devil/)
-- [Seafile WebDAV with Docker and Nginx Proxy Manager](https://blog.melashri.net/posts/seafile-webdav/)
 
 <!-- BLOG-POST-LIST:END -->
 
