@@ -63,11 +63,11 @@ I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, cond
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 16/02/2026 merged PR [#154](https://github.com/MohamedElashri/snipo/pull/154) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/02/2026 labeled PR [#154](https://github.com/MohamedElashri/snipo/pull/154) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/02/2026 opened PR [#154](https://github.com/MohamedElashri/snipo/pull/154) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/02/2026 assigned PR [#154](https://github.com/MohamedElashri/snipo/pull/154) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/02/2026 merged PR [#153](https://github.com/MohamedElashri/snipo/pull/153) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 15/02/2026 labeled PR [#153](https://github.com/MohamedElashri/snipo/pull/153) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
