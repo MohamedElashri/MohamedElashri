@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=MohamedElashri&style=flat-square" alt="Profile views" />
 </p>
 
-I’m a **Particle Physics PhD Candidate** at the University of Cincinnati, conducting research as part of the **[LHCb](https://home.cern/science/experiments/lhcb)** experiment at CERN. I’m passionate about exploring the fundamental nature of matter and applying **Machine Learning** techniques to solve complex problems in High Energy Physics.
+I’m a **Particle Physicist** conducting research as part of the **[LHCb](https://home.cern/science/experiments/lhcb)** experiment at CERN. I’m passionate about exploring the fundamental nature of matter and applying **Machine Learning** techniques to solve complex problems in High Energy Physics.
 
 
 
