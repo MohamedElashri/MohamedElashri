@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 24/02/2026 assigned PR [#5](https://github.com/MohamedElashri/root-mcp/pull/5) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 24/02/2026 opened PR [#2775](https://github.com/iris-hep/iris-hep.github.io/pull/2775) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
 - 24/02/2026 opened issue [#249](https://github.com/ShadowWhisperer/BlockLists/issues/249) in [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - "orcid.org blocked"
 - 24/02/2026 merged PR [#4](https://github.com/MohamedElashri/root-mcp/pull/4) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 24/02/2026 labeled PR [#4](https://github.com/MohamedElashri/root-mcp/pull/4) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 24/02/2026 opened PR [#4](https://github.com/MohamedElashri/root-mcp/pull/4) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
