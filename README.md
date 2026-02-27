@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 26/02/2026 opened issue [#1](https://github.com/semos-labs/attyx/issues/1) in [semos-labs/attyx](https://github.com/semos-labs/attyx) - "attyx: error while loading shared libraries: libglfw.so.3"
-- 25/02/2026 merged PR [#6](https://github.com/MohamedElashri/root-mcp/pull/6) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 25/02/2026 labeled PR [#6](https://github.com/MohamedElashri/root-mcp/pull/6) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 25/02/2026 opened PR [#6](https://github.com/MohamedElashri/root-mcp/pull/6) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 25/02/2026 assigned PR [#6](https://github.com/MohamedElashri/root-mcp/pull/6) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 26/02/2026 merged PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 26/02/2026 labeled PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 26/02/2026 labeled PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 26/02/2026 assigned PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 26/02/2026 opened PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
