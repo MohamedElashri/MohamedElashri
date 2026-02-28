@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 28/02/2026 merged PR [#34](https://github.com/Stengo/DeskPad/pull/34) in [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
 - 26/02/2026 merged PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 26/02/2026 labeled PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 26/02/2026 labeled PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 26/02/2026 assigned PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 26/02/2026 opened PR [#7](https://github.com/MohamedElashri/root-mcp/pull/7) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
