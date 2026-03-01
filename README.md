@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 11/02/2026 assigned PR [#1](https://github.com/MohamedElashri/bu2lambdapKK/pull/1) in [MohamedElashri/bu2lambdapKK](https://github.com/MohamedElashri/bu2lambdapKK)
 - 01/03/2026 commented on issue [#298505](https://github.com/microsoft/vscode/issues/298505) in [microsoft/vscode](https://github.com/microsoft/vscode) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
 - 28/02/2026 closed issue [#1741](https://github.com/github/copilot-cli/issues/1741) in [github/copilot-cli](https://github.com/github/copilot-cli) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
 - 28/02/2026 labeled issue [#298505](https://github.com/microsoft/vscode/issues/298505) in [microsoft/vscode](https://github.com/microsoft/vscode) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
 - 28/02/2026 opened issue [#298505](https://github.com/microsoft/vscode/issues/298505) in [microsoft/vscode](https://github.com/microsoft/vscode) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
-- 28/02/2026 labeled issue [#1741](https://github.com/github/copilot-cli/issues/1741) in [github/copilot-cli](https://github.com/github/copilot-cli) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
 <!-- ACTIVITY:END -->
 
 ---
