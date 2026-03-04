@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 04/03/2026 closed issue [#2](https://github.com/MohamedElashri/inspirehep-mcp/issues/2) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp) - "🎨 PREA was here — discovered inspirehep-mcp"
 - 03/03/2026 closed issue [#2](https://github.com/MohamedElashri/cerngitlab-mcp/issues/2) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "🎨 PREA was here — discovered cerngitlab-mcp"
 - 02/03/2026 reopened issue [#2](https://github.com/MohamedElashri/cerngitlab-mcp/issues/2) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "🎨 PREA was here — discovered cerngitlab-mcp"
 - 02/03/2026 closed issue [#2](https://github.com/MohamedElashri/cerngitlab-mcp/issues/2) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "🎨 PREA was here — discovered cerngitlab-mcp"
 - 11/02/2026 assigned PR [#1](https://github.com/MohamedElashri/bu2lambdapKK/pull/1) in [MohamedElashri/bu2lambdapKK](https://github.com/MohamedElashri/bu2lambdapKK)
-- 01/03/2026 commented on issue [#298505](https://github.com/microsoft/vscode/issues/298505) in [microsoft/vscode](https://github.com/microsoft/vscode) - "VSCode crashes when Copilot agent is allowed to fetch content from pdg.lbl.gov"
 <!-- ACTIVITY:END -->
 
 ---
