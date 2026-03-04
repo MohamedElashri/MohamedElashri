@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Register Spilling Analysis: How NVCC Manages the GPU Register File](https://blog.melashri.net/posts/register-spilling-analysis/)
 - [Particle Data Group website crashes VSCode](https://blog.melashri.net/micro/vscode-pdg-crash/)
 - [TTree to RNTuple, A Modern Columnar Storage System](https://blog.melashri.net/posts/ttree-rntuple/)
 - [The CUDA Metric That Gaslights You](https://blog.melashri.net/posts/cuda-occupancy/)
 - [The Synchronous Call Hiding in Plain Sight](https://blog.melashri.net/posts/cudamemcpy/)
-- [The Infuriating Reality of CUDA Warp Divergence](https://blog.melashri.net/posts/cuda-warp-divergence/)
 
 <!-- BLOG-POST-LIST:END -->
 
