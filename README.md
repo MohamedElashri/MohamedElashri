@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 04/03/2026 commented on issue [#4](https://github.com/MohamedElashri/inspirehep-mcp/issues/4) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp) - "Fix arxiv_id"
-- 04/03/2026 merged PR [#7](https://github.com/MohamedElashri/inspirehep-mcp/pull/7) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 04/03/2026 labeled PR [#7](https://github.com/MohamedElashri/inspirehep-mcp/pull/7) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 04/03/2026 opened PR [#7](https://github.com/MohamedElashri/inspirehep-mcp/pull/7) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 04/03/2026 assigned PR [#7](https://github.com/MohamedElashri/inspirehep-mcp/pull/7) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 05/03/2026 merged PR [#2775](https://github.com/iris-hep/iris-hep.github.io/pull/2775) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
+- 05/03/2026 merged PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 05/03/2026 commented on issue [#4](https://github.com/MohamedElashri/inspirehep-mcp/issues/4) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp) - "Fix arxiv_id"
+- 05/03/2026 labeled PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 05/03/2026 opened PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
 <!-- ACTIVITY:END -->
 
 ---
