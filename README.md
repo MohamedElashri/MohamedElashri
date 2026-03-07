@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 07/03/2026 commented on issue [#173](https://github.com/MohamedElashri/snipo/issues/173) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.96.0 to 1.96.2"
+- 07/03/2026 commented on issue [#174](https://github.com/MohamedElashri/snipo/issues/174) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.9 to 1.32.10"
 - 05/03/2026 merged PR [#2775](https://github.com/iris-hep/iris-hep.github.io/pull/2775) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
 - 05/03/2026 merged PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
 - 05/03/2026 commented on issue [#4](https://github.com/MohamedElashri/inspirehep-mcp/issues/4) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp) - "Fix arxiv_id"
-- 05/03/2026 labeled PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 05/03/2026 opened PR [#8](https://github.com/MohamedElashri/inspirehep-mcp/pull/8) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
 <!-- ACTIVITY:END -->
 
 ---
