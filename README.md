@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 10/03/2026 labeled PR [#3](https://github.com/MohamedElashri/cerngitlab-mcp/pull/3) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 10/03/2026 opened PR [#3](https://github.com/MohamedElashri/cerngitlab-mcp/pull/3) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 10/03/2026 assigned PR [#3](https://github.com/MohamedElashri/cerngitlab-mcp/pull/3) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 10/03/2026 labeled PR [#9](https://github.com/MohamedElashri/root-mcp/pull/9) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 10/03/2026 opened PR [#9](https://github.com/MohamedElashri/root-mcp/pull/9) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 11/03/2026 merged PR [#5](https://github.com/MohamedElashri/cerngitlab-mcp/pull/5) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 11/03/2026 labeled PR [#5](https://github.com/MohamedElashri/cerngitlab-mcp/pull/5) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 11/03/2026 opened PR [#5](https://github.com/MohamedElashri/cerngitlab-mcp/pull/5) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 11/03/2026 assigned PR [#5](https://github.com/MohamedElashri/cerngitlab-mcp/pull/5) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 11/03/2026 labeled PR [#4](https://github.com/MohamedElashri/cerngitlab-mcp/pull/4) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 <!-- ACTIVITY:END -->
 
 ---
