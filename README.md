@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Match sessiontype](https://blog.melashri.net/micro/match-sessiontype/)
+- [SSH: Match version](https://blog.melashri.net/micro/match-version/)
+- [CUDA Memory Safety Problem](https://blog.melashri.net/posts/cuda-rust-memory-safety/)
 - [SSH: Channel Timeout](https://blog.melashri.net/micro/channel-timeout/)
 - [SSH: Obscure Keystroke Timing](https://blog.melashri.net/micro/obscure-keystroke-timing/)
-- [You Can't Prompt Your Way to Live Data](https://blog.melashri.net/posts/llm-skills-vs-mcp-tools/)
-- [Register Spilling Analysis: How NVCC Manages the GPU Register File](https://blog.melashri.net/posts/register-spilling-analysis/)
-- [Particle Data Group website crashes VSCode](https://blog.melashri.net/micro/vscode-pdg-crash/)
 
 <!-- BLOG-POST-LIST:END -->
 
