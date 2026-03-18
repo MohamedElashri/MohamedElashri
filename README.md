@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 17/03/2026 commented on issue [#190](https://github.com/MohamedElashri/snipo/issues/190) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Failed to Copy"
-- 17/03/2026 commented on issue [#190](https://github.com/MohamedElashri/snipo/issues/190) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Failed to Copy"
-- 16/03/2026 commented on issue [#190](https://github.com/MohamedElashri/snipo/issues/190) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Failed to Copy"
-- 16/03/2026 labeled PR [#189](https://github.com/MohamedElashri/snipo/pull/189) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/03/2026 labeled PR [#189](https://github.com/MohamedElashri/snipo/pull/189) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 17/03/2026 closed PR [#191](https://github.com/MohamedElashri/snipo/pull/191) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 17/03/2026 labeled PR [#191](https://github.com/MohamedElashri/snipo/pull/191) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 17/03/2026 labeled PR [#191](https://github.com/MohamedElashri/snipo/pull/191) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 17/03/2026 assigned PR [#191](https://github.com/MohamedElashri/snipo/pull/191) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 17/03/2026 opened PR [#191](https://github.com/MohamedElashri/snipo/pull/191) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
