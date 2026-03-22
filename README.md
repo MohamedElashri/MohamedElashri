@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 22/03/2026 merged PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/03/2026 opened PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/03/2026 assigned PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 21/03/2026 merged PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 21/03/2026 labeled PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 21/03/2026 opened PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 21/03/2026 assigned PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 19/03/2026 closed issue [#4](https://github.com/MohamedElashri/inspirehep-mcp/issues/4) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp) - "Fix arxiv_id"
 <!-- ACTIVITY:END -->
 
 ---
