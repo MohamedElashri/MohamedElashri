@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 22/03/2026 merged PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/03/2026 opened PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/03/2026 assigned PR [#194](https://github.com/MohamedElashri/snipo/pull/194) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 21/03/2026 merged PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 21/03/2026 labeled PR [#192](https://github.com/MohamedElashri/snipo/pull/192) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 24/03/2026 merged PR [#16](https://github.com/MohamedElashri/root-mcp/pull/16) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 24/03/2026 labeled PR [#16](https://github.com/MohamedElashri/root-mcp/pull/16) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 24/03/2026 opened PR [#16](https://github.com/MohamedElashri/root-mcp/pull/16) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 24/03/2026 assigned PR [#16](https://github.com/MohamedElashri/root-mcp/pull/16) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 24/03/2026 merged PR [#15](https://github.com/MohamedElashri/root-mcp/pull/15) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
