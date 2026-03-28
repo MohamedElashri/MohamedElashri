@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 28/03/2026 commented on issue [#42](https://github.com/MohamedElashri/awesome-zotero/issues/42) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Update README.md"
 - 24/03/2026 merged PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 24/03/2026 labeled PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 24/03/2026 assigned PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 24/03/2026 opened PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 24/03/2026 merged PR [#16](https://github.com/MohamedElashri/root-mcp/pull/16) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
