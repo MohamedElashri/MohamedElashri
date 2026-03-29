@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 28/03/2026 commented on issue [#42](https://github.com/MohamedElashri/awesome-zotero/issues/42) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Update README.md"
-- 24/03/2026 merged PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 24/03/2026 labeled PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 24/03/2026 assigned PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 24/03/2026 opened PR [#17](https://github.com/MohamedElashri/root-mcp/pull/17) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 28/03/2026 commented on issue [#43](https://github.com/MohamedElashri/awesome-zotero/issues/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: item name: Zotero-Focused-Mode (+ Sort existing entries alphabetica..."
+- 28/03/2026 labeled PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 28/03/2026 labeled PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 28/03/2026 assigned PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 28/03/2026 commented PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
