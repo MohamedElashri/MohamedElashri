@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 01/04/2026 merged PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 01/04/2026 labeled PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 01/04/2026 assigned PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 01/04/2026 opened PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 - 26/03/2026 closed PR [#41](https://github.com/MohamedElashri/awesome-zotero/pull/41) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 28/03/2026 commented on issue [#43](https://github.com/MohamedElashri/awesome-zotero/issues/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: item name: Zotero-Focused-Mode (+ Sort existing entries alphabetica..."
-- 28/03/2026 labeled PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 28/03/2026 labeled PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 28/03/2026 assigned PR [#43](https://github.com/MohamedElashri/awesome-zotero/pull/43) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
