@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 06/04/2026 commented on issue [#200](https://github.com/MohamedElashri/snipo/issues/200) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.13 to 1...."
+- 06/04/2026 commented on issue [#201](https://github.com/MohamedElashri/snipo/issues/201) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.97.3 to 1.98.0"
+- 06/04/2026 commented on issue [#200](https://github.com/MohamedElashri/snipo/issues/200) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.13 to 1...."
+- 06/04/2026 commented on issue [#201](https://github.com/MohamedElashri/snipo/issues/201) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.97.3 to 1.98.0"
 - 01/04/2026 merged PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 01/04/2026 labeled PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 01/04/2026 assigned PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 01/04/2026 opened PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 26/03/2026 closed PR [#41](https://github.com/MohamedElashri/awesome-zotero/pull/41) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
