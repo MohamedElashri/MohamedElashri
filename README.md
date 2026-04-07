@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 06/04/2026 commented on issue [#200](https://github.com/MohamedElashri/snipo/issues/200) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.13 to 1...."
-- 06/04/2026 commented on issue [#201](https://github.com/MohamedElashri/snipo/issues/201) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.97.3 to 1.98.0"
-- 06/04/2026 commented on issue [#200](https://github.com/MohamedElashri/snipo/issues/200) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.13 to 1...."
-- 06/04/2026 commented on issue [#201](https://github.com/MohamedElashri/snipo/issues/201) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.97.3 to 1.98.0"
-- 01/04/2026 merged PR [#9](https://github.com/MohamedElashri/cerngitlab-mcp/pull/9) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 07/04/2026 opened PR [#2306](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2306) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)
+- 07/04/2026 merged PR [#205](https://github.com/MohamedElashri/snipo/pull/205) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/04/2026 labeled PR [#205](https://github.com/MohamedElashri/snipo/pull/205) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/04/2026 opened PR [#205](https://github.com/MohamedElashri/snipo/pull/205) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/04/2026 assigned PR [#205](https://github.com/MohamedElashri/snipo/pull/205) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
