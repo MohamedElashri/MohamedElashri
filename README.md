@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 08/04/2026 closed PR [#44](https://github.com/MohamedElashri/awesome-zotero/pull/44) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 08/04/2026 merged PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 08/04/2026 opened PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 08/04/2026 assigned PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 31/03/2026 closed PR [#12](https://github.com/MohamedElashri/inspirehep-mcp/pull/12) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 07/04/2026 commented PR [#2306](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2306) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)
-- 07/04/2026 commented on PR [#2306](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2306) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)
-- 07/04/2026 opened PR [#2306](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/2306) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)
-- 07/04/2026 merged PR [#205](https://github.com/MohamedElashri/snipo/pull/205) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
