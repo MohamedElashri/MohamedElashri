@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [make: the automation layer I put on everything](https://blog.melashri.net/posts/makefile/)
 - [uv is a miracle for scientific computing](https://blog.melashri.net/posts/uv-computing/)
 - [My Sad thoughts appears to be a Greyware](https://blog.melashri.net/micro/sad-throughts-graywall/)
 - [Mattermost is my new comment system](https://blog.melashri.net/micro/comments/)
 - [SSH: LocalCommand](https://blog.melashri.net/micro/local-command/)
-- [SSH: ControlMaster](https://blog.melashri.net/micro/control-master/)
 
 <!-- BLOG-POST-LIST:END -->
 
