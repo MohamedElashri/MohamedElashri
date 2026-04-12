@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 11/04/2026 closed issue [#11](https://github.com/MohamedElashri/cerngitlab-mcp/issues/11) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "Consider listing in awesome-ai-plugins"
 - 08/04/2026 closed PR [#44](https://github.com/MohamedElashri/awesome-zotero/pull/44) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 - 08/04/2026 merged PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 08/04/2026 opened PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 08/04/2026 assigned PR [#206](https://github.com/MohamedElashri/snipo/pull/206) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 31/03/2026 closed PR [#12](https://github.com/MohamedElashri/inspirehep-mcp/pull/12) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
 <!-- ACTIVITY:END -->
 
 ---
