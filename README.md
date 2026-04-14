@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Fixing TorchAO when Downgrading PyTorch for AITune](https://blog.melashri.net/posts/torchao-pytorch/)
 - [JSON formatting in browser is useful](https://blog.melashri.net/posts/json-formatter/)
 - [make: the automation layer I put on everything](https://blog.melashri.net/posts/makefile/)
 - [uv is a miracle for scientific computing](https://blog.melashri.net/posts/uv-computing/)
 - [My Sad thoughts appears to be a Greyware](https://blog.melashri.net/micro/sad-throughts-graywall/)
-- [Mattermost is my new comment system](https://blog.melashri.net/micro/comments/)
 
 <!-- BLOG-POST-LIST:END -->
 
