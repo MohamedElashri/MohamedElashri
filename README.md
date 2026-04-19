@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 19/04/2026 commented on issue [#211](https://github.com/MohamedElashri/snipo/issues/211) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.0 to 1.99.1"
+- 19/04/2026 commented on issue [#212](https://github.com/MohamedElashri/snipo/issues/212) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1...."
 - 15/04/2026 commented on issue [#45](https://github.com/MohamedElashri/awesome-zotero/issues/45) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: cli-anything-zotero"
 - 13/04/2026 commented on issue [#209](https://github.com/MohamedElashri/snipo/issues/209) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.98.0 to 1.99.0"
 - 13/04/2026 commented on issue [#209](https://github.com/MohamedElashri/snipo/issues/209) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.98.0 to 1.99.0"
-- 11/04/2026 closed issue [#11](https://github.com/MohamedElashri/cerngitlab-mcp/issues/11) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "Consider listing in awesome-ai-plugins"
-- 08/04/2026 closed PR [#44](https://github.com/MohamedElashri/awesome-zotero/pull/44) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
