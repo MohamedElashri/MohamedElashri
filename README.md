@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 03/05/2026 commented on issue [#971](https://github.com/HEPData/hepdata/issues/971) in [HEPData/hepdata](https://github.com/HEPData/hepdata) - "feature request: MCP server for LLM integration"
 - 30/04/2026 commented on issue [#971](https://github.com/HEPData/hepdata/issues/971) in [HEPData/hepdata](https://github.com/HEPData/hepdata) - "feature request: MCP server for LLM integration"
 - 26/04/2026 merged PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 26/04/2026 labeled PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 26/04/2026 opened PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/04/2026 assigned PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
