@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 08/05/2026 assigned PR [#15](https://github.com/MohamedElashri/cerngitlab-mcp/pull/15) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 - 05/05/2026 commented on issue [#4](https://github.com/MohamedElashri/nida/issues/4) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Bump github.com/pelletier/go-toml/v2 from 2.3.0 to 2.3.1"
 - 03/05/2026 commented on issue [#971](https://github.com/HEPData/hepdata/issues/971) in [HEPData/hepdata](https://github.com/HEPData/hepdata) - "feature request: MCP server for LLM integration"
 - 30/04/2026 commented on issue [#971](https://github.com/HEPData/hepdata/issues/971) in [HEPData/hepdata](https://github.com/HEPData/hepdata) - "feature request: MCP server for LLM integration"
 - 26/04/2026 merged PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/04/2026 labeled PR [#220](https://github.com/MohamedElashri/snipo/pull/220) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
