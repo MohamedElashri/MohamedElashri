@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 10/05/2026 commented on issue [#221](https://github.com/MohamedElashri/snipo/issues/221) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.16 to 1.32.17"
-- 10/05/2026 commented on issue [#222](https://github.com/MohamedElashri/snipo/issues/222) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.1..."
-- 10/05/2026 commented on issue [#223](https://github.com/MohamedElashri/snipo/issues/223) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7"
-- 10/05/2026 merged PR [#225](https://github.com/MohamedElashri/snipo/pull/225) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 10/05/2026 labeled PR [#16](https://github.com/MohamedElashri/cerngitlab-mcp/pull/16) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 10/05/2026 merged PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 10/05/2026 opened PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 10/05/2026 assigned PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 10/05/2026 merged PR [#226](https://github.com/MohamedElashri/snipo/pull/226) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 10/05/2026 labeled PR [#226](https://github.com/MohamedElashri/snipo/pull/226) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
