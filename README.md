@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 10/05/2026 merged PR [#16](https://github.com/MohamedElashri/cerngitlab-mcp/pull/16) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 - 10/05/2026 merged PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 10/05/2026 opened PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 10/05/2026 assigned PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 10/05/2026 merged PR [#226](https://github.com/MohamedElashri/snipo/pull/226) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 10/05/2026 labeled PR [#226](https://github.com/MohamedElashri/snipo/pull/226) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
