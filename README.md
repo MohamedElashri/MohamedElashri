@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 14/05/2026 published release [v1.1.3](https://github.com/MohamedElashri/DevTab/releases/tag/v1.1.3) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "v1.1.3"
 - 11/05/2026 opened PR [#486](https://github.com/typora/theme.typora.io/pull/486) in [typora/theme.typora.io](https://github.com/typora/theme.typora.io)
 - 11/05/2026 published release [1.0](https://github.com/MohamedElashri/riwaq/releases/tag/1.0) in [MohamedElashri/riwaq](https://github.com/MohamedElashri/riwaq) - "v1.0"
 - 10/05/2026 merged PR [#16](https://github.com/MohamedElashri/cerngitlab-mcp/pull/16) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 - 10/05/2026 merged PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 10/05/2026 opened PR [#227](https://github.com/MohamedElashri/snipo/pull/227) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
