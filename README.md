@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 16/05/2026 assigned issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
-- 16/05/2026 labeled issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
-- 16/05/2026 labeled issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
-- 16/05/2026 opened issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
-- 14/05/2026 published release [v1.1.3](https://github.com/MohamedElashri/DevTab/releases/tag/v1.1.3) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "v1.1.3"
+- 16/05/2026 merged PR [#486](https://github.com/typora/theme.typora.io/pull/486) in [typora/theme.typora.io](https://github.com/typora/theme.typora.io)
+- 16/05/2026 closed issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
+- 16/05/2026 merged PR [#8](https://github.com/MohamedElashri/nida/pull/8) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 16/05/2026 labeled PR [#8](https://github.com/MohamedElashri/nida/pull/8) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 16/05/2026 labeled PR [#8](https://github.com/MohamedElashri/nida/pull/8) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 <!-- ACTIVITY:END -->
 
 ---
