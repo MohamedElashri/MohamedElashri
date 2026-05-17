@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 17/05/2026 labeled PR [#18](https://github.com/MohamedElashri/root-mcp/pull/18) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 17/05/2026 opened PR [#18](https://github.com/MohamedElashri/root-mcp/pull/18) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 17/05/2026 assigned PR [#18](https://github.com/MohamedElashri/root-mcp/pull/18) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 - 16/05/2026 closed PR [#3](https://github.com/MohamedElashri/arsweb/pull/3) in [MohamedElashri/arsweb](https://github.com/MohamedElashri/arsweb)
 - 16/05/2026 merged PR [#486](https://github.com/typora/theme.typora.io/pull/486) in [typora/theme.typora.io](https://github.com/typora/theme.typora.io)
-- 16/05/2026 closed issue [#7](https://github.com/MohamedElashri/nida/issues/7) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida) - "Add first-class base-path and asset URL helpers for project-hosted sites"
-- 16/05/2026 merged PR [#8](https://github.com/MohamedElashri/nida/pull/8) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 16/05/2026 labeled PR [#8](https://github.com/MohamedElashri/nida/pull/8) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 <!-- ACTIVITY:END -->
 
 ---
