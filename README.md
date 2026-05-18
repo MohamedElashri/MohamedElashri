@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 18/05/2026 merged PR [#19](https://github.com/MohamedElashri/inspirehep-mcp/pull/19) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 17/05/2026 assigned PR [#235](https://github.com/MohamedElashri/snipo/pull/235) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 17/05/2026 commented on issue [#5](https://github.com/MohamedElashri/txm/issues/5) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm) - "chore(deps): bump golang.org/x/term from 0.33.0 to 0.43.0"
 - 17/05/2026 labeled PR [#19](https://github.com/MohamedElashri/inspirehep-mcp/pull/19) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
 - 17/05/2026 opened PR [#19](https://github.com/MohamedElashri/inspirehep-mcp/pull/19) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 17/05/2026 assigned PR [#19](https://github.com/MohamedElashri/inspirehep-mcp/pull/19) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 17/05/2026 labeled PR [#19](https://github.com/MohamedElashri/root-mcp/pull/19) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
