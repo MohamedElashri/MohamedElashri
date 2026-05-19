@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 19/05/2026 merged PR [#6](https://github.com/MohamedElashri/sanad/pull/6) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 19/05/2026 labeled PR [#6](https://github.com/MohamedElashri/sanad/pull/6) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 19/05/2026 labeled PR [#6](https://github.com/MohamedElashri/sanad/pull/6) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 19/05/2026 assigned PR [#6](https://github.com/MohamedElashri/sanad/pull/6) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 19/05/2026 opened PR [#6](https://github.com/MohamedElashri/sanad/pull/6) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
+- 19/05/2026 merged PR [#9](https://github.com/MohamedElashri/sanad/pull/9) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
+- 19/05/2026 opened PR [#9](https://github.com/MohamedElashri/sanad/pull/9) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
+- 19/05/2026 merged PR [#236](https://github.com/MohamedElashri/snipo/pull/236) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/05/2026 labeled PR [#236](https://github.com/MohamedElashri/snipo/pull/236) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/05/2026 assigned PR [#236](https://github.com/MohamedElashri/snipo/pull/236) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
