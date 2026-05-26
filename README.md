@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Strip Photo Metadata Before Sharing](https://blog.melashri.net/micro/strip-photo-metadata/)
+- [Clean Links Before Sharing](https://blog.melashri.net/micro/clean-links-before-sharing/)
+- [Julia Will Not Solve HEP Two-Language Problem](https://blog.melashri.net/posts/julia-hep-two-language-problem/)
 - [Running old DaVinci with Ganga 8 on lxplus](https://blog.melashri.net/posts/running-davinci-ganga-lxplus/)
 - [DevTab: Rebuilding Hackertab as a Private Firefox New Tab Extension](https://blog.melashri.net/posts/devtab-extension/)
-- [My experience converting a book to audio using TTS](https://blog.melashri.net/micro/tts-book/)
-- [The Security Model of Not Being Single](https://blog.melashri.net/posts/shared-security/)
-- [My new blog stack: Nida](https://blog.melashri.net/posts/nida/)
 
 <!-- BLOG-POST-LIST:END -->
 
