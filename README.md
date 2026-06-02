@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 01/06/2026 merged PR [#18](https://github.com/MohamedElashri/root-mcp/pull/18) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
-- 31/05/2026 merged PR [#255](https://github.com/MohamedElashri/snipo/pull/255) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 31/05/2026 labeled PR [#255](https://github.com/MohamedElashri/snipo/pull/255) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 31/05/2026 assigned PR [#255](https://github.com/MohamedElashri/snipo/pull/255) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 31/05/2026 opened PR [#255](https://github.com/MohamedElashri/snipo/pull/255) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 02/06/2026 commented on issue [#46](https://github.com/MohamedElashri/awesome-zotero/issues/46) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Weavero"
+- 02/06/2026 commented on issue [#47](https://github.com/MohamedElashri/awesome-zotero/issues/47) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: MCP Server Zotero Dev"
+- 02/06/2026 commented on issue [#49](https://github.com/MohamedElashri/awesome-zotero/issues/49) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: zotero-marker"
+- 01/06/2026 closed PR [#49](https://github.com/MohamedElashri/awesome-zotero/pull/49) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 02/06/2026 commented on issue [#48](https://github.com/MohamedElashri/awesome-zotero/issues/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add Zoteus to AI Integrations"
 <!-- ACTIVITY:END -->
 
 ---
