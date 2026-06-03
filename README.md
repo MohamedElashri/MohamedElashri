@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Keep images metadata private](https://blog.melashri.net/micro/strip/)
 - [GPU Padding Is Not One Thing](https://blog.melashri.net/posts/gpu-padding/)
 - [Strip Photo Metadata Before Sharing](https://blog.melashri.net/micro/strip-photo-metadata/)
 - [Clean Links Before Sharing](https://blog.melashri.net/micro/clean-links-before-sharing/)
 - [Julia Will Not Solve HEP Two-Language Problem](https://blog.melashri.net/posts/julia-hep-two-language-problem/)
-- [Running old DaVinci with Ganga 8 on lxplus](https://blog.melashri.net/posts/running-davinci-ganga-lxplus/)
 
 <!-- BLOG-POST-LIST:END -->
 
