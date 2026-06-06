@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 06/06/2026 commented on issue [#48](https://github.com/MohamedElashri/awesome-zotero/issues/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zoteus"
-- 06/06/2026 commented on issue [#51](https://github.com/MohamedElashri/awesome-zotero/issues/51) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: arxiv-marker"
-- 02/06/2026 commented on issue [#46](https://github.com/MohamedElashri/awesome-zotero/issues/46) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Weavero"
-- 02/06/2026 commented on issue [#47](https://github.com/MohamedElashri/awesome-zotero/issues/47) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: MCP Server Zotero Dev"
-- 02/06/2026 commented on issue [#49](https://github.com/MohamedElashri/awesome-zotero/issues/49) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: zotero-marker"
+- 06/06/2026 merged PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/06/2026 opened PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/06/2026 assigned PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 31/05/2026 assigned PR [#250](https://github.com/MohamedElashri/snipo/pull/250) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 06/06/2026 commented on issue [#250](https://github.com/MohamedElashri/snipo/issues/250) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1...."
 <!-- ACTIVITY:END -->
 
 ---
