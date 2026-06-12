@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 12/06/2026 commented on issue [#52](https://github.com/MohamedElashri/awesome-zotero/issues/52) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add Zotero Docling plugin"
 - 25/05/2026 assigned PR [#14](https://github.com/MohamedElashri/arsweb/pull/14) in [MohamedElashri/arsweb](https://github.com/MohamedElashri/arsweb)
 - 06/06/2026 merged PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 06/06/2026 opened PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 06/06/2026 assigned PR [#257](https://github.com/MohamedElashri/snipo/pull/257) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 31/05/2026 assigned PR [#250](https://github.com/MohamedElashri/snipo/pull/250) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
