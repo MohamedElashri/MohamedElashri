@@ -53,11 +53,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [DNS Lies for a While](https://blog.melashri.net/micro/dns-lies/)
 - [Porting Allen to RISC-V 64](https://blog.melashri.net/posts/allen-riscv/)
 - [My Experience with CERN eduVPN](https://blog.melashri.net/posts/cern-eduvpn-experience/)
 - [Keep images metadata private](https://blog.melashri.net/micro/strip/)
 - [GPU Padding Is Not One Thing](https://blog.melashri.net/posts/gpu-padding/)
-- [Strip Photo Metadata Before Sharing](https://blog.melashri.net/micro/strip-photo-metadata/)
 
 <!-- BLOG-POST-LIST:END -->
 
