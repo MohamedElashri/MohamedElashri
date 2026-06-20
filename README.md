@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 20/06/2026 opened PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 20/06/2026 assigned PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/06/2026 merged PR [#269](https://github.com/MohamedElashri/snipo/pull/269) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/06/2026 assigned PR [#269](https://github.com/MohamedElashri/snipo/pull/269) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 16/06/2026 opened PR [#269](https://github.com/MohamedElashri/snipo/pull/269) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/06/2026 commented on issue [#48](https://github.com/MohamedElashri/awesome-zotero/issues/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zoteus"
-- 07/06/2026 closed PR [#51](https://github.com/MohamedElashri/awesome-zotero/pull/51) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
