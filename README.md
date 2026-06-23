@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 21/06/2026 opened PR [#274](https://github.com/MohamedElashri/snipo/pull/274) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 20/06/2026 opened PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 20/06/2026 assigned PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/06/2026 merged PR [#269](https://github.com/MohamedElashri/snipo/pull/269) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 16/06/2026 assigned PR [#269](https://github.com/MohamedElashri/snipo/pull/269) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/06/2026 assigned PR [#48](https://github.com/MohamedElashri/awesome-zotero/pull/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 20/06/2026 labeled PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/06/2026 assigned PR [#18](https://github.com/MohamedElashri/nida/pull/18) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 21/06/2026 assigned PR [#274](https://github.com/MohamedElashri/snipo/pull/274) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 22/06/2026 closed PR [#54](https://github.com/MohamedElashri/awesome-zotero/pull/54) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
