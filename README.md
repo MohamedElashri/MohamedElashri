@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 23/06/2026 commented on issue [#55](https://github.com/MohamedElashri/awesome-zotero/issues/55) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zotero Watch Folder"
+- 21/06/2026 labeled PR [#274](https://github.com/MohamedElashri/snipo/pull/274) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 01/06/2026 assigned PR [#48](https://github.com/MohamedElashri/awesome-zotero/pull/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 - 20/06/2026 labeled PR [#270](https://github.com/MohamedElashri/snipo/pull/270) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 22/06/2026 assigned PR [#18](https://github.com/MohamedElashri/nida/pull/18) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 21/06/2026 assigned PR [#274](https://github.com/MohamedElashri/snipo/pull/274) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 22/06/2026 closed PR [#54](https://github.com/MohamedElashri/awesome-zotero/pull/54) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 <!-- ACTIVITY:END -->
 
 ---
