@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 22/06/2026 assigned PR [#53](https://github.com/MohamedElashri/awesome-zotero/pull/53) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 21/06/2026 assigned PR [#8](https://github.com/MohamedElashri/siyuan-patch/pull/8) in [MohamedElashri/siyuan-patch](https://github.com/MohamedElashri/siyuan-patch)
 - 24/06/2026 assigned PR [#13](https://github.com/MohamedElashri/sanad/pull/13) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
 - 24/06/2026 merged PR [#12](https://github.com/MohamedElashri/sanad/pull/12) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
 - 24/06/2026 labeled PR [#12](https://github.com/MohamedElashri/sanad/pull/12) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 24/06/2026 opened PR [#12](https://github.com/MohamedElashri/sanad/pull/12) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad)
-- 24/06/2026 commented on issue [#55](https://github.com/MohamedElashri/awesome-zotero/issues/55) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zotero Watch Folder"
 <!-- ACTIVITY:END -->
 
 ---
