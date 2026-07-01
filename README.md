@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 01/07/2026 labeled PR [#278](https://github.com/MohamedElashri/snipo/pull/278) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 01/07/2026 labeled PR [#278](https://github.com/MohamedElashri/snipo/pull/278) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 01/07/2026 opened PR [#278](https://github.com/MohamedElashri/snipo/pull/278) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 01/07/2026 assigned PR [#278](https://github.com/MohamedElashri/snipo/pull/278) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 30/06/2026 merged PR [#277](https://github.com/MohamedElashri/snipo/pull/277) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/07/2026 commented on issue [#5](https://github.com/MohamedElashri/txm/issues/5) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm) - "chore(deps): bump golang.org/x/term from 0.33.0 to 0.44.0"
+- 01/07/2026 merged PR [#279](https://github.com/MohamedElashri/snipo/pull/279) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 01/07/2026 commented on issue [#5](https://github.com/MohamedElashri/txm/issues/5) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm) - "chore(deps): bump golang.org/x/term from 0.33.0 to 0.44.0"
+- 01/07/2026 merged PR [#16](https://github.com/MohamedElashri/txm/pull/16) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
+- 01/07/2026 labeled PR [#279](https://github.com/MohamedElashri/snipo/pull/279) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
