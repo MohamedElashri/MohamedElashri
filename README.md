@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 22/06/2026 closed PR [#48](https://github.com/MohamedElashri/awesome-zotero/pull/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 02/07/2026 commented on issue [#56](https://github.com/MohamedElashri/awesome-zotero/issues/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zotero Metadata Hunter"
+- 02/07/2026 labeled PR [#56](https://github.com/MohamedElashri/awesome-zotero/pull/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 02/07/2026 assigned PR [#56](https://github.com/MohamedElashri/awesome-zotero/pull/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 - 01/07/2026 commented on issue [#5](https://github.com/MohamedElashri/txm/issues/5) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm) - "chore(deps): bump golang.org/x/term from 0.33.0 to 0.44.0"
-- 01/07/2026 merged PR [#279](https://github.com/MohamedElashri/snipo/pull/279) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 01/07/2026 commented on issue [#5](https://github.com/MohamedElashri/txm/issues/5) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm) - "chore(deps): bump golang.org/x/term from 0.33.0 to 0.44.0"
-- 01/07/2026 merged PR [#16](https://github.com/MohamedElashri/txm/pull/16) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
-- 01/07/2026 labeled PR [#279](https://github.com/MohamedElashri/snipo/pull/279) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
