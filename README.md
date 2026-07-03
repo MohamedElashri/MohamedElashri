@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 02/07/2026 assigned PR [#57](https://github.com/MohamedElashri/awesome-zotero/pull/57) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 22/06/2026 closed PR [#48](https://github.com/MohamedElashri/awesome-zotero/pull/48) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 02/07/2026 commented on issue [#56](https://github.com/MohamedElashri/awesome-zotero/issues/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add item: Zotero Metadata Hunter"
-- 02/07/2026 labeled PR [#56](https://github.com/MohamedElashri/awesome-zotero/pull/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 02/07/2026 assigned PR [#56](https://github.com/MohamedElashri/awesome-zotero/pull/56) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 03/07/2026 merged PR [#7](https://github.com/MohamedElashri/lhcb-marketplace/pull/7) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 03/07/2026 opened PR [#7](https://github.com/MohamedElashri/lhcb-marketplace/pull/7) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 03/07/2026 published release [0.1.0](https://github.com/MohamedElashri/lhcb-marketplace/releases/tag/0.1.0) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "LHCb Agent Marketplace 0.1.0"
+- 03/07/2026 assigned PR [#6](https://github.com/MohamedElashri/lhcb-marketplace/pull/6) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 03/07/2026 merged PR [#6](https://github.com/MohamedElashri/lhcb-marketplace/pull/6) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
 <!-- ACTIVITY:END -->
 
 ---
