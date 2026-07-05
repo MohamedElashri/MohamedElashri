@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 03/07/2026 merged PR [#7](https://github.com/MohamedElashri/lhcb-marketplace/pull/7) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
-- 03/07/2026 opened PR [#7](https://github.com/MohamedElashri/lhcb-marketplace/pull/7) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
-- 03/07/2026 published release [0.1.0](https://github.com/MohamedElashri/lhcb-marketplace/releases/tag/0.1.0) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "LHCb Agent Marketplace 0.1.0"
-- 03/07/2026 assigned PR [#6](https://github.com/MohamedElashri/lhcb-marketplace/pull/6) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
-- 03/07/2026 merged PR [#6](https://github.com/MohamedElashri/lhcb-marketplace/pull/6) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 05/07/2026 merged PR [#288](https://github.com/MohamedElashri/snipo/pull/288) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 05/07/2026 labeled PR [#288](https://github.com/MohamedElashri/snipo/pull/288) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 05/07/2026 opened PR [#288](https://github.com/MohamedElashri/snipo/pull/288) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 05/07/2026 assigned PR [#288](https://github.com/MohamedElashri/snipo/pull/288) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 05/07/2026 merged PR [#287](https://github.com/MohamedElashri/snipo/pull/287) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
