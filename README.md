@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 10/07/2026 opened issue [#3432](https://github.com/fosrl/pangolin/issues/3432) in [fosrl/pangolin](https://github.com/fosrl/pangolin) - "`country is not` access rule doesn't allow multiple countries"
 - 08/07/2026 merged PR [#17](https://github.com/MohamedElashri/txm/pull/17) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
 - 08/07/2026 labeled PR [#17](https://github.com/MohamedElashri/txm/pull/17) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
 - 08/07/2026 opened PR [#17](https://github.com/MohamedElashri/txm/pull/17) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
 - 08/07/2026 assigned PR [#17](https://github.com/MohamedElashri/txm/pull/17) in [MohamedElashri/txm](https://github.com/MohamedElashri/txm)
-- 05/07/2026 merged PR [#288](https://github.com/MohamedElashri/snipo/pull/288) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
