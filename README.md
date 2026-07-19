@@ -63,11 +63,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 18/07/2026 merged PR [#321](https://github.com/MohamedElashri/snipo/pull/321) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 18/07/2026 labeled PR [#321](https://github.com/MohamedElashri/snipo/pull/321) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 18/07/2026 opened PR [#321](https://github.com/MohamedElashri/snipo/pull/321) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 18/07/2026 assigned PR [#321](https://github.com/MohamedElashri/snipo/pull/321) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 17/07/2026 labeled PR [#58](https://github.com/MohamedElashri/awesome-zotero/pull/58) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 19/07/2026 merged PR [#331](https://github.com/MohamedElashri/snipo/pull/331) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/07/2026 labeled PR [#331](https://github.com/MohamedElashri/snipo/pull/331) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/07/2026 opened PR [#331](https://github.com/MohamedElashri/snipo/pull/331) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/07/2026 assigned PR [#331](https://github.com/MohamedElashri/snipo/pull/331) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 19/07/2026 commented on issue [#330](https://github.com/MohamedElashri/snipo/issues/330) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "docs: clarify Snipo Argon2 hash format and Docker Compose escaping"
 <!-- ACTIVITY:END -->
 
 ---
