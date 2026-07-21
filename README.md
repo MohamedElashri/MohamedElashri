@@ -37,12 +37,9 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
