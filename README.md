@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 21/07/2026 commented on issue [#332](https://github.com/MohamedElashri/snipo/issues/332) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Deleting a synced snippet does not delete the corresponding GitHub Gist"
+- 21/07/2026 merged PR [#333](https://github.com/MohamedElashri/snipo/pull/333) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 19/07/2026 commented on issue [#332](https://github.com/MohamedElashri/snipo/issues/332) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Deleting a synced snippet does not delete the corresponding GitHub Gist"
 - 19/07/2026 labeled PR [#333](https://github.com/MohamedElashri/snipo/pull/333) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 19/07/2026 labeled PR [#333](https://github.com/MohamedElashri/snipo/pull/333) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 19/07/2026 opened PR [#333](https://github.com/MohamedElashri/snipo/pull/333) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 19/07/2026 assigned PR [#333](https://github.com/MohamedElashri/snipo/pull/333) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
