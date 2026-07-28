@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 28/07/2026 merged PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 27/07/2026 labeled PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 27/07/2026 opened PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 27/07/2026 assigned PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 26/07/2026 commented on issue [#337](https://github.com/MohamedElashri/snipo/issues/337) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31"
-- 26/07/2026 commented on issue [#338](https://github.com/MohamedElashri/snipo/issues/338) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.105.2 to 1.1..."
 <!-- ACTIVITY:END -->
 
 ---
