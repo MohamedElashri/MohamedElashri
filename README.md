@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 28/07/2026 merged PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/07/2026 labeled PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/07/2026 opened PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 27/07/2026 assigned PR [#341](https://github.com/MohamedElashri/snipo/pull/341) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 26/07/2026 commented on issue [#337](https://github.com/MohamedElashri/snipo/issues/337) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31"
+- 30/07/2026 merged PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 30/07/2026 opened PR [#26308](https://github.com/ggml-org/llama.cpp/pull/26308) in [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+- 30/07/2026 labeled PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 30/07/2026 opened PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
+- 30/07/2026 assigned PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 <!-- ACTIVITY:END -->
 
 ---
