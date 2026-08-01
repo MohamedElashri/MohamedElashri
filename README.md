@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 01/08/2026 opened PR [#33147](https://github.com/sgl-project/sglang/pull/33147) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+- 31/07/2026 commented on issue [#20865](https://github.com/sgl-project/sglang/issues/20865) in [sgl-project/sglang](https://github.com/sgl-project/sglang) - "[Feature] Improve Unit Test Coverage"
 - 31/07/2026 commented on issue [#26308](https://github.com/ggml-org/llama.cpp/issues/26308) in [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - "cuda: support row-contiguous SUM_ROWS"
 - 30/07/2026 merged PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 - 30/07/2026 opened PR [#26308](https://github.com/ggml-org/llama.cpp/pull/26308) in [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-- 30/07/2026 labeled PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
-- 30/07/2026 opened PR [#25](https://github.com/MohamedElashri/cerngitlab-mcp/pull/25) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp)
 <!-- ACTIVITY:END -->
 
 ---
