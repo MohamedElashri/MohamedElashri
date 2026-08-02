@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 01/08/2026 merged PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 01/08/2026 labeled PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 01/08/2026 opened PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 01/08/2026 assigned PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 - 01/08/2026 commented on issue [#31477](https://github.com/microsoft/onnxruntime/issues/31477) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - "[CUDA] Fix Abs signed zero handling"
-- 01/08/2026 opened PR [#31477](https://github.com/microsoft/onnxruntime/pull/31477) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-- 01/08/2026 commented on issue [#21](https://github.com/MohamedElashri/root-mcp/issues/21) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp) - "chore(deps): update mcp requirement from <2.0.0,>=1.8.0 to >=1.8.0,<3.0.0 in ..."
-- 01/08/2026 commented on issue [#21](https://github.com/MohamedElashri/root-mcp/issues/21) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp) - "chore(deps): update mcp requirement from <2.0.0,>=1.8.0 to >=1.8.0,<3.0.0 in ..."
-- 01/08/2026 merged PR [#19](https://github.com/MohamedElashri/root-mcp/pull/19) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
