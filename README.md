@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 01/08/2026 merged PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 01/08/2026 labeled PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 01/08/2026 opened PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 01/08/2026 assigned PR [#30](https://github.com/MohamedElashri/nida/pull/30) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 01/08/2026 commented on issue [#31477](https://github.com/microsoft/onnxruntime/issues/31477) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - "[CUDA] Fix Abs signed zero handling"
+- 02/08/2026 commented on issue [#332](https://github.com/MohamedElashri/snipo/issues/332) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Deleting a synced snippet does not delete the corresponding GitHub Gist"
+- 02/08/2026 closed issue [#332](https://github.com/MohamedElashri/snipo/issues/332) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "Deleting a synced snippet does not delete the corresponding GitHub Gist"
+- 02/08/2026 commented on issue [#346](https://github.com/MohamedElashri/snipo/issues/346) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.30 to 1...."
+- 02/08/2026 commented on issue [#347](https://github.com/MohamedElashri/snipo/issues/347) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.31 to 1.32.33"
+- 02/08/2026 assigned PR [#348](https://github.com/MohamedElashri/snipo/pull/348) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
