@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 05/08/2026 assigned PR [#5](https://github.com/MohamedElashri/pi-mcb/pull/5) in [MohamedElashri/pi-mcb](https://github.com/MohamedElashri/pi-mcb)
 - 02/08/2026 merged PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 - 02/08/2026 merged PR [#31](https://github.com/MohamedElashri/nida/pull/31) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 - 02/08/2026 labeled PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 - 02/08/2026 opened PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 02/08/2026 assigned PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 <!-- ACTIVITY:END -->
 
 ---
