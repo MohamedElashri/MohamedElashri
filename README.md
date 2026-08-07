@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 07/08/2026 commented on issue [#16](https://github.com/MohamedElashri/DevTab/issues/16) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump stefanzweifel/git-auto-commit-action from 6.0.1 to 7.1.0"
+- 07/08/2026 commented on issue [#18](https://github.com/MohamedElashri/DevTab/issues/18) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump actions/setup-node from 4.4.0 to 6.4.0"
+- 07/08/2026 commented on issue [#21](https://github.com/MohamedElashri/DevTab/issues/21) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump actions/checkout from 4.3.1 to 6.0.3"
 - 05/08/2026 assigned PR [#5](https://github.com/MohamedElashri/pi-mcb/pull/5) in [MohamedElashri/pi-mcb](https://github.com/MohamedElashri/pi-mcb)
 - 02/08/2026 merged PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 02/08/2026 merged PR [#31](https://github.com/MohamedElashri/nida/pull/31) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 02/08/2026 labeled PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
-- 02/08/2026 opened PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
 <!-- ACTIVITY:END -->
 
 ---
