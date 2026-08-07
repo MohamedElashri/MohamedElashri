@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 07/08/2026 commented on issue [#16](https://github.com/MohamedElashri/DevTab/issues/16) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump stefanzweifel/git-auto-commit-action from 6.0.1 to 7.1.0"
-- 07/08/2026 commented on issue [#18](https://github.com/MohamedElashri/DevTab/issues/18) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump actions/setup-node from 4.4.0 to 6.4.0"
-- 07/08/2026 commented on issue [#21](https://github.com/MohamedElashri/DevTab/issues/21) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump actions/checkout from 4.3.1 to 6.0.3"
-- 05/08/2026 assigned PR [#5](https://github.com/MohamedElashri/pi-mcb/pull/5) in [MohamedElashri/pi-mcb](https://github.com/MohamedElashri/pi-mcb)
-- 02/08/2026 merged PR [#32](https://github.com/MohamedElashri/nida/pull/32) in [MohamedElashri/nida](https://github.com/MohamedElashri/nida)
+- 07/08/2026 commented on issue [#12](https://github.com/MohamedElashri/DevTab/issues/12) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump react-router-dom from 6.30.4 to 7.18.2"
+- 07/08/2026 commented on issue [#13](https://github.com/MohamedElashri/DevTab/issues/13) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @vitejs/plugin-react from 6.0.1 to 6.0.2"
+- 07/08/2026 commented on issue [#13](https://github.com/MohamedElashri/DevTab/issues/13) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @vitejs/plugin-react from 6.0.1 to 6.0.2"
+- 07/08/2026 commented on issue [#20](https://github.com/MohamedElashri/DevTab/issues/20) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @types/react from 19.2.14 to 19.2.15"
+- 07/08/2026 commented on issue [#17](https://github.com/MohamedElashri/DevTab/issues/17) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump anothrNick/github-tag-action from 1.67.0 to 1.75.0"
 <!-- ACTIVITY:END -->
 
 ---
