@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 09/08/2026 merged PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 labeled PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 opened PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 assigned PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 07/08/2026 commented on issue [#12](https://github.com/MohamedElashri/DevTab/issues/12) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump react-router-dom from 6.30.4 to 7.18.2"
-- 07/08/2026 commented on issue [#13](https://github.com/MohamedElashri/DevTab/issues/13) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @vitejs/plugin-react from 6.0.1 to 6.0.2"
-- 07/08/2026 commented on issue [#13](https://github.com/MohamedElashri/DevTab/issues/13) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @vitejs/plugin-react from 6.0.1 to 6.0.2"
-- 07/08/2026 commented on issue [#20](https://github.com/MohamedElashri/DevTab/issues/20) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps-dev): bump @types/react from 19.2.14 to 19.2.15"
-- 07/08/2026 commented on issue [#17](https://github.com/MohamedElashri/DevTab/issues/17) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump anothrNick/github-tag-action from 1.67.0 to 1.75.0"
 <!-- ACTIVITY:END -->
 
 ---
