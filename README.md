@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 09/08/2026 merged PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 labeled PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 opened PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 09/08/2026 assigned PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/08/2026 merged PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/08/2026 labeled PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/08/2026 opened PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 09/08/2026 assigned PR [#354](https://github.com/MohamedElashri/snipo/pull/354) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 07/08/2026 commented on issue [#12](https://github.com/MohamedElashri/DevTab/issues/12) in [MohamedElashri/DevTab](https://github.com/MohamedElashri/DevTab) - "chore(deps): bump react-router-dom from 6.30.4 to 7.18.2"
 <!-- ACTIVITY:END -->
 
 ---
