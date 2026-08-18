@@ -60,7 +60,7 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 17/08/2026 commented on issue [#358](https://github.com/MohamedElashri/snipo/issues/358) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.35 to 1.32.36"
+- 17/08/2026 commented on issue [#358](https://github.com/MohamedElashri/snipo/issues/358) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo) - "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.35 to 1.32.37"
 - 14/08/2026 merged PR [#31477](https://github.com/microsoft/onnxruntime/pull/31477) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 - 09/08/2026 merged PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 - 09/08/2026 labeled PR [#355](https://github.com/MohamedElashri/snipo/pull/355) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
