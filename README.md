@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 24/08/2026 merged PR [#370](https://github.com/MohamedElashri/snipo/pull/370) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/08/2026 labeled PR [#370](https://github.com/MohamedElashri/snipo/pull/370) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/08/2026 opened PR [#370](https://github.com/MohamedElashri/snipo/pull/370) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/08/2026 assigned PR [#370](https://github.com/MohamedElashri/snipo/pull/370) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
-- 24/08/2026 merged PR [#369](https://github.com/MohamedElashri/snipo/pull/369) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 21/08/2026 assigned PR [#22](https://github.com/MohamedElashri/root-mcp/pull/22) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
+- 25/08/2026 merged PR [#27](https://github.com/MohamedElashri/inspirehep-mcp/pull/27) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 25/08/2026 opened PR [#27](https://github.com/MohamedElashri/inspirehep-mcp/pull/27) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 25/08/2026 assigned PR [#27](https://github.com/MohamedElashri/inspirehep-mcp/pull/27) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 25/08/2026 merged PR [#23](https://github.com/MohamedElashri/root-mcp/pull/23) in [MohamedElashri/root-mcp](https://github.com/MohamedElashri/root-mcp)
 <!-- ACTIVITY:END -->
 
 ---
