@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 28/08/2026 commented PR [#26308](https://github.com/ggml-org/llama.cpp/pull/26308) in [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-- 28/08/2026 commented on PR [#26308](https://github.com/ggml-org/llama.cpp/pull/26308) in [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-- 26/08/2026 commented on issue [#26](https://github.com/MohamedElashri/cerngitlab-mcp/issues/26) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "chore(deps): bump pypa/gh-action-pypi-publish from 1.14.0 to 1.14.2"
-- 26/08/2026 commented on issue [#27](https://github.com/MohamedElashri/cerngitlab-mcp/issues/27) in [MohamedElashri/cerngitlab-mcp](https://github.com/MohamedElashri/cerngitlab-mcp) - "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.1"
-- 26/08/2026 closed PR [#59](https://github.com/MohamedElashri/awesome-zotero/pull/59) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 28/08/2026 merged PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 28/08/2026 labeled PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 28/08/2026 opened PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 28/08/2026 assigned PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
+- 28/08/2026 merged PR [#371](https://github.com/MohamedElashri/snipo/pull/371) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
 <!-- ACTIVITY:END -->
 
 ---
