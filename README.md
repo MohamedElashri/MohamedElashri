@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
+- 31/08/2026 commented on issue [#23](https://github.com/MohamedElashri/sanad/issues/23) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad) - "chore: update flake for v0.3.4"
+- 30/08/2026 assigned PR [#60](https://github.com/MohamedElashri/awesome-zotero/pull/60) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 31/08/2026 commented on issue [#62](https://github.com/MohamedElashri/awesome-zotero/issues/62) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add zotero-syllabus plugin to Productivity section"
 - 31/08/2026 labeled PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
 - 31/08/2026 merged PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 31/08/2026 assigned PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 31/08/2026 opened PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 31/08/2026 commented on issue [#59](https://github.com/MohamedElashri/awesome-zotero/issues/59) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add zotero-syllabus plugin to Productivity section"
 <!-- ACTIVITY:END -->
 
 ---
