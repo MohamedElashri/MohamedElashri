@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 28/08/2026 merged PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 28/08/2026 labeled PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 28/08/2026 opened PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 28/08/2026 assigned PR [#28](https://github.com/MohamedElashri/inspirehep-mcp/pull/28) in [MohamedElashri/inspirehep-mcp](https://github.com/MohamedElashri/inspirehep-mcp)
-- 28/08/2026 merged PR [#371](https://github.com/MohamedElashri/snipo/pull/371) in [MohamedElashri/snipo](https://github.com/MohamedElashri/snipo)
+- 31/08/2026 labeled PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 31/08/2026 merged PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 31/08/2026 assigned PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 31/08/2026 opened PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 31/08/2026 commented on issue [#59](https://github.com/MohamedElashri/awesome-zotero/issues/59) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add zotero-syllabus plugin to Productivity section"
 <!-- ACTIVITY:END -->
 
 ---
