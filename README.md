@@ -60,11 +60,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 
 ### 📌 Latest GitHub Activity
 <!-- ACTIVITY:START -->
-- 31/08/2026 commented on issue [#23](https://github.com/MohamedElashri/sanad/issues/23) in [MohamedElashri/sanad](https://github.com/MohamedElashri/sanad) - "chore: update flake for v0.3.4"
-- 30/08/2026 assigned PR [#60](https://github.com/MohamedElashri/awesome-zotero/pull/60) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 31/08/2026 commented on issue [#62](https://github.com/MohamedElashri/awesome-zotero/issues/62) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) - "Add zotero-syllabus plugin to Productivity section"
-- 31/08/2026 labeled PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
-- 31/08/2026 merged PR [#61](https://github.com/MohamedElashri/awesome-zotero/pull/61) in [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero)
+- 05/08/2026 closed PR [#13](https://github.com/MohamedElashri/lhcb-marketplace/pull/13) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 01/09/2026 closed PR [#14](https://github.com/MohamedElashri/lhcb-marketplace/pull/14) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
+- 01/09/2026 commented on issue [#14](https://github.com/MohamedElashri/lhcb-marketplace/issues/14) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Bump astral-sh/setup-uv from 8.1.0 to 10.0.1"
+- 01/09/2026 labeled issue [#4](https://github.com/MohamedElashri/lhcb-marketplace/issues/4) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Restore anonymous CDS record search compatibility"
+- 01/09/2026 commented on issue [#4](https://github.com/MohamedElashri/lhcb-marketplace/issues/4) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Restore anonymous CDS record search compatibility"
 <!-- ACTIVITY:END -->
 
 ---
