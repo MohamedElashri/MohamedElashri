@@ -1,76 +1,29 @@
-### Hi there 👋
+### Hi there
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MohamedElashri&style=flat-square" alt="Profile views" />
 </p>
 
-I’m a **Particle Physicist** conducting research as part of the **[LHCb](https://home.cern/science/experiments/lhcb)** experiment at CERN. I’m passionate about exploring the fundamental nature of matter and applying **Machine Learning** techniques to solve complex problems in High Energy Physics.
+I am a particle physicist and scientific software developer working with the [LHCb experiment at CERN](https://home.cern/science/experiments/lhcb). My work combines particle-physics data analysis with C++, CUDA, Python, machine learning, and GPU-accelerated computing.
 
+Beyond my research, I build and contribute to open-source software around scientific computing, ML/AI tooling, developer tools, and research infrastructure.
 
+- Working on GPU reconstruction and real-time processing for LHCb
+- Building scientific and AI tooling in C++, Python, Go, and CUDA
+- Interested in ML systems, GPU programming, Linux, and open-source software
 
-<p align="center">
-  <a href="https://melashri.net/">
-    <img src="https://img.shields.io/badge/Website-melashri.net-blue?logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/elashri">
-    <img src="https://img.shields.io/badge/LinkedIn-elashri-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://keybase.io/melashri">
-    <img src="https://img.shields.io/badge/Keybase-melashri-orange?logo=keybase&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Mohamed Elashri-blue?logo=google-scholar" alt="Google Scholar"/>
-  </a>
+[Website](https://melashri.net/) | [LinkedIn](https://linkedin.com/in/elashri) | [Google Scholar](https://scholar.google.com/citations?user=XtPg3SIAAAAJ&hl=en) | [Keybase](https://keybase.io/melashri)
 
-</p>
-
-
-
-- 🔭 Currently working at CERN with the [LHCb](https://home.cern/science/experiments/lhcb) Collaboration  
-- 🌱 Learning more about **Machine Learning**  
-- 👯 Open to collaborations on **Machine Learning applications in High Energy Physics**  
-- 💬 Ask me about **Particle Physics, Machine Learning, and Self-hosting**  
-
-
-
-
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
-</div>
+**C++ · CUDA · Python · Go · PyTorch · ROOT · Linux**
 
 ---
 
-### 📌 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+### Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 - [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 - [Running abogen audio generation on ROCm](https://blog.melashri.net/posts/rocm-abogen/)
 - [The job market has a matching problem](https://blog.melashri.net/posts/job-market-matching-problem/)
 - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
 - [Why C++ Talks About Resources Instead of Memory?](https://blog.melashri.net/posts/bjarne-talk/)
-
 <!-- BLOG-POST-LIST:END -->
-
-### 📌 Latest GitHub Activity
-<!-- ACTIVITY:START -->
-- 05/08/2026 closed PR [#13](https://github.com/MohamedElashri/lhcb-marketplace/pull/13) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
-- 01/09/2026 closed PR [#14](https://github.com/MohamedElashri/lhcb-marketplace/pull/14) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace)
-- 01/09/2026 commented on issue [#14](https://github.com/MohamedElashri/lhcb-marketplace/issues/14) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Bump astral-sh/setup-uv from 8.1.0 to 10.0.1"
-- 01/09/2026 labeled issue [#4](https://github.com/MohamedElashri/lhcb-marketplace/issues/4) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Restore anonymous CDS record search compatibility"
-- 01/09/2026 commented on issue [#4](https://github.com/MohamedElashri/lhcb-marketplace/issues/4) in [MohamedElashri/lhcb-marketplace](https://github.com/MohamedElashri/lhcb-marketplace) - "Restore anonymous CDS record search compatibility"
-<!-- ACTIVITY:END -->
-
----
-
-> ⚠️ **Important Notice**  
-> Please read any code before running it. Understand its functionality and ensure it aligns with your expectations and environment. Your use of any code here is at your own risk.
-
----
-
