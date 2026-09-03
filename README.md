@@ -50,11 +50,11 @@ I’m a **Particle Physicist** conducting research as part of the **[LHCb](https
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 - [Running abogen audio generation on ROCm](https://blog.melashri.net/posts/rocm-abogen/)
 - [The job market has a matching problem](https://blog.melashri.net/posts/job-market-matching-problem/)
 - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
 - [Why C++ Talks About Resources Instead of Memory?](https://blog.melashri.net/posts/bjarne-talk/)
-- [Installing GitHub CLI Without Root](https://blog.melashri.net/micro/gh-no-root/)
 
 <!-- BLOG-POST-LIST:END -->
 
