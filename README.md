@@ -22,10 +22,10 @@ Beyond my research, I build and contribute to open-source software around scient
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Unified Arabic solved a machine problem](https://blog.melashri.net/posts/unified-arabic-machine-problem/)
 - [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 - [Running abogen audio generation on ROCm](https://blog.melashri.net/posts/rocm-abogen/)
 - [The job market has a matching problem](https://blog.melashri.net/posts/job-market-matching-problem/)
 - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
-- [Why C++ Talks About Resources Instead of Memory?](https://blog.melashri.net/posts/bjarne-talk/)
 
 <!-- BLOG-POST-LIST:END -->
