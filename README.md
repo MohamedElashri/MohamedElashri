@@ -22,10 +22,10 @@ Beyond my research, I build and contribute to open-source software around scient
 
 <!-- BLOG-POST-LIST:START -->
 
+- [OpenSSH 10.3 to 10.6: what actually changes for you](https://blog.melashri.net/posts/openssh_106/)
 - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
 - [Unified Arabic solved a machine problem](https://blog.melashri.net/posts/unified-arabic-machine-problem/)
 - [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 - [Running abogen audio generation on ROCm](https://blog.melashri.net/posts/rocm-abogen/)
-- [The job market has a matching problem](https://blog.melashri.net/posts/job-market-matching-problem/)
 
 <!-- BLOG-POST-LIST:END -->
