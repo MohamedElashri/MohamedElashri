@@ -22,10 +22,10 @@ Beyond my research, I build and contribute to open-source software around scient
 
 <!-- BLOG-POST-LIST:START -->
 
+- [The password you set while debugging](https://blog.melashri.net/micro/weak-passwords/)
 - [Moving my passwords off Vaultwarden before I have to](https://blog.melashri.net/posts/bitwarden-fiasco/)
 - [OpenSSH 10.3 to 10.6: what actually changes for you](https://blog.melashri.net/posts/openssh_106/)
 - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
 - [Unified Arabic solved a machine problem](https://blog.melashri.net/posts/unified-arabic-machine-problem/)
-- [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 
 <!-- BLOG-POST-LIST:END -->
